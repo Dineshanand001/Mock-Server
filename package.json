@@ -1,0 +1,25 @@
+{
+  "name": "Mock-Server",
+  "version": "1.0.0",
+  "description": "This is mock server for angular project",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Dineshanand001/Mock-Server.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Dineshanand001/Mock-Server/issues"
+  },
+  "homepage": "https://github.com/Dineshanand001/Mock-Server#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "nodemon": "^2.0.6"
+  }
+}
