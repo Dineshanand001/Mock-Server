@@ -1,0 +1,200 @@
+{"PFLiteBatch": [
+    {
+        "PerformanceParameterID": 719,
+        "CurrencyUnit": 55,
+        "AccountID": 97498,
+        "PaymentGridID": 392,
+        "BatchID": 557,
+        "WeightUnit": 9,
+        "CreateUser": {"xsi:nil": true},
+        "Yield": 0.75,
+        "BatchDate": "2015-09-01T00:00:00"
+    },
+    {
+        "PerformanceParameterID": 720,
+        "CurrencyUnit": 55,
+        "AccountID": 97498,
+        "PaymentGridID": 393,
+        "BatchID": 558,
+        "WeightUnit": 9,
+        "CreateUser": {"xsi:nil": true},
+        "Yield": 1,
+        "BatchDate": "2015-09-01T00:00:00"
+    },
+    {
+        "PerformanceParameterID": 720,
+        "CurrencyUnit": 55,
+        "AccountID": 97498,
+        "PaymentGridID": 393,
+        "BatchID": 559,
+        "WeightUnit": 9,
+        "CreateUser": {"xsi:nil": true},
+        "Yield": 1,
+        "BatchDate": "2015-10-01T00:00:00"
+    },
+    {
+        "PerformanceParameterID": 720,
+        "CurrencyUnit": 55,
+        "AccountID": 97498,
+        "PaymentGridID": 393,
+        "BatchID": 560,
+        "WeightUnit": 9,
+        "CreateUser": {"xsi:nil": true},
+        "Yield": 1,
+        "BatchDate": "2015-11-01T00:00:00"
+    },
+    {
+        "PerformanceParameterID": 720,
+        "CurrencyUnit": 55,
+        "AccountID": 97498,
+        "PaymentGridID": 393,
+        "BatchID": 561,
+        "WeightUnit": 9,
+        "CreateUser": {"xsi:nil": true},
+        "Yield": 1,
+        "BatchDate": "2015-12-01T00:00:00"
+    },
+    {
+        "PerformanceParameterID": 720,
+        "CurrencyUnit": 55,
+        "AccountID": 97498,
+        "PaymentGridID": 393,
+        "BatchID": 562,
+        "WeightUnit": 9,
+        "CreateUser": {"xsi:nil": true},
+        "Yield": 1,
+        "BatchDate": "2015-08-01T00:00:00"
+    },
+    {
+        "PerformanceParameterID": 722,
+        "CurrencyUnit": 55,
+        "AccountID": 97498,
+        "PaymentGridID": 393,
+        "BatchID": 563,
+        "WeightUnit": 9,
+        "CreateUser": {"xsi:nil": true},
+        "Yield": 1,
+        "BatchDate": "2015-07-01T00:00:00"
+    },
+    {
+        "PerformanceParameterID": 893,
+        "CurrencyUnit": 55,
+        "AccountID": 97498,
+        "PaymentGridID": 466,
+        "BatchID": 727,
+        "WeightUnit": 9,
+        "CreateUser": {"xsi:nil": true},
+        "Yield": 1,
+        "BatchDate": "2017-01-01T00:00:00"
+    },
+    {
+        "PerformanceParameterID": 893,
+        "CurrencyUnit": 55,
+        "AccountID": 97498,
+        "PaymentGridID": 479,
+        "BatchID": 740,
+        "WeightUnit": 9,
+        "CreateUser": {"xsi:nil": true},
+        "Yield": 0.71,
+        "BatchDate": "2017-01-01T00:00:00"
+    },
+    {
+        "PerformanceParameterID": 893,
+        "CurrencyUnit": 55,
+        "AccountID": 97498,
+        "PaymentGridID": 481,
+        "BatchID": 741,
+        "WeightUnit": 9,
+        "CreateUser": {"xsi:nil": true},
+        "Yield": 1,
+        "BatchDate": "2017-01-01T00:00:00"
+    },
+    {
+        "PerformanceParameterID": 893,
+        "CurrencyUnit": 55,
+        "AccountID": 97498,
+        "PaymentGridID": 482,
+        "BatchID": 742,
+        "WeightUnit": 9,
+        "CreateUser": {"xsi:nil": true},
+        "Yield": 1,
+        "BatchDate": "2017-01-01T00:00:00"
+    },
+    {
+        "PerformanceParameterID": 921,
+        "CurrencyUnit": 55,
+        "AccountID": 97498,
+        "PaymentGridID": 483,
+        "BatchID": 743,
+        "WeightUnit": 9,
+        "CreateUser": {"xsi:nil": true},
+        "Yield": 0.89512,
+        "BatchDate": "2017-01-01T00:00:00"
+    },
+    {
+        "PerformanceParameterID": 921,
+        "CurrencyUnit": 55,
+        "AccountID": 97498,
+        "PaymentGridID": 483,
+        "BatchID": 744,
+        "WeightUnit": 9,
+        "CreateUser": {"xsi:nil": true},
+        "Yield": 0.89512,
+        "BatchDate": "2017-02-01T00:00:00"
+    },
+    {
+        "PerformanceParameterID": 921,
+        "CurrencyUnit": 55,
+        "AccountID": 97498,
+        "PaymentGridID": 484,
+        "BatchID": 745,
+        "WeightUnit": 9,
+        "CreateUser": {"xsi:nil": true},
+        "Yield": 0.786,
+        "BatchDate": "2017-01-01T00:00:00"
+    },
+    {
+        "PerformanceParameterID": 893,
+        "CurrencyUnit": 55,
+        "AccountID": 97498,
+        "PaymentGridID": 482,
+        "BatchID": 748,
+        "WeightUnit": 9,
+        "CreateUser": {"xsi:nil": true},
+        "Yield": 1,
+        "BatchDate": "2016-01-01T00:00:00"
+    },
+    {
+        "PerformanceParameterID": 893,
+        "CurrencyUnit": 55,
+        "AccountID": 97498,
+        "PaymentGridID": 484,
+        "BatchID": 754,
+        "WeightUnit": 9,
+        "CreateUser": {"xsi:nil": true},
+        "Yield": 0.99,
+        "BatchDate": "2015-07-01T00:00:00"
+    },
+    {
+        "PerformanceParameterID": 893,
+        "CurrencyUnit": 55,
+        "AccountID": 97498,
+        "PaymentGridID": 484,
+        "BatchID": 755,
+        "WeightUnit": 9,
+        "CreateUser": {"xsi:nil": true},
+        "Yield": 0.78675,
+        "BatchDate": "2015-08-01T00:00:00"
+    },
+    {
+        "PerformanceParameterID": 893,
+        "CurrencyUnit": 55,
+        "AccountID": 97498,
+        "PaymentGridID": 484,
+        "BatchID": 756,
+        "WeightUnit": 9,
+        "CreateUser": {"xsi:nil": true},
+        "Yield": 0.7867,
+        "BatchDate": "2015-09-01T00:00:00"
+    }
+]}

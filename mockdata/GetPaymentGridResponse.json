@@ -1,0 +1,419 @@
+{
+    "GridItems": {"PaymentGridItem": [
+        {
+            "Coord": {
+                "Col": 1,
+                "Row": 1
+            },
+            "Column": {
+                "Min": 0,
+                "Max": 160,
+                "MaxDisp": 159,
+                "Name": ""
+            },
+            "Value": -7,
+            "Row": {
+                "Min": 0,
+                "Max": 0,
+                "MaxDisp": "",
+                "Name": ""
+            },
+            "Border": {
+                "Left": true,
+                "Top": true,
+                "Right": false,
+                "Bottom": true
+            },
+            "GridType": "ValuePerWeight",
+            "VectorID": 7
+        },
+        {
+            "Coord": {
+                "Col": 2,
+                "Row": 1
+            },
+            "Column": {
+                "Min": 160,
+                "Max": 167,
+                "MaxDisp": 166,
+                "Name": ""
+            },
+            "Value": -3,
+            "Row": {
+                "Min": 0,
+                "Max": 0,
+                "MaxDisp": "",
+                "Name": ""
+            },
+            "Border": {
+                "Left": false,
+                "Top": true,
+                "Right": false,
+                "Bottom": true
+            },
+            "GridType": "ValuePerWeight",
+            "VectorID": 7
+        },
+        {
+            "Coord": {
+                "Col": 3,
+                "Row": 1
+            },
+            "Column": {
+                "Min": 167,
+                "Max": 174,
+                "MaxDisp": 173,
+                "Name": ""
+            },
+            "Value": -1.5,
+            "Row": {
+                "Min": 0,
+                "Max": 0,
+                "MaxDisp": "",
+                "Name": ""
+            },
+            "Border": {
+                "Left": false,
+                "Top": true,
+                "Right": false,
+                "Bottom": true
+            },
+            "GridType": "ValuePerWeight",
+            "VectorID": 7
+        },
+        {
+            "Coord": {
+                "Col": 4,
+                "Row": 1
+            },
+            "Column": {
+                "Min": 174,
+                "Max": 181,
+                "MaxDisp": 180,
+                "Name": ""
+            },
+            "Value": 0,
+            "Row": {
+                "Min": 0,
+                "Max": 0,
+                "MaxDisp": "",
+                "Name": ""
+            },
+            "Border": {
+                "Left": true,
+                "Top": true,
+                "Right": false,
+                "Bottom": true
+            },
+            "GridType": "ValuePerWeight",
+            "VectorID": 8
+        },
+        {
+            "Coord": {
+                "Col": 5,
+                "Row": 1
+            },
+            "Column": {
+                "Min": 181,
+                "Max": 188,
+                "MaxDisp": 187,
+                "Name": ""
+            },
+            "Value": 0,
+            "Row": {
+                "Min": 0,
+                "Max": 0,
+                "MaxDisp": "",
+                "Name": ""
+            },
+            "Border": {
+                "Left": false,
+                "Top": true,
+                "Right": false,
+                "Bottom": true
+            },
+            "GridType": "ValuePerWeight",
+            "VectorID": 8
+        },
+        {
+            "Coord": {
+                "Col": 6,
+                "Row": 1
+            },
+            "Column": {
+                "Min": 188,
+                "Max": 195,
+                "MaxDisp": 194,
+                "Name": ""
+            },
+            "Value": 0,
+            "Row": {
+                "Min": 0,
+                "Max": 0,
+                "MaxDisp": "",
+                "Name": ""
+            },
+            "Border": {
+                "Left": false,
+                "Top": true,
+                "Right": false,
+                "Bottom": true
+            },
+            "GridType": "ValuePerWeight",
+            "VectorID": 8
+        },
+        {
+            "Coord": {
+                "Col": 7,
+                "Row": 1
+            },
+            "Column": {
+                "Min": 195,
+                "Max": 202,
+                "MaxDisp": 201,
+                "Name": ""
+            },
+            "Value": 0,
+            "Row": {
+                "Min": 0,
+                "Max": 0,
+                "MaxDisp": "",
+                "Name": ""
+            },
+            "Border": {
+                "Left": false,
+                "Top": true,
+                "Right": false,
+                "Bottom": true
+            },
+            "GridType": "ValuePerWeight",
+            "VectorID": 8
+        },
+        {
+            "Coord": {
+                "Col": 8,
+                "Row": 1
+            },
+            "Column": {
+                "Min": 202,
+                "Max": 209,
+                "MaxDisp": 208,
+                "Name": ""
+            },
+            "Value": 0,
+            "Row": {
+                "Min": 0,
+                "Max": 0,
+                "MaxDisp": "",
+                "Name": ""
+            },
+            "Border": {
+                "Left": false,
+                "Top": true,
+                "Right": false,
+                "Bottom": true
+            },
+            "GridType": "ValuePerWeight",
+            "VectorID": 8
+        },
+        {
+            "Coord": {
+                "Col": 9,
+                "Row": 1
+            },
+            "Column": {
+                "Min": 209,
+                "Max": 216,
+                "MaxDisp": 215,
+                "Name": ""
+            },
+            "Value": 0,
+            "Row": {
+                "Min": 0,
+                "Max": 0,
+                "MaxDisp": "",
+                "Name": ""
+            },
+            "Border": {
+                "Left": false,
+                "Top": true,
+                "Right": false,
+                "Bottom": true
+            },
+            "GridType": "ValuePerWeight",
+            "VectorID": 8
+        },
+        {
+            "Coord": {
+                "Col": 10,
+                "Row": 1
+            },
+            "Column": {
+                "Min": 216,
+                "Max": 223,
+                "MaxDisp": 222,
+                "Name": ""
+            },
+            "Value": 0,
+            "Row": {
+                "Min": 0,
+                "Max": 0,
+                "MaxDisp": "",
+                "Name": ""
+            },
+            "Border": {
+                "Left": false,
+                "Top": true,
+                "Right": false,
+                "Bottom": true
+            },
+            "GridType": "ValuePerWeight",
+            "VectorID": 8
+        },
+        {
+            "Coord": {
+                "Col": 11,
+                "Row": 1
+            },
+            "Column": {
+                "Min": 223,
+                "Max": 230,
+                "MaxDisp": 229,
+                "Name": ""
+            },
+            "Value": 0,
+            "Row": {
+                "Min": 0,
+                "Max": 0,
+                "MaxDisp": "",
+                "Name": ""
+            },
+            "Border": {
+                "Left": false,
+                "Top": true,
+                "Right": false,
+                "Bottom": true
+            },
+            "GridType": "ValuePerWeight",
+            "VectorID": 8
+        },
+        {
+            "Coord": {
+                "Col": 12,
+                "Row": 1
+            },
+            "Column": {
+                "Min": 230,
+                "Max": 237,
+                "MaxDisp": 236,
+                "Name": ""
+            },
+            "Value": 0,
+            "Row": {
+                "Min": 0,
+                "Max": 0,
+                "MaxDisp": "",
+                "Name": ""
+            },
+            "Border": {
+                "Left": false,
+                "Top": true,
+                "Right": false,
+                "Bottom": true
+            },
+            "GridType": "ValuePerWeight",
+            "VectorID": 8
+        },
+        {
+            "Coord": {
+                "Col": 13,
+                "Row": 1
+            },
+            "Column": {
+                "Min": 237,
+                "Max": 244,
+                "MaxDisp": 243,
+                "Name": ""
+            },
+            "Value": -3,
+            "Row": {
+                "Min": 0,
+                "Max": 0,
+                "MaxDisp": "",
+                "Name": ""
+            },
+            "Border": {
+                "Left": true,
+                "Top": true,
+                "Right": false,
+                "Bottom": true
+            },
+            "GridType": "ValuePerWeight",
+            "VectorID": 9
+        },
+        {
+            "Coord": {
+                "Col": 14,
+                "Row": 1
+            },
+            "Column": {
+                "Min": 244,
+                "Max": 1000,
+                "MaxDisp": 1000,
+                "Name": ""
+            },
+            "Value": -7,
+            "Row": {
+                "Min": 0,
+                "Max": 0,
+                "MaxDisp": "",
+                "Name": ""
+            },
+            "Border": {
+                "Left": false,
+                "Top": true,
+                "Right": true,
+                "Bottom": true
+            },
+            "GridType": "ValuePerWeight",
+            "VectorID": 9
+        }
+    ]},
+    "VectorList": {"GridVector": [
+        {
+            "VectorName": "Light wt/right lean",
+            "HtmlColor": "#F2BE1B",
+            "SummaryIndex": 0,
+            "VectorIndex": 1,
+            "VectorID": 7
+        },
+        {
+            "VectorName": "Right wt/right lean",
+            "HtmlColor": "#45552C",
+            "SummaryIndex": 1,
+            "VectorIndex": 2,
+            "VectorID": 8
+        },
+        {
+            "VectorName": "Heavy wt/right lean",
+            "HtmlColor": "#752D2D",
+            "SummaryIndex": 2,
+            "VectorIndex": 3,
+            "VectorID": 9
+        }
+    ]},
+    "PaymentGrid": {
+        "PaymentGridName": "Hormel Custom",
+        "PaymentGridID": 7,
+        "PackerName": {
+            "Code": "HML",
+            "Name": "Hormel"
+        },
+        "PaymentType": {
+            "WeightType": "CarcassWeight",
+            "QualityGradeType": "None",
+            "GridType": "ValuePerWeight"
+        },
+        "IsAdvanced": false
+    }
+}

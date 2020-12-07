@@ -1,0 +1,16 @@
+{"FVPPacker": [
+    {
+        "MarketContract": "",
+        "Packer": {
+            "Code": "HML",
+            "Name": "Hormel"
+        }
+    },
+    {
+        "MarketContract": "",
+        "Packer": {
+            "Code": "Tyson",
+            "Name": "Tyson"
+        }
+    }
+]}

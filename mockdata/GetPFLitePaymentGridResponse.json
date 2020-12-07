@@ -1,0 +1,38 @@
+{"PFLitePaymentGrid": [
+    {
+        "AccountID": 97498,
+        "LastModifyDate": {"xsi:nil": true},
+        "WeightType": "LiveWeight",
+        "CreateUser": {"xsi:nil": true},
+        "DisableFlag": {"xsi:nil": true},
+        "LastModifyUser": {"xsi:nil": true},
+        "ID": 482,
+        "WeightUnitID": {"xsi:nil": true},
+        "PriceType": "Percent",
+        "Name": "Sunjin"
+    },
+    {
+        "AccountID": 97498,
+        "LastModifyDate": {"xsi:nil": true},
+        "WeightType": "CarcassWeight",
+        "CreateUser": {"xsi:nil": true},
+        "DisableFlag": {"xsi:nil": true},
+        "LastModifyUser": {"xsi:nil": true},
+        "ID": 484,
+        "WeightUnitID": {"xsi:nil": true},
+        "PriceType": "Value",
+        "Name": "Dodram"
+    },
+    {
+        "AccountID": 97498,
+        "LastModifyDate": {"xsi:nil": true},
+        "WeightType": "LiveWeight",
+        "CreateUser": {"xsi:nil": true},
+        "DisableFlag": {"xsi:nil": true},
+        "LastModifyUser": {"xsi:nil": true},
+        "ID": 873,
+        "WeightUnitID": {"xsi:nil": true},
+        "PriceType": "Percent",
+        "Name": "Grid 1"
+    }
+]}

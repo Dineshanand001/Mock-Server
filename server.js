@@ -1,12 +1,13 @@
 const express = require('express')
 const app = express()
-const profitOptimizerRoute = require('./router/profit-optimizer-routes/profit-optimizer-routes')
+const mockRoute = require('./router/mock-routes')
 
 app.use(express.urlencoded({ extended: true}));
 app.use(express.json())
 
 //Use the defined routes
-app.use('/profit-optimizer', profitOptimizerRoute);
+app.use('/', mockRoute);
+//app.use(express.static('mockdata'))
 
 app.get('/', (req, res) => {
   res.send('Welcome to the Mock Server');

@@ -1,0 +1,23 @@
+{"FVPPacker": [
+    {
+        "MarketContract": "",
+        "Packer": {
+            "Code": "Tyson",
+            "Name": "Tyson"
+        }
+    },
+    {
+        "MarketContract": "",
+        "Packer": {
+            "Code": "WS",
+            "Name": "Whole Stone Farms"
+        }
+    },
+    {
+        "MarketContract": "",
+        "Packer": {
+            "Code": "HML",
+            "Name": "Hormel"
+        }
+    }
+]}

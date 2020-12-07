@@ -1,0 +1,3164 @@
+{
+    "SportFireUser": "",
+    "UserName": "kanagav@virtusa.com",
+    "LitePaymentGrids": {"LitePaymentGrid": [
+        {
+            "AccountID": 97498,
+            "WeightType": "LiveWeight",
+            "ID": 482,
+            "PriceType": "Percent",
+            "Name": "Sunjin"
+        },
+        {
+            "AccountID": 97498,
+            "WeightType": "CarcassWeight",
+            "ID": 484,
+            "PriceType": "Value",
+            "Name": "Dodram"
+        },
+        {
+            "AccountID": 97498,
+            "WeightType": "LiveWeight",
+            "ID": 873,
+            "PriceType": "Percent",
+            "Name": "Grid 1"
+        },
+        {
+            "AccountID": 96384,
+            "WeightType": "LiveWeight",
+            "ID": 20,
+            "PriceType": "Value",
+            "Name": "joe test"
+        },
+        {
+            "AccountID": 96384,
+            "WeightType": "LiveWeight",
+            "ID": 52,
+            "PriceType": "Percent",
+            "Name": "PJR01"
+        },
+        {
+            "AccountID": 96384,
+            "WeightType": "CarcassWeight",
+            "ID": 58,
+            "PriceType": "Value",
+            "Name": "playbook"
+        },
+        {
+            "AccountID": 96384,
+            "WeightType": "LiveWeight",
+            "ID": 61,
+            "PriceType": "Value",
+            "Name": "demo"
+        },
+        {
+            "AccountID": 96384,
+            "WeightType": "LiveWeight",
+            "ID": 97,
+            "PriceType": "Percent",
+            "Name": "demo2"
+        },
+        {
+            "AccountID": 96384,
+            "WeightType": "CarcassWeight",
+            "ID": 98,
+            "PriceType": "Value",
+            "Name": "PJR02"
+        },
+        {
+            "AccountID": 96384,
+            "WeightType": "LiveWeight",
+            "ID": 215,
+            "PriceType": "Percent",
+            "Name": "Ginger"
+        },
+        {
+            "AccountID": 96384,
+            "WeightType": "LiveWeight",
+            "ID": 230,
+            "PriceType": "Percent",
+            "Name": "live test 2"
+        },
+        {
+            "AccountID": 96384,
+            "WeightType": "CarcassWeight",
+            "ID": 510,
+            "PriceType": "Value",
+            "Name": "EG_TestReview"
+        },
+        {
+            "AccountID": 96384,
+            "WeightType": "CarcassWeight",
+            "ID": 515,
+            "PriceType": "Value",
+            "Name": "EG_testversion2"
+        },
+        {
+            "AccountID": 96384,
+            "WeightType": "CarcassWeight",
+            "ID": 516,
+            "PriceType": "Value",
+            "Name": "EG_testv2_"
+        },
+        {
+            "AccountID": 96384,
+            "WeightType": "CarcassWeight",
+            "ID": 517,
+            "PriceType": "Value",
+            "Name": "EG_testv1_"
+        },
+        {
+            "AccountID": 96384,
+            "WeightType": "CarcassWeight",
+            "ID": 519,
+            "PriceType": "Value",
+            "Name": "EG_08042017"
+        },
+        {
+            "AccountID": 96384,
+            "WeightType": "CarcassWeight",
+            "ID": 521,
+            "PriceType": "Value",
+            "Name": "Farmland Heavy"
+        },
+        {
+            "AccountID": 96384,
+            "WeightType": "CarcassWeight",
+            "ID": 522,
+            "PriceType": "Value",
+            "Name": "Farmland IA"
+        },
+        {
+            "AccountID": 96384,
+            "WeightType": "CarcassWeight",
+            "ID": 584,
+            "PriceType": "Value",
+            "Name": "farmland - psm"
+        },
+        {
+            "AccountID": 96384,
+            "WeightType": "CarcassWeight",
+            "ID": 585,
+            "PriceType": "Value",
+            "Name": "clemens - psm"
+        },
+        {
+            "AccountID": 96384,
+            "WeightType": "CarcassWeight",
+            "ID": 586,
+            "PriceType": "Percent",
+            "Name": "triumpheq"
+        },
+        {
+            "AccountID": 96384,
+            "WeightType": "CarcassWeight",
+            "ID": 664,
+            "PriceType": "Value",
+            "Name": "JBS example wt"
+        },
+        {
+            "AccountID": 96384,
+            "WeightType": "LiveWeight",
+            "ID": 872,
+            "PriceType": "Value",
+            "Name": "Grid 1"
+        }
+    ]},
+    "GridMappingList": {"PaymentGridMapping": [
+        {
+            "PackerCode": "Swift",
+            "PaymentGridName": "Swift",
+            "CompanyID": 11924,
+            "PaymentGridID": 21,
+            "MarketContract": ""
+        },
+        {
+            "PackerCode": "Swift",
+            "PaymentGridName": "Swift",
+            "CompanyID": 12237,
+            "PaymentGridID": 21,
+            "MarketContract": ""
+        },
+        {
+            "PackerCode": "Swift",
+            "PaymentGridName": "Swift",
+            "CompanyID": 13138,
+            "PaymentGridID": 21,
+            "MarketContract": ""
+        },
+        {
+            "PackerCode": "Swift",
+            "PaymentGridName": "Swift",
+            "CompanyID": 14999,
+            "PaymentGridID": 21,
+            "MarketContract": ""
+        },
+        {
+            "PackerCode": "Swift",
+            "PaymentGridName": "Swift",
+            "CompanyID": 17610,
+            "PaymentGridID": 21,
+            "MarketContract": ""
+        },
+        {
+            "PackerCode": "Swift",
+            "PaymentGridName": "Swift",
+            "CompanyID": 19768,
+            "PaymentGridID": 21,
+            "MarketContract": ""
+        },
+        {
+            "PackerCode": "Swift",
+            "PaymentGridName": "Swift",
+            "CompanyID": 19956,
+            "PaymentGridID": 21,
+            "MarketContract": ""
+        },
+        {
+            "PackerCode": "Swift",
+            "PaymentGridName": "Swift",
+            "CompanyID": 88605,
+            "PaymentGridID": 21,
+            "MarketContract": ""
+        },
+        {
+            "PackerCode": "Swift",
+            "PaymentGridName": "Swift",
+            "CompanyID": 89389,
+            "PaymentGridID": 21,
+            "MarketContract": ""
+        },
+        {
+            "PackerCode": "Swift",
+            "PaymentGridName": "Swift",
+            "CompanyID": 89455,
+            "PaymentGridID": 21,
+            "MarketContract": ""
+        },
+        {
+            "PackerCode": "Swift",
+            "PaymentGridName": "Swift",
+            "CompanyID": 90150,
+            "PaymentGridID": 21,
+            "MarketContract": ""
+        },
+        {
+            "PackerCode": "Swift",
+            "PaymentGridName": "Swift",
+            "CompanyID": 90549,
+            "PaymentGridID": 21,
+            "MarketContract": ""
+        },
+        {
+            "PackerCode": "Swift",
+            "PaymentGridName": "Swift",
+            "CompanyID": 90965,
+            "PaymentGridID": 21,
+            "MarketContract": ""
+        },
+        {
+            "PackerCode": "Swift",
+            "PaymentGridName": "Swift",
+            "CompanyID": 92226,
+            "PaymentGridID": 21,
+            "MarketContract": ""
+        },
+        {
+            "PackerCode": "Swift",
+            "PaymentGridName": "Swift",
+            "CompanyID": 92940,
+            "PaymentGridID": 21,
+            "MarketContract": ""
+        },
+        {
+            "PackerCode": "Swift",
+            "PaymentGridName": "Swift",
+            "CompanyID": 93092,
+            "PaymentGridID": 21,
+            "MarketContract": ""
+        },
+        {
+            "PackerCode": "Swift",
+            "PaymentGridName": "Swift",
+            "CompanyID": 95374,
+            "PaymentGridID": 21,
+            "MarketContract": ""
+        },
+        {
+            "PackerCode": "Swift",
+            "PaymentGridName": "Swift",
+            "CompanyID": 97059,
+            "PaymentGridID": 21,
+            "MarketContract": ""
+        },
+        {
+            "PackerCode": "Swift",
+            "PaymentGridName": "Swift",
+            "CompanyID": 98701,
+            "PaymentGridID": 21,
+            "MarketContract": ""
+        },
+        {
+            "PackerCode": "Swift",
+            "PaymentGridName": "Swift",
+            "CompanyID": 100951,
+            "PaymentGridID": 21,
+            "MarketContract": ""
+        },
+        {
+            "PackerCode": "Cargill",
+            "PaymentGridName": "Cargill",
+            "CompanyID": 11924,
+            "PaymentGridID": 2,
+            "MarketContract": ""
+        },
+        {
+            "PackerCode": "Cargill",
+            "PaymentGridName": "Cargill",
+            "CompanyID": 13138,
+            "PaymentGridID": 2,
+            "MarketContract": ""
+        },
+        {
+            "PackerCode": "Cargill",
+            "PaymentGridName": "Cargill",
+            "CompanyID": 14999,
+            "PaymentGridID": 2,
+            "MarketContract": ""
+        },
+        {
+            "PackerCode": "Cargill",
+            "PaymentGridName": "Cargill",
+            "CompanyID": 19151,
+            "PaymentGridID": 2,
+            "MarketContract": ""
+        },
+        {
+            "PackerCode": "Cargill",
+            "PaymentGridName": "Cargill",
+            "CompanyID": 19227,
+            "PaymentGridID": 2,
+            "MarketContract": ""
+        },
+        {
+            "PackerCode": "Cargill",
+            "PaymentGridName": "Cargill",
+            "CompanyID": 88605,
+            "PaymentGridID": 2,
+            "MarketContract": ""
+        },
+        {
+            "PackerCode": "Cargill",
+            "PaymentGridName": "JBS",
+            "CompanyID": 88720,
+            "PaymentGridID": 46,
+            "MarketContract": ""
+        },
+        {
+            "PackerCode": "Cargill",
+            "PaymentGridName": "Cargill",
+            "CompanyID": 89317,
+            "PaymentGridID": 2,
+            "MarketContract": ""
+        },
+        {
+            "PackerCode": "Cargill",
+            "PaymentGridName": "Cargill",
+            "CompanyID": 89389,
+            "PaymentGridID": 2,
+            "MarketContract": ""
+        },
+        {
+            "PackerCode": "Cargill",
+            "PaymentGridName": "Cargill",
+            "CompanyID": 89455,
+            "PaymentGridID": 2,
+            "MarketContract": ""
+        },
+        {
+            "PackerCode": "Cargill",
+            "PaymentGridName": "Cargill",
+            "CompanyID": 90150,
+            "PaymentGridID": 2,
+            "MarketContract": ""
+        },
+        {
+            "PackerCode": "Cargill",
+            "PaymentGridName": "Cargill",
+            "CompanyID": 92940,
+            "PaymentGridID": 2,
+            "MarketContract": ""
+        },
+        {
+            "PackerCode": "Cargill",
+            "PaymentGridName": "Cargill",
+            "CompanyID": 95374,
+            "PaymentGridID": 2,
+            "MarketContract": ""
+        },
+        {
+            "PackerCode": "Cargill",
+            "PaymentGridName": "Cargill",
+            "CompanyID": 95490,
+            "PaymentGridID": 2,
+            "MarketContract": ""
+        },
+        {
+            "PackerCode": "Cargill",
+            "PaymentGridName": "Cargill",
+            "CompanyID": 96531,
+            "PaymentGridID": 2,
+            "MarketContract": ""
+        },
+        {
+            "PackerCode": "Cargill",
+            "PaymentGridName": "Cargill",
+            "CompanyID": 100951,
+            "PaymentGridID": 2,
+            "MarketContract": ""
+        },
+        {
+            "PackerCode": "Cargill",
+            "PaymentGridName": "Cargill",
+            "CompanyID": 101855,
+            "PaymentGridID": 2,
+            "MarketContract": ""
+        },
+        {
+            "PackerCode": "Cargill",
+            "PaymentGridName": "Cargill",
+            "CompanyID": 93668,
+            "PaymentGridID": 2,
+            "MarketContract": ""
+        },
+        {
+            "PackerCode": "Cargill",
+            "PaymentGridName": "Cargill Pork",
+            "CompanyID": 12281,
+            "PaymentGridID": 1,
+            "MarketContract": ""
+        },
+        {
+            "PackerCode": "Cranswick",
+            "PaymentGridName": "Cranswick Sept 1, 2015",
+            "CompanyID": 98031,
+            "PaymentGridID": 32,
+            "MarketContract": ""
+        },
+        {
+            "PackerCode": "FRM/MOR",
+            "PaymentGridName": "Farmland/Morrell",
+            "CompanyID": 13138,
+            "PaymentGridID": 5,
+            "MarketContract": ""
+        },
+        {
+            "PackerCode": "FRM/MOR",
+            "PaymentGridName": "Farmland/Morrell",
+            "CompanyID": 17610,
+            "PaymentGridID": 5,
+            "MarketContract": ""
+        },
+        {
+            "PackerCode": "FRM/MOR",
+            "PaymentGridName": "Farmland/Morrell",
+            "CompanyID": 19926,
+            "PaymentGridID": 5,
+            "MarketContract": ""
+        },
+        {
+            "PackerCode": "FRM/MOR",
+            "PaymentGridName": "Farmland/Morrell",
+            "CompanyID": 88605,
+            "PaymentGridID": 5,
+            "MarketContract": ""
+        },
+        {
+            "PackerCode": "FRM/MOR",
+            "PaymentGridName": "Farmland/Morrell",
+            "CompanyID": 89389,
+            "PaymentGridID": 5,
+            "MarketContract": ""
+        },
+        {
+            "PackerCode": "FRM/MOR",
+            "PaymentGridName": "Farmland/Morrell",
+            "CompanyID": 89455,
+            "PaymentGridID": 5,
+            "MarketContract": ""
+        },
+        {
+            "PackerCode": "FRM/MOR",
+            "PaymentGridName": "Farmland/Morrell",
+            "CompanyID": 89778,
+            "PaymentGridID": 5,
+            "MarketContract": ""
+        },
+        {
+            "PackerCode": "FRM/MOR",
+            "PaymentGridName": "Farmland/Morrell Custom",
+            "CompanyID": 92940,
+            "PaymentGridID": 4,
+            "MarketContract": ""
+        },
+        {
+            "PackerCode": "FRM/MOR",
+            "PaymentGridName": "Farmland/Morrell",
+            "CompanyID": 93591,
+            "PaymentGridID": 5,
+            "MarketContract": ""
+        },
+        {
+            "PackerCode": "FRM/MOR",
+            "PaymentGridName": "Farmland/Morrell",
+            "CompanyID": 95374,
+            "PaymentGridID": 5,
+            "MarketContract": ""
+        },
+        {
+            "PackerCode": "FRM/MOR",
+            "PaymentGridName": "Farmland/Morrell",
+            "CompanyID": 95543,
+            "PaymentGridID": 5,
+            "MarketContract": ""
+        },
+        {
+            "PackerCode": "FRM/MOR",
+            "PaymentGridName": "Farmland/Morrell",
+            "CompanyID": 96531,
+            "PaymentGridID": 5,
+            "MarketContract": ""
+        },
+        {
+            "PackerCode": "FRM/MOR",
+            "PaymentGridName": "Farmland/Morrell",
+            "CompanyID": 99667,
+            "PaymentGridID": 5,
+            "MarketContract": ""
+        },
+        {
+            "PackerCode": "FRM/MOR",
+            "PaymentGridName": "Farmland/Morrell",
+            "CompanyID": 99927,
+            "PaymentGridID": 5,
+            "MarketContract": ""
+        },
+        {
+            "PackerCode": "FRM/MOR",
+            "PaymentGridName": "Farmland/Morrell",
+            "CompanyID": 100951,
+            "PaymentGridID": 5,
+            "MarketContract": ""
+        },
+        {
+            "PackerCode": "FRM/MOR",
+            "PaymentGridName": "Farmland/Morrell Custom",
+            "CompanyID": 12237,
+            "PaymentGridID": 4,
+            "MarketContract": ""
+        },
+        {
+            "PackerCode": "FRM/MOR",
+            "PaymentGridName": "Farmland/Morrell Custom",
+            "CompanyID": 19634,
+            "PaymentGridID": 4,
+            "MarketContract": ""
+        },
+        {
+            "PackerCode": "FRM/MOR",
+            "PaymentGridName": "Farmland/Morrell Custom",
+            "CompanyID": 19768,
+            "PaymentGridID": 4,
+            "MarketContract": ""
+        },
+        {
+            "PackerCode": "FRM/MOR",
+            "PaymentGridName": "Farmland/Morrell Custom",
+            "CompanyID": 93092,
+            "PaymentGridID": 4,
+            "MarketContract": ""
+        },
+        {
+            "PackerCode": "Hat",
+            "PaymentGridName": "Hatfield Custom",
+            "CompanyID": 18931,
+            "PaymentGridID": 26,
+            "MarketContract": ""
+        },
+        {
+            "PackerCode": "Hat",
+            "PaymentGridName": "Hatfield",
+            "CompanyID": 90274,
+            "PaymentGridID": 6,
+            "MarketContract": ""
+        },
+        {
+            "PackerCode": "Hat",
+            "PaymentGridName": "Hatfield",
+            "CompanyID": 90401,
+            "PaymentGridID": 6,
+            "MarketContract": ""
+        },
+        {
+            "PackerCode": "Hat",
+            "PaymentGridName": "Hatfield",
+            "CompanyID": 90494,
+            "PaymentGridID": 6,
+            "MarketContract": ""
+        },
+        {
+            "PackerCode": "Hat",
+            "PaymentGridName": "Hatfield",
+            "CompanyID": 94188,
+            "PaymentGridID": 6,
+            "MarketContract": ""
+        },
+        {
+            "PackerCode": "HML",
+            "PaymentGridName": "Hormel",
+            "CompanyID": 12237,
+            "PaymentGridID": 9,
+            "MarketContract": ""
+        },
+        {
+            "PackerCode": "HML",
+            "PaymentGridName": "Hormel",
+            "CompanyID": 13138,
+            "PaymentGridID": 9,
+            "MarketContract": ""
+        },
+        {
+            "PackerCode": "HML",
+            "PaymentGridName": "Hormel",
+            "CompanyID": 17610,
+            "PaymentGridID": 9,
+            "MarketContract": ""
+        },
+        {
+            "PackerCode": "HML",
+            "PaymentGridName": "Hormel",
+            "CompanyID": 19589,
+            "PaymentGridID": 9,
+            "MarketContract": ""
+        },
+        {
+            "PackerCode": "HML",
+            "PaymentGridName": "Hormel",
+            "CompanyID": 89389,
+            "PaymentGridID": 9,
+            "MarketContract": ""
+        },
+        {
+            "PackerCode": "HML",
+            "PaymentGridName": "Hormel",
+            "CompanyID": 89778,
+            "PaymentGridID": 9,
+            "MarketContract": ""
+        },
+        {
+            "PackerCode": "HML",
+            "PaymentGridName": "Hormel",
+            "CompanyID": 92172,
+            "PaymentGridID": 9,
+            "MarketContract": ""
+        },
+        {
+            "PackerCode": "HML",
+            "PaymentGridName": "Hormel",
+            "CompanyID": 92940,
+            "PaymentGridID": 9,
+            "MarketContract": ""
+        },
+        {
+            "PackerCode": "HML",
+            "PaymentGridName": "Hormel",
+            "CompanyID": 95490,
+            "PaymentGridID": 9,
+            "MarketContract": ""
+        },
+        {
+            "PackerCode": "HML",
+            "PaymentGridName": "Hormel",
+            "CompanyID": 96531,
+            "PaymentGridID": 9,
+            "MarketContract": ""
+        },
+        {
+            "PackerCode": "HML",
+            "PaymentGridName": "Hormel",
+            "CompanyID": 99927,
+            "PaymentGridID": 9,
+            "MarketContract": ""
+        },
+        {
+            "PackerCode": "HML",
+            "PaymentGridName": "Hormel",
+            "CompanyID": 99940,
+            "PaymentGridID": 9,
+            "MarketContract": ""
+        },
+        {
+            "PackerCode": "HML",
+            "PaymentGridName": "Hormel LSI",
+            "CompanyID": 100655,
+            "PaymentGridID": 33,
+            "MarketContract": ""
+        },
+        {
+            "PackerCode": "HML",
+            "PaymentGridName": "Hormel",
+            "CompanyID": 101597,
+            "PaymentGridID": 9,
+            "MarketContract": ""
+        },
+        {
+            "PackerCode": "HML",
+            "PaymentGridName": "Hormel Custom",
+            "CompanyID": 88720,
+            "PaymentGridID": 7,
+            "MarketContract": ""
+        },
+        {
+            "PackerCode": "HML",
+            "PaymentGridName": "Hormel Custom",
+            "CompanyID": 93652,
+            "PaymentGridID": 7,
+            "MarketContract": ""
+        },
+        {
+            "PackerCode": "HML",
+            "PaymentGridName": "Hormel ISM",
+            "CompanyID": 19956,
+            "PaymentGridID": 8,
+            "MarketContract": ""
+        },
+        {
+            "PackerCode": "Tyson",
+            "PaymentGridName": "Tyson",
+            "CompanyID": 11924,
+            "PaymentGridID": 25,
+            "MarketContract": ""
+        },
+        {
+            "PackerCode": "Tyson",
+            "PaymentGridName": "Tyson",
+            "CompanyID": 11980,
+            "PaymentGridID": 25,
+            "MarketContract": ""
+        },
+        {
+            "PackerCode": "Tyson",
+            "PaymentGridName": "Tyson",
+            "CompanyID": 12237,
+            "PaymentGridID": 25,
+            "MarketContract": ""
+        },
+        {
+            "PackerCode": "Tyson",
+            "PaymentGridName": "Tyson",
+            "CompanyID": 13138,
+            "PaymentGridID": 25,
+            "MarketContract": ""
+        },
+        {
+            "PackerCode": "Tyson",
+            "PaymentGridName": "Tyson",
+            "CompanyID": 14999,
+            "PaymentGridID": 25,
+            "MarketContract": ""
+        },
+        {
+            "PackerCode": "Tyson",
+            "PaymentGridName": "Tyson",
+            "CompanyID": 18931,
+            "PaymentGridID": 25,
+            "MarketContract": ""
+        },
+        {
+            "PackerCode": "Tyson",
+            "PaymentGridName": "Tyson",
+            "CompanyID": 19227,
+            "PaymentGridID": 25,
+            "MarketContract": ""
+        },
+        {
+            "PackerCode": "Tyson",
+            "PaymentGridName": "Tyson",
+            "CompanyID": 19429,
+            "PaymentGridID": 25,
+            "MarketContract": ""
+        },
+        {
+            "PackerCode": "Tyson",
+            "PaymentGridName": "Tyson",
+            "CompanyID": 19562,
+            "PaymentGridID": 25,
+            "MarketContract": ""
+        },
+        {
+            "PackerCode": "Tyson",
+            "PaymentGridName": "Tyson",
+            "CompanyID": 19589,
+            "PaymentGridID": 25,
+            "MarketContract": ""
+        },
+        {
+            "PackerCode": "Tyson",
+            "PaymentGridName": "Tyson",
+            "CompanyID": 19634,
+            "PaymentGridID": 25,
+            "MarketContract": ""
+        },
+        {
+            "PackerCode": "Tyson",
+            "PaymentGridName": "Tyson",
+            "CompanyID": 19768,
+            "PaymentGridID": 25,
+            "MarketContract": ""
+        },
+        {
+            "PackerCode": "Tyson",
+            "PaymentGridName": "Tyson",
+            "CompanyID": 88605,
+            "PaymentGridID": 25,
+            "MarketContract": ""
+        },
+        {
+            "PackerCode": "Tyson",
+            "PaymentGridName": "Tyson",
+            "CompanyID": 88720,
+            "PaymentGridID": 25,
+            "MarketContract": ""
+        },
+        {
+            "PackerCode": "Tyson",
+            "PaymentGridName": "Tyson",
+            "CompanyID": 89317,
+            "PaymentGridID": 25,
+            "MarketContract": ""
+        },
+        {
+            "PackerCode": "Tyson",
+            "PaymentGridName": "Tyson",
+            "CompanyID": 89389,
+            "PaymentGridID": 25,
+            "MarketContract": ""
+        },
+        {
+            "PackerCode": "Tyson",
+            "PaymentGridName": "Tyson",
+            "CompanyID": 89455,
+            "PaymentGridID": 25,
+            "MarketContract": ""
+        },
+        {
+            "PackerCode": "Tyson",
+            "PaymentGridName": "Tyson",
+            "CompanyID": 89778,
+            "PaymentGridID": 25,
+            "MarketContract": ""
+        },
+        {
+            "PackerCode": "Tyson",
+            "PaymentGridName": "Tyson",
+            "CompanyID": 90549,
+            "PaymentGridID": 25,
+            "MarketContract": ""
+        },
+        {
+            "PackerCode": "Tyson",
+            "PaymentGridName": "Tyson",
+            "CompanyID": 91824,
+            "PaymentGridID": 25,
+            "MarketContract": ""
+        },
+        {
+            "PackerCode": "Tyson",
+            "PaymentGridName": "Tyson",
+            "CompanyID": 92940,
+            "PaymentGridID": 25,
+            "MarketContract": ""
+        },
+        {
+            "PackerCode": "Tyson",
+            "PaymentGridName": "Tyson",
+            "CompanyID": 93591,
+            "PaymentGridID": 25,
+            "MarketContract": ""
+        },
+        {
+            "PackerCode": "Tyson",
+            "PaymentGridName": "Tyson",
+            "CompanyID": 95374,
+            "PaymentGridID": 25,
+            "MarketContract": ""
+        },
+        {
+            "PackerCode": "Tyson",
+            "PaymentGridName": "Tyson",
+            "CompanyID": 97836,
+            "PaymentGridID": 25,
+            "MarketContract": ""
+        },
+        {
+            "PackerCode": "Tyson",
+            "PaymentGridName": "Tyson",
+            "CompanyID": 98701,
+            "PaymentGridID": 25,
+            "MarketContract": ""
+        },
+        {
+            "PackerCode": "Tyson",
+            "PaymentGridName": "Tyson",
+            "CompanyID": 99927,
+            "PaymentGridID": 25,
+            "MarketContract": ""
+        },
+        {
+            "PackerCode": "Tyson",
+            "PaymentGridName": "Tyson",
+            "CompanyID": 99998,
+            "PaymentGridID": 25,
+            "MarketContract": ""
+        },
+        {
+            "PackerCode": "Tyson",
+            "PaymentGridName": "Tyson",
+            "CompanyID": 100951,
+            "PaymentGridID": 25,
+            "MarketContract": ""
+        },
+        {
+            "PackerCode": "TLP",
+            "PaymentGridName": "Tulip",
+            "CompanyID": 91739,
+            "PaymentGridID": 24,
+            "MarketContract": ""
+        },
+        {
+            "PackerCode": "TLP",
+            "PaymentGridName": "Tulip",
+            "CompanyID": 95487,
+            "PaymentGridID": 24,
+            "MarketContract": ""
+        },
+        {
+            "PackerCode": "Triumph",
+            "PaymentGridName": "Triumph",
+            "CompanyID": 12237,
+            "PaymentGridID": 22,
+            "MarketContract": ""
+        },
+        {
+            "PackerCode": "Triumph",
+            "PaymentGridName": "Triumph",
+            "CompanyID": 13138,
+            "PaymentGridID": 22,
+            "MarketContract": ""
+        },
+        {
+            "PackerCode": "Triumph",
+            "PaymentGridName": "Triumph",
+            "CompanyID": 19768,
+            "PaymentGridID": 22,
+            "MarketContract": ""
+        },
+        {
+            "PackerCode": "Triumph",
+            "PaymentGridName": "Triumph - PSM",
+            "CompanyID": 88605,
+            "PaymentGridID": 35,
+            "MarketContract": ""
+        },
+        {
+            "PackerCode": "Triumph",
+            "PaymentGridName": "Triumph",
+            "CompanyID": 88720,
+            "PaymentGridID": 22,
+            "MarketContract": ""
+        },
+        {
+            "PackerCode": "Triumph",
+            "PaymentGridName": "Triumph",
+            "CompanyID": 89389,
+            "PaymentGridID": 22,
+            "MarketContract": ""
+        },
+        {
+            "PackerCode": "Triumph",
+            "PaymentGridName": "Triumph - CF 2018",
+            "CompanyID": 90549,
+            "PaymentGridID": 66,
+            "MarketContract": ""
+        },
+        {
+            "PackerCode": "Triumph",
+            "PaymentGridName": "Triumph",
+            "CompanyID": 92172,
+            "PaymentGridID": 22,
+            "MarketContract": ""
+        },
+        {
+            "PackerCode": "Triumph",
+            "PaymentGridName": "Triumph",
+            "CompanyID": 92940,
+            "PaymentGridID": 22,
+            "MarketContract": ""
+        },
+        {
+            "PackerCode": "Triumph",
+            "PaymentGridName": "Triumph",
+            "CompanyID": 95374,
+            "PaymentGridID": 22,
+            "MarketContract": ""
+        },
+        {
+            "PackerCode": "Triumph",
+            "PaymentGridName": "Triumph",
+            "CompanyID": 95538,
+            "PaymentGridID": 22,
+            "MarketContract": ""
+        },
+        {
+            "PackerCode": "Triumph",
+            "PaymentGridName": "Triumph LSI",
+            "CompanyID": 100655,
+            "PaymentGridID": 34,
+            "MarketContract": ""
+        },
+        {
+            "PackerCode": "Triumph",
+            "PaymentGridName": "Triumph - PSM",
+            "CompanyID": 100951,
+            "PaymentGridID": 35,
+            "MarketContract": ""
+        },
+        {
+            "PackerCode": "Triumph",
+            "PaymentGridName": "Triumph Owner Grid",
+            "CompanyID": 101855,
+            "PaymentGridID": 28,
+            "MarketContract": ""
+        },
+        {
+            "PackerCode": "IPC",
+            "PaymentGridName": "IPC - 2015",
+            "CompanyID": 11924,
+            "PaymentGridID": 44,
+            "MarketContract": ""
+        },
+        {
+            "PackerCode": "IPC",
+            "PaymentGridName": "IPC - 2015",
+            "CompanyID": 99667,
+            "PaymentGridID": 44,
+            "MarketContract": ""
+        },
+        {
+            "PackerCode": "IPC",
+            "PaymentGridName": "IPC - 2015",
+            "CompanyID": 89455,
+            "PaymentGridID": 44,
+            "MarketContract": ""
+        },
+        {
+            "PackerCode": "IPC",
+            "PaymentGridName": "IPC - 2015",
+            "CompanyID": 90401,
+            "PaymentGridID": 44,
+            "MarketContract": ""
+        },
+        {
+            "PackerCode": "IPC",
+            "PaymentGridName": "IPC - 2015",
+            "CompanyID": 101172,
+            "PaymentGridID": 44,
+            "MarketContract": ""
+        },
+        {
+            "PackerCode": "IPC",
+            "PaymentGridName": "IPC - 2015",
+            "CompanyID": 14999,
+            "PaymentGridID": 44,
+            "MarketContract": ""
+        },
+        {
+            "PackerCode": "IPC",
+            "PaymentGridName": "IPC - 2015",
+            "CompanyID": 90339,
+            "PaymentGridID": 44,
+            "MarketContract": ""
+        },
+        {
+            "PackerCode": "IPC",
+            "PaymentGridName": "IPC - 2015",
+            "CompanyID": 95374,
+            "PaymentGridID": 44,
+            "MarketContract": ""
+        },
+        {
+            "PackerCode": "IPC",
+            "PaymentGridName": "IPC - 2015",
+            "CompanyID": 105432,
+            "PaymentGridID": 44,
+            "MarketContract": ""
+        },
+        {
+            "PackerCode": "Martini",
+            "PaymentGridName": "Martini",
+            "CompanyID": 99714,
+            "PaymentGridID": 15,
+            "MarketContract": ""
+        },
+        {
+            "PackerCode": "Patel",
+            "PaymentGridName": "Patel",
+            "CompanyID": 97147,
+            "PaymentGridID": 16,
+            "MarketContract": ""
+        },
+        {
+            "PackerCode": "Prime",
+            "PaymentGridName": "Prime Foods",
+            "CompanyID": 93597,
+            "PaymentGridID": 17,
+            "MarketContract": ""
+        },
+        {
+            "PackerCode": "SEA",
+            "PaymentGridName": "Seaboard",
+            "CompanyID": 95374,
+            "PaymentGridID": 18,
+            "MarketContract": ""
+        },
+        {
+            "PackerCode": "SEA",
+            "PaymentGridName": "Seaboard",
+            "CompanyID": 101322,
+            "PaymentGridID": 18,
+            "MarketContract": ""
+        },
+        {
+            "PackerCode": "Smithfield",
+            "PaymentGridName": "Smithfield",
+            "CompanyID": 94209,
+            "PaymentGridID": 19,
+            "MarketContract": ""
+        },
+        {
+            "PackerCode": "Smithfield",
+            "PaymentGridName": "Smithfield",
+            "CompanyID": 101322,
+            "PaymentGridID": 19,
+            "MarketContract": ""
+        },
+        {
+            "PackerCode": "MLP",
+            "PaymentGridName": "Maple Leaf SMH",
+            "CompanyID": 89778,
+            "PaymentGridID": 12,
+            "MarketContract": ""
+        },
+        {
+            "PackerCode": "MLP",
+            "PaymentGridName": "Maple Leaf Custom",
+            "CompanyID": 17534,
+            "PaymentGridID": 11,
+            "MarketContract": ""
+        },
+        {
+            "PackerCode": "Swift",
+            "PaymentGridName": "Swift",
+            "CompanyID": 90965,
+            "PaymentGridID": 21,
+            "MarketContract": "Contract #1"
+        },
+        {
+            "PackerCode": "Swift",
+            "PaymentGridName": "Swift",
+            "CompanyID": 90965,
+            "PaymentGridID": 21,
+            "MarketContract": "Contract #3"
+        },
+        {
+            "PackerCode": "Swift",
+            "PaymentGridName": "Swift",
+            "CompanyID": 90965,
+            "PaymentGridID": 21,
+            "MarketContract": "Contract #4"
+        },
+        {
+            "PackerCode": "FRM/MOR",
+            "PaymentGridName": "Farmland/Morrell Custom",
+            "CompanyID": 100951,
+            "PaymentGridID": 4,
+            "MarketContract": "Farmland - Heavy"
+        },
+        {
+            "PackerCode": "FRM/MOR",
+            "PaymentGridName": "Farmland/Morrell",
+            "CompanyID": 100951,
+            "PaymentGridID": 5,
+            "MarketContract": "Farmland - Light"
+        },
+        {
+            "PackerCode": "Smithfield",
+            "PaymentGridName": "Smithfield Heavy",
+            "CompanyID": 105272,
+            "PaymentGridID": 42,
+            "MarketContract": ""
+        },
+        {
+            "PackerCode": "IPC",
+            "PaymentGridName": "IPC - 2015",
+            "CompanyID": 90274,
+            "PaymentGridID": 44,
+            "MarketContract": ""
+        },
+        {
+            "PackerCode": "Hylife",
+            "PaymentGridName": "HyLife Grid",
+            "CompanyID": 99233,
+            "PaymentGridID": 30,
+            "MarketContract": ""
+        },
+        {
+            "PackerCode": "Smithfield",
+            "PaymentGridName": "Farmland Heavy",
+            "CompanyID": 90401,
+            "PaymentGridID": 40,
+            "MarketContract": ""
+        },
+        {
+            "PackerCode": "FRM/MOR",
+            "PaymentGridName": "Farmland/Morrell Custom",
+            "CompanyID": 100951,
+            "PaymentGridID": 4,
+            "MarketContract": "Farmland-Heavy"
+        },
+        {
+            "PackerCode": "Hat",
+            "PaymentGridName": "Hatfield",
+            "CompanyID": 106149,
+            "PaymentGridID": 6,
+            "MarketContract": ""
+        },
+        {
+            "PackerCode": "FRM/MOR",
+            "PaymentGridName": "Farmland/Morrell",
+            "CompanyID": 107159,
+            "PaymentGridID": 5,
+            "MarketContract": ""
+        },
+        {
+            "PackerCode": "Tyson",
+            "PaymentGridName": "Tyson",
+            "CompanyID": 107159,
+            "PaymentGridID": 25,
+            "MarketContract": ""
+        },
+        {
+            "PackerCode": "HML",
+            "PaymentGridName": "Hormel",
+            "CompanyID": 107159,
+            "PaymentGridID": 9,
+            "MarketContract": ""
+        },
+        {
+            "PackerCode": "Cargill",
+            "PaymentGridName": "Cargill",
+            "CompanyID": 107159,
+            "PaymentGridID": 2,
+            "MarketContract": ""
+        },
+        {
+            "PackerCode": "FRM/MOR",
+            "PaymentGridName": "Farmland/Morrell",
+            "CompanyID": 88720,
+            "PaymentGridID": 5,
+            "MarketContract": ""
+        },
+        {
+            "PackerCode": "FRM/MOR",
+            "PaymentGridName": "Farmland/Morrell",
+            "CompanyID": 19227,
+            "PaymentGridID": 5,
+            "MarketContract": ""
+        },
+        {
+            "PackerCode": "HML",
+            "PaymentGridName": "Hormel",
+            "CompanyID": 19768,
+            "PaymentGridID": 9,
+            "MarketContract": ""
+        },
+        {
+            "PackerCode": "FRM/MOR",
+            "PaymentGridName": "Farmland/Morrell",
+            "CompanyID": 19151,
+            "PaymentGridID": 5,
+            "MarketContract": ""
+        },
+        {
+            "PackerCode": "FRM/MOR",
+            "PaymentGridName": "Farmland/Morrell",
+            "CompanyID": 99940,
+            "PaymentGridID": 5,
+            "MarketContract": ""
+        },
+        {
+            "PackerCode": "Swift",
+            "PaymentGridName": "Swift",
+            "CompanyID": 99940,
+            "PaymentGridID": 21,
+            "MarketContract": ""
+        },
+        {
+            "PackerCode": "Tyson",
+            "PaymentGridName": "Tyson",
+            "CompanyID": 99940,
+            "PaymentGridID": 25,
+            "MarketContract": ""
+        },
+        {
+            "PackerCode": "Cargill",
+            "PaymentGridName": "Cargill",
+            "CompanyID": 19589,
+            "PaymentGridID": 2,
+            "MarketContract": ""
+        },
+        {
+            "PackerCode": "Swift",
+            "PaymentGridName": "Swift",
+            "CompanyID": 17534,
+            "PaymentGridID": 21,
+            "MarketContract": ""
+        },
+        {
+            "PackerCode": "HML",
+            "PaymentGridName": "Hormel",
+            "CompanyID": 93092,
+            "PaymentGridID": 9,
+            "MarketContract": ""
+        },
+        {
+            "PackerCode": "Tyson",
+            "PaymentGridName": "Tyson",
+            "CompanyID": 107348,
+            "PaymentGridID": 25,
+            "MarketContract": ""
+        },
+        {
+            "PackerCode": "SEA",
+            "PaymentGridName": "Seaboard",
+            "CompanyID": 17610,
+            "PaymentGridID": 18,
+            "MarketContract": ""
+        },
+        {
+            "PackerCode": "Triumph",
+            "PaymentGridName": "Triumph",
+            "CompanyID": 17610,
+            "PaymentGridID": 22,
+            "MarketContract": ""
+        },
+        {
+            "PackerCode": "Tyson",
+            "PaymentGridName": "Tyson",
+            "CompanyID": 17610,
+            "PaymentGridID": 25,
+            "MarketContract": ""
+        },
+        {
+            "PackerCode": "HML",
+            "PaymentGridName": "Hormel",
+            "CompanyID": 95374,
+            "PaymentGridID": 9,
+            "MarketContract": ""
+        },
+        {
+            "PackerCode": "Swift",
+            "PaymentGridName": "Swift",
+            "CompanyID": 90274,
+            "PaymentGridID": 21,
+            "MarketContract": ""
+        },
+        {
+            "PackerCode": "Tyson",
+            "PaymentGridName": "Tyson",
+            "CompanyID": 90274,
+            "PaymentGridID": 25,
+            "MarketContract": ""
+        },
+        {
+            "PackerCode": "Cargill",
+            "PaymentGridName": "Cargill",
+            "CompanyID": 12237,
+            "PaymentGridID": 2,
+            "MarketContract": ""
+        },
+        {
+            "PackerCode": "Swift",
+            "PaymentGridName": "Swift",
+            "CompanyID": 19589,
+            "PaymentGridID": 21,
+            "MarketContract": ""
+        },
+        {
+            "PackerCode": "Tyson",
+            "PaymentGridName": "Tyson",
+            "CompanyID": 108148,
+            "PaymentGridID": 25,
+            "MarketContract": ""
+        },
+        {
+            "PackerCode": "Tyson",
+            "PaymentGridName": "Tyson - Cactus Custom",
+            "CompanyID": 108456,
+            "PaymentGridID": 65,
+            "MarketContract": ""
+        },
+        {
+            "PackerCode": "Swift",
+            "PaymentGridName": "Swift",
+            "CompanyID": 107858,
+            "PaymentGridID": 21,
+            "MarketContract": ""
+        },
+        {
+            "PackerCode": "FRM/MOR",
+            "PaymentGridName": "Farmland/Morrell",
+            "CompanyID": 100951,
+            "PaymentGridID": 5,
+            "MarketContract": "Farmland-Light"
+        },
+        {
+            "PackerCode": "Triumph",
+            "PaymentGridName": "Triumph Equity Grid - PSM",
+            "CompanyID": 100951,
+            "PaymentGridID": 36,
+            "MarketContract": "Triumph-Equity"
+        },
+        {
+            "PackerCode": "Tyson",
+            "PaymentGridName": "Tyson",
+            "CompanyID": 109037,
+            "PaymentGridID": 25,
+            "MarketContract": ""
+        },
+        {
+            "PackerCode": "HML",
+            "PaymentGridName": "Hormel",
+            "CompanyID": 109251,
+            "PaymentGridID": 9,
+            "MarketContract": ""
+        },
+        {
+            "PackerCode": "Triumph",
+            "PaymentGridName": "Triumph HVK",
+            "CompanyID": 109251,
+            "PaymentGridID": 37,
+            "MarketContract": ""
+        },
+        {
+            "PackerCode": "Hat",
+            "PaymentGridName": "Hatfield",
+            "CompanyID": 109134,
+            "PaymentGridID": 6,
+            "MarketContract": ""
+        },
+        {
+            "PackerCode": "HML",
+            "PaymentGridName": "Hormel",
+            "CompanyID": 109570,
+            "PaymentGridID": 9,
+            "MarketContract": ""
+        },
+        {
+            "PackerCode": "Tyson",
+            "PaymentGridName": "Tyson",
+            "CompanyID": 95538,
+            "PaymentGridID": 25,
+            "MarketContract": ""
+        },
+        {
+            "PackerCode": "Swift",
+            "PaymentGridName": "Swift",
+            "CompanyID": 107159,
+            "PaymentGridID": 21,
+            "MarketContract": ""
+        },
+        {
+            "PackerCode": "Triumph",
+            "PaymentGridName": "Triumph - PSM",
+            "CompanyID": 100951,
+            "PaymentGridID": 35,
+            "MarketContract": "Triumph-Open"
+        },
+        {
+            "PackerCode": "FRM/MOR",
+            "PaymentGridName": "Farmland/Morrell",
+            "CompanyID": 109415,
+            "PaymentGridID": 5,
+            "MarketContract": ""
+        },
+        {
+            "PackerCode": "FRM/MOR",
+            "PaymentGridName": "Farmland/Morrell Custom",
+            "CompanyID": 109570,
+            "PaymentGridID": 4,
+            "MarketContract": ""
+        },
+        {
+            "PackerCode": "HML",
+            "PaymentGridName": "Hormel",
+            "CompanyID": 19634,
+            "PaymentGridID": 9,
+            "MarketContract": ""
+        },
+        {
+            "PackerCode": "Cargill",
+            "PaymentGridName": "Cargill",
+            "CompanyID": 109570,
+            "PaymentGridID": 2,
+            "MarketContract": ""
+        },
+        {
+            "PackerCode": "FRM/MOR",
+            "PaymentGridName": "Farmland/Morrell Custom",
+            "CompanyID": 159977,
+            "PaymentGridID": 4,
+            "MarketContract": ""
+        },
+        {
+            "PackerCode": "HML",
+            "PaymentGridName": "Hormel",
+            "CompanyID": 160393,
+            "PaymentGridID": 9,
+            "MarketContract": ""
+        },
+        {
+            "PackerCode": "Tyson",
+            "PaymentGridName": "Tyson",
+            "CompanyID": 160393,
+            "PaymentGridID": 25,
+            "MarketContract": ""
+        },
+        {
+            "PackerCode": "Swift",
+            "PaymentGridName": "Swift",
+            "CompanyID": 160393,
+            "PaymentGridID": 21,
+            "MarketContract": ""
+        },
+        {
+            "PackerCode": "HML",
+            "PaymentGridName": "Hormel",
+            "CompanyID": 159977,
+            "PaymentGridID": 9,
+            "MarketContract": ""
+        },
+        {
+            "PackerCode": "Smithfield",
+            "PaymentGridName": "Farmland Heavy",
+            "CompanyID": 109570,
+            "PaymentGridID": 40,
+            "MarketContract": "Heavy Matrix"
+        },
+        {
+            "PackerCode": "Swift",
+            "PaymentGridName": "Swift",
+            "CompanyID": 101855,
+            "PaymentGridID": 21,
+            "MarketContract": ""
+        },
+        {
+            "PackerCode": "FRM/MOR",
+            "PaymentGridName": "Farmland/Morrell Custom",
+            "CompanyID": 109570,
+            "PaymentGridID": 4,
+            "MarketContract": "Heavy Matrix"
+        },
+        {
+            "PackerCode": "FRM/MOR",
+            "PaymentGridName": "Farmland/Morrell",
+            "CompanyID": 109570,
+            "PaymentGridID": 5,
+            "MarketContract": "Light Matrix"
+        },
+        {
+            "PackerCode": "Smithfield",
+            "PaymentGridName": "Farmland",
+            "CompanyID": 109570,
+            "PaymentGridID": 41,
+            "MarketContract": "Light Matrix"
+        },
+        {
+            "PackerCode": "Smithfield",
+            "PaymentGridName": "Farmland",
+            "CompanyID": 88720,
+            "PaymentGridID": 41,
+            "MarketContract": ""
+        },
+        {
+            "PackerCode": "Smithfield",
+            "PaymentGridName": "Farmland",
+            "CompanyID": 99667,
+            "PaymentGridID": 41,
+            "MarketContract": ""
+        },
+        {
+            "PackerCode": "Smithfield",
+            "PaymentGridName": "Farmland",
+            "CompanyID": 107159,
+            "PaymentGridID": 41,
+            "MarketContract": ""
+        },
+        {
+            "PackerCode": "Smithfield",
+            "PaymentGridName": "Farmland",
+            "CompanyID": 19227,
+            "PaymentGridID": 41,
+            "MarketContract": ""
+        },
+        {
+            "PackerCode": "Smithfield",
+            "PaymentGridName": "Farmland",
+            "CompanyID": 109415,
+            "PaymentGridID": 41,
+            "MarketContract": ""
+        },
+        {
+            "PackerCode": "Smithfield",
+            "PaymentGridName": "Farmland",
+            "CompanyID": 89455,
+            "PaymentGridID": 41,
+            "MarketContract": ""
+        },
+        {
+            "PackerCode": "Smithfield",
+            "PaymentGridName": "Farmland Heavy",
+            "CompanyID": 19768,
+            "PaymentGridID": 40,
+            "MarketContract": ""
+        },
+        {
+            "PackerCode": "Smithfield",
+            "PaymentGridName": "Farmland",
+            "CompanyID": 19151,
+            "PaymentGridID": 41,
+            "MarketContract": ""
+        },
+        {
+            "PackerCode": "Smithfield",
+            "PaymentGridName": "Farmland",
+            "CompanyID": 96531,
+            "PaymentGridID": 41,
+            "MarketContract": ""
+        },
+        {
+            "PackerCode": "Smithfield",
+            "PaymentGridName": "Farmland",
+            "CompanyID": 99927,
+            "PaymentGridID": 41,
+            "MarketContract": ""
+        },
+        {
+            "PackerCode": "Smithfield",
+            "PaymentGridName": "Farmland Heavy",
+            "CompanyID": 19634,
+            "PaymentGridID": 40,
+            "MarketContract": ""
+        },
+        {
+            "PackerCode": "JBS",
+            "PaymentGridName": "JBS",
+            "CompanyID": 11924,
+            "PaymentGridID": 43,
+            "MarketContract": ""
+        },
+        {
+            "PackerCode": "JBS",
+            "PaymentGridName": "JBS",
+            "CompanyID": 107159,
+            "PaymentGridID": 43,
+            "MarketContract": ""
+        },
+        {
+            "PackerCode": "JBS",
+            "PaymentGridName": "JBS",
+            "CompanyID": 90549,
+            "PaymentGridID": 43,
+            "MarketContract": ""
+        },
+        {
+            "PackerCode": "JBS",
+            "PaymentGridName": "JBS",
+            "CompanyID": 160393,
+            "PaymentGridID": 43,
+            "MarketContract": ""
+        },
+        {
+            "PackerCode": "JBS",
+            "PaymentGridName": "JBS",
+            "CompanyID": 89455,
+            "PaymentGridID": 43,
+            "MarketContract": ""
+        },
+        {
+            "PackerCode": "JBS",
+            "PaymentGridName": "JBS",
+            "CompanyID": 19768,
+            "PaymentGridID": 43,
+            "MarketContract": ""
+        },
+        {
+            "PackerCode": "JBS",
+            "PaymentGridName": "JBS",
+            "CompanyID": 90965,
+            "PaymentGridID": 43,
+            "MarketContract": ""
+        },
+        {
+            "PackerCode": "Incarlopsa",
+            "PaymentGridName": "Incarlopsa",
+            "CompanyID": 97147,
+            "PaymentGridID": 48,
+            "MarketContract": ""
+        },
+        {
+            "PackerCode": "Cargill",
+            "PaymentGridName": "Cargill",
+            "CompanyID": 162620,
+            "PaymentGridID": 2,
+            "MarketContract": ""
+        },
+        {
+            "PackerCode": "IPC",
+            "PaymentGridName": "IPC - 2015",
+            "CompanyID": 162620,
+            "PaymentGridID": 44,
+            "MarketContract": ""
+        },
+        {
+            "PackerCode": "JBS",
+            "PaymentGridName": "JBS",
+            "CompanyID": 162620,
+            "PaymentGridID": 43,
+            "MarketContract": ""
+        },
+        {
+            "PackerCode": "Cargill",
+            "PaymentGridName": "Cargill Pork",
+            "CompanyID": 93668,
+            "PaymentGridID": 1,
+            "MarketContract": "Cargill Pork"
+        },
+        {
+            "PackerCode": "Tyson",
+            "PaymentGridName": "Tyson",
+            "CompanyID": 90965,
+            "PaymentGridID": 25,
+            "MarketContract": ""
+        },
+        {
+            "PackerCode": "Tyson",
+            "PaymentGridName": "Tyson",
+            "CompanyID": 162749,
+            "PaymentGridID": 25,
+            "MarketContract": ""
+        },
+        {
+            "PackerCode": "CFG",
+            "PaymentGridName": "Clemens",
+            "CompanyID": 99667,
+            "PaymentGridID": 53,
+            "MarketContract": ""
+        },
+        {
+            "PackerCode": "Cargill",
+            "PaymentGridName": "Cargill",
+            "CompanyID": 107348,
+            "PaymentGridID": 2,
+            "MarketContract": ""
+        },
+        {
+            "PackerCode": "Triumph",
+            "PaymentGridName": "Triumph - PIA",
+            "CompanyID": 93591,
+            "PaymentGridID": 58,
+            "MarketContract": ""
+        },
+        {
+            "PackerCode": "MR",
+            "PaymentGridName": "Moon Ridge",
+            "CompanyID": 100951,
+            "PaymentGridID": 59,
+            "MarketContract": ""
+        },
+        {
+            "PackerCode": "Tyson",
+            "PaymentGridName": "Tyson",
+            "CompanyID": 90965,
+            "PaymentGridID": 25,
+            "MarketContract": "Tyson"
+        },
+        {
+            "PackerCode": "Cargill",
+            "PaymentGridName": "Cargill",
+            "CompanyID": 90965,
+            "PaymentGridID": 2,
+            "MarketContract": "Contract #3"
+        },
+        {
+            "PackerCode": "Cargill",
+            "PaymentGridName": "Cargill",
+            "CompanyID": 100951,
+            "PaymentGridID": 2,
+            "MarketContract": "Farmland-Heavy"
+        },
+        {
+            "PackerCode": "CFG",
+            "PaymentGridName": "Clemens",
+            "CompanyID": 162620,
+            "PaymentGridID": 53,
+            "MarketContract": ""
+        },
+        {
+            "PackerCode": "Smithfield",
+            "PaymentGridName": "Farmland Heavy",
+            "CompanyID": 165476,
+            "PaymentGridID": 40,
+            "MarketContract": ""
+        },
+        {
+            "PackerCode": "PRF",
+            "PaymentGridName": "Pine Ridge Farms - Pillen Custom",
+            "CompanyID": 89778,
+            "PaymentGridID": 62,
+            "MarketContract": ""
+        },
+        {
+            "PackerCode": "Cargill",
+            "PaymentGridName": "Cargill",
+            "CompanyID": 18187,
+            "PaymentGridID": 2,
+            "MarketContract": ""
+        },
+        {
+            "PackerCode": "JBS",
+            "PaymentGridName": "JBS",
+            "CompanyID": 18187,
+            "PaymentGridID": 43,
+            "MarketContract": ""
+        },
+        {
+            "PackerCode": "Tyson",
+            "PaymentGridName": "Tyson",
+            "CompanyID": 18187,
+            "PaymentGridID": 25,
+            "MarketContract": ""
+        },
+        {
+            "PackerCode": "Seaboard Triumph Foods",
+            "PaymentGridName": "Seaboard Triumph - CF 2018",
+            "CompanyID": 90549,
+            "PaymentGridID": 67,
+            "MarketContract": ""
+        },
+        {
+            "PackerCode": "Tyson",
+            "PaymentGridName": "Tyson LSI Custom",
+            "CompanyID": 100655,
+            "PaymentGridID": 69,
+            "MarketContract": ""
+        },
+        {
+            "PackerCode": "WS",
+            "PaymentGridName": "WholeStone Farms",
+            "CompanyID": 92940,
+            "PaymentGridID": 68,
+            "MarketContract": "Wholestone 19 Members OIF"
+        },
+        {
+            "PackerCode": "WS",
+            "PaymentGridName": "Hormel Heavy Matrix",
+            "CompanyID": 92940,
+            "PaymentGridID": 71,
+            "MarketContract": "Wholestone 18 IIF2"
+        },
+        {
+            "PackerCode": "WS",
+            "PaymentGridName": "WholeStone Farms",
+            "CompanyID": 92940,
+            "PaymentGridID": 68,
+            "MarketContract": "Hormel 21 IIF2"
+        },
+        {
+            "PackerCode": "WS",
+            "PaymentGridName": "WholeStone Hormel",
+            "CompanyID": 92940,
+            "PaymentGridID": 70,
+            "MarketContract": "Wholestone 17 IIF"
+        },
+        {
+            "PackerCode": "JBS",
+            "PaymentGridName": "JBS",
+            "CompanyID": 89389,
+            "PaymentGridID": 43,
+            "MarketContract": "Swift OPG"
+        },
+        {
+            "PackerCode": "WS",
+            "PaymentGridName": "WholeStone Farms",
+            "CompanyID": 89778,
+            "PaymentGridID": 68,
+            "MarketContract": ""
+        },
+        {
+            "PackerCode": "Prestage",
+            "PaymentGridName": "Prestage Public",
+            "CompanyID": 108456,
+            "PaymentGridID": 72,
+            "MarketContract": ""
+        },
+        {
+            "PackerCode": "WS",
+            "PaymentGridName": "WholeStone Farms",
+            "CompanyID": 99940,
+            "PaymentGridID": 68,
+            "MarketContract": ""
+        },
+        {
+            "PackerCode": "WS",
+            "PaymentGridName": "Hormel Heavy Matrix",
+            "CompanyID": 108456,
+            "PaymentGridID": 71,
+            "MarketContract": ""
+        },
+        {
+            "PackerCode": "Smithfield",
+            "PaymentGridName": "Farmland Heavy",
+            "CompanyID": 92940,
+            "PaymentGridID": 40,
+            "MarketContract": "Smithfield 19 OIF"
+        },
+        {
+            "PackerCode": "Smithfield",
+            "PaymentGridName": "Farmland Heavy",
+            "CompanyID": 92940,
+            "PaymentGridID": 40,
+            "MarketContract": "Smithfield 17 IIF"
+        },
+        {
+            "PackerCode": "HML",
+            "PaymentGridName": "Hormel",
+            "CompanyID": 92940,
+            "PaymentGridID": 9,
+            "MarketContract": "Hormel 17 IIF"
+        },
+        {
+            "PackerCode": "HML",
+            "PaymentGridName": "Hormel",
+            "CompanyID": 92940,
+            "PaymentGridID": 9,
+            "MarketContract": "Hormel 18 IIF LSH"
+        },
+        {
+            "PackerCode": "Smithfield",
+            "PaymentGridName": "Farmland Heavy",
+            "CompanyID": 92940,
+            "PaymentGridID": 40,
+            "MarketContract": "JBS 17 OIF OPG"
+        },
+        {
+            "PackerCode": "HML",
+            "PaymentGridName": "Hormel",
+            "CompanyID": 92940,
+            "PaymentGridID": 9,
+            "MarketContract": "Hormel 17 OIF"
+        },
+        {
+            "PackerCode": "HML",
+            "PaymentGridName": "Hormel",
+            "CompanyID": 92940,
+            "PaymentGridID": 9,
+            "MarketContract": "Wholestone 17 IIF"
+        },
+        {
+            "PackerCode": "JBS",
+            "PaymentGridName": "JBS",
+            "CompanyID": 92940,
+            "PaymentGridID": 43,
+            "MarketContract": "JBS 19 OIF"
+        },
+        {
+            "PackerCode": "JBS",
+            "PaymentGridName": "JBS",
+            "CompanyID": 92940,
+            "PaymentGridID": 43,
+            "MarketContract": "JBS 17 OIF OPG"
+        },
+        {
+            "PackerCode": "JBS",
+            "PaymentGridName": "JBS",
+            "CompanyID": 92940,
+            "PaymentGridID": 43,
+            "MarketContract": "JBS 17 OIF ends 1/13/19"
+        },
+        {
+            "PackerCode": "Cargill",
+            "PaymentGridName": "Cargill",
+            "CompanyID": 92940,
+            "PaymentGridID": 2,
+            "MarketContract": "JBS 19 OIF"
+        },
+        {
+            "PackerCode": "Cargill",
+            "PaymentGridName": "Cargill",
+            "CompanyID": 92940,
+            "PaymentGridID": 2,
+            "MarketContract": "JBS 17 OIF ends 1/13/19"
+        },
+        {
+            "PackerCode": "Cargill",
+            "PaymentGridName": "Cargill",
+            "CompanyID": 92940,
+            "PaymentGridID": 2,
+            "MarketContract": "JBS 17 OIF OPG"
+        },
+        {
+            "PackerCode": "Tyson",
+            "PaymentGridName": "Tyson",
+            "CompanyID": 92940,
+            "PaymentGridID": 25,
+            "MarketContract": "Tyson 19 OIF"
+        },
+        {
+            "PackerCode": "Tyson",
+            "PaymentGridName": "Tyson",
+            "CompanyID": 92940,
+            "PaymentGridID": 25,
+            "MarketContract": "Tyson 17 OIF ends 2/3/19"
+        },
+        {
+            "PackerCode": "Tyson",
+            "PaymentGridName": "Tyson",
+            "CompanyID": 92940,
+            "PaymentGridID": 25,
+            "MarketContract": "Smithfield 19 OIF PVP"
+        },
+        {
+            "PackerCode": "Tyson",
+            "PaymentGridName": "Tyson",
+            "CompanyID": 92940,
+            "PaymentGridID": 25,
+            "MarketContract": "Hormel 17 OIF"
+        },
+        {
+            "PackerCode": "Tyson",
+            "PaymentGridName": "Tyson",
+            "CompanyID": 92940,
+            "PaymentGridID": 25,
+            "MarketContract": "Wholestone 17 IIF"
+        },
+        {
+            "PackerCode": "Tyson",
+            "PaymentGridName": "Tyson",
+            "CompanyID": 92940,
+            "PaymentGridID": 25,
+            "MarketContract": "Tyson 17 OIF"
+        },
+        {
+            "PackerCode": "Smithfield",
+            "PaymentGridName": "Farmland",
+            "CompanyID": 99940,
+            "PaymentGridID": 41,
+            "MarketContract": ""
+        },
+        {
+            "PackerCode": "Smithfield",
+            "PaymentGridName": "Farmland Heavy",
+            "CompanyID": 93092,
+            "PaymentGridID": 40,
+            "MarketContract": ""
+        },
+        {
+            "PackerCode": "Smithfield",
+            "PaymentGridName": "Farmland Heavy",
+            "CompanyID": 92940,
+            "PaymentGridID": 40,
+            "MarketContract": ""
+        },
+        {
+            "PackerCode": "Smithfield",
+            "PaymentGridName": "Smithfield Heavy",
+            "CompanyID": 89778,
+            "PaymentGridID": 42,
+            "MarketContract": ""
+        },
+        {
+            "PackerCode": "Smithfield",
+            "PaymentGridName": "Farmland",
+            "CompanyID": 93591,
+            "PaymentGridID": 41,
+            "MarketContract": ""
+        },
+        {
+            "PackerCode": "Smithfield",
+            "PaymentGridName": "Farmland",
+            "CompanyID": 88605,
+            "PaymentGridID": 41,
+            "MarketContract": ""
+        },
+        {
+            "PackerCode": "Smithfield",
+            "PaymentGridName": "Farmland",
+            "CompanyID": 100951,
+            "PaymentGridID": 41,
+            "MarketContract": ""
+        },
+        {
+            "PackerCode": "Smithfield",
+            "PaymentGridName": "Farmland",
+            "CompanyID": 17610,
+            "PaymentGridID": 41,
+            "MarketContract": ""
+        },
+        {
+            "PackerCode": "Smithfield",
+            "PaymentGridName": "Farmland",
+            "CompanyID": 89389,
+            "PaymentGridID": 41,
+            "MarketContract": ""
+        },
+        {
+            "PackerCode": "Smithfield",
+            "PaymentGridName": "Farmland",
+            "CompanyID": 100951,
+            "PaymentGridID": 41,
+            "MarketContract": "Farmland - Light"
+        },
+        {
+            "PackerCode": "Smithfield",
+            "PaymentGridName": "Farmland",
+            "CompanyID": 100951,
+            "PaymentGridID": 41,
+            "MarketContract": "Farmland-Light"
+        },
+        {
+            "PackerCode": "Smithfield",
+            "PaymentGridName": "Farmland Heavy",
+            "CompanyID": 100951,
+            "PaymentGridID": 40,
+            "MarketContract": "Farmland - Heavy"
+        },
+        {
+            "PackerCode": "Smithfield",
+            "PaymentGridName": "Farmland Heavy",
+            "CompanyID": 100951,
+            "PaymentGridID": 40,
+            "MarketContract": "Farmland-Heavy"
+        },
+        {
+            "PackerCode": "JBS",
+            "PaymentGridName": "JBS",
+            "CompanyID": 162932,
+            "PaymentGridID": 43,
+            "MarketContract": ""
+        },
+        {
+            "PackerCode": "HML",
+            "PaymentGridName": "Hormel",
+            "CompanyID": 99998,
+            "PaymentGridID": 9,
+            "MarketContract": ""
+        },
+        {
+            "PackerCode": "Smithfield",
+            "PaymentGridName": "Farmland Heavy",
+            "CompanyID": 159977,
+            "PaymentGridID": 40,
+            "MarketContract": ""
+        },
+        {
+            "PackerCode": "Smithfield",
+            "PaymentGridName": "Farmland Heavy",
+            "CompanyID": 109570,
+            "PaymentGridID": 40,
+            "MarketContract": ""
+        },
+        {
+            "PackerCode": "Smithfield",
+            "PaymentGridName": "Farmland",
+            "CompanyID": 95374,
+            "PaymentGridID": 41,
+            "MarketContract": ""
+        },
+        {
+            "PackerCode": "Swift",
+            "PaymentGridName": "Swift",
+            "CompanyID": 99998,
+            "PaymentGridID": 21,
+            "MarketContract": ""
+        },
+        {
+            "PackerCode": "Smithfield",
+            "PaymentGridName": "Farmland Heavy",
+            "CompanyID": 12237,
+            "PaymentGridID": 40,
+            "MarketContract": ""
+        },
+        {
+            "PackerCode": "Cargill",
+            "PaymentGridName": "Cargill",
+            "CompanyID": 162156,
+            "PaymentGridID": 2,
+            "MarketContract": ""
+        },
+        {
+            "PackerCode": "Cargill",
+            "PaymentGridName": "Cargill",
+            "CompanyID": 90965,
+            "PaymentGridID": 2,
+            "MarketContract": ""
+        },
+        {
+            "PackerCode": "WS",
+            "PaymentGridName": "WholeStone Farms",
+            "CompanyID": 92940,
+            "PaymentGridID": 68,
+            "MarketContract": "Hormel 17 IIF"
+        },
+        {
+            "PackerCode": "Smithfield",
+            "PaymentGridName": "Farmland Heavy",
+            "CompanyID": 92940,
+            "PaymentGridID": 40,
+            "MarketContract": "Tyson 19 OIF"
+        },
+        {
+            "PackerCode": "JBS",
+            "PaymentGridName": "JBS",
+            "CompanyID": 99940,
+            "PaymentGridID": 43,
+            "MarketContract": ""
+        },
+        {
+            "PackerCode": "JBS",
+            "PaymentGridName": "JBS",
+            "CompanyID": 101855,
+            "PaymentGridID": 43,
+            "MarketContract": ""
+        },
+        {
+            "PackerCode": "JBS",
+            "PaymentGridName": "JBS",
+            "CompanyID": 19589,
+            "PaymentGridID": 43,
+            "MarketContract": ""
+        },
+        {
+            "PackerCode": "JBS",
+            "PaymentGridName": "JBS",
+            "CompanyID": 17534,
+            "PaymentGridID": 43,
+            "MarketContract": ""
+        },
+        {
+            "PackerCode": "JBS",
+            "PaymentGridName": "JBS",
+            "CompanyID": 93092,
+            "PaymentGridID": 43,
+            "MarketContract": ""
+        },
+        {
+            "PackerCode": "JBS",
+            "PaymentGridName": "JBS",
+            "CompanyID": 92940,
+            "PaymentGridID": 43,
+            "MarketContract": ""
+        },
+        {
+            "PackerCode": "JBS",
+            "PaymentGridName": "JBS",
+            "CompanyID": 88605,
+            "PaymentGridID": 43,
+            "MarketContract": ""
+        },
+        {
+            "PackerCode": "JBS",
+            "PaymentGridName": "JBS",
+            "CompanyID": 100951,
+            "PaymentGridID": 43,
+            "MarketContract": ""
+        },
+        {
+            "PackerCode": "JBS",
+            "PaymentGridName": "JBS",
+            "CompanyID": 17610,
+            "PaymentGridID": 43,
+            "MarketContract": ""
+        },
+        {
+            "PackerCode": "JBS",
+            "PaymentGridName": "JBS",
+            "CompanyID": 89389,
+            "PaymentGridID": 43,
+            "MarketContract": ""
+        },
+        {
+            "PackerCode": "JBS",
+            "PaymentGridName": "JBS",
+            "CompanyID": 14999,
+            "PaymentGridID": 43,
+            "MarketContract": ""
+        },
+        {
+            "PackerCode": "JBS",
+            "PaymentGridName": "JBS",
+            "CompanyID": 107858,
+            "PaymentGridID": 43,
+            "MarketContract": ""
+        },
+        {
+            "PackerCode": "JBS",
+            "PaymentGridName": "JBS",
+            "CompanyID": 109570,
+            "PaymentGridID": 43,
+            "MarketContract": ""
+        },
+        {
+            "PackerCode": "JBS",
+            "PaymentGridName": "JBS",
+            "CompanyID": 90150,
+            "PaymentGridID": 43,
+            "MarketContract": ""
+        },
+        {
+            "PackerCode": "JBS",
+            "PaymentGridName": "JBS",
+            "CompanyID": 95374,
+            "PaymentGridID": 43,
+            "MarketContract": ""
+        },
+        {
+            "PackerCode": "JBS",
+            "PaymentGridName": "JBS",
+            "CompanyID": 99998,
+            "PaymentGridID": 43,
+            "MarketContract": ""
+        },
+        {
+            "PackerCode": "JBS",
+            "PaymentGridName": "JBS",
+            "CompanyID": 90274,
+            "PaymentGridID": 43,
+            "MarketContract": ""
+        },
+        {
+            "PackerCode": "JBS",
+            "PaymentGridName": "JBS",
+            "CompanyID": 12237,
+            "PaymentGridID": 43,
+            "MarketContract": ""
+        },
+        {
+            "PackerCode": "IPC",
+            "PaymentGridName": "IPC - 2015",
+            "CompanyID": 99667,
+            "PaymentGridID": 44,
+            "MarketContract": "Contract Load"
+        },
+        {
+            "PackerCode": "IPC",
+            "PaymentGridName": "IPC - 2015",
+            "CompanyID": 99667,
+            "PaymentGridID": 44,
+            "MarketContract": "Open Market"
+        },
+        {
+            "PackerCode": "Cargill",
+            "PaymentGridName": "Cargill",
+            "CompanyID": 109570,
+            "PaymentGridID": 2,
+            "MarketContract": "Light Matrix"
+        },
+        {
+            "PackerCode": "HML",
+            "PaymentGridName": "Hormel",
+            "CompanyID": 109570,
+            "PaymentGridID": 9,
+            "MarketContract": "Heavy Matrix"
+        },
+        {
+            "PackerCode": "HML",
+            "PaymentGridName": "Hormel",
+            "CompanyID": 109570,
+            "PaymentGridID": 9,
+            "MarketContract": "Light Matrix"
+        },
+        {
+            "PackerCode": "JBS",
+            "PaymentGridName": "JBS",
+            "CompanyID": 19227,
+            "PaymentGridID": 43,
+            "MarketContract": ""
+        },
+        {
+            "PackerCode": "JBS",
+            "PaymentGridName": "JBS",
+            "CompanyID": 93668,
+            "PaymentGridID": 43,
+            "MarketContract": ""
+        },
+        {
+            "PackerCode": "CFG",
+            "PaymentGridName": "Clemens Hord",
+            "CompanyID": 18931,
+            "PaymentGridID": 54,
+            "MarketContract": ""
+        },
+        {
+            "PackerCode": "CFG",
+            "PaymentGridName": "Clemens PSM",
+            "CompanyID": 100951,
+            "PaymentGridID": 55,
+            "MarketContract": ""
+        },
+        {
+            "PackerCode": "CFG",
+            "PaymentGridName": "Clemens",
+            "CompanyID": 94188,
+            "PaymentGridID": 53,
+            "MarketContract": ""
+        },
+        {
+            "PackerCode": "CFG",
+            "PaymentGridName": "Clemens",
+            "CompanyID": 106149,
+            "PaymentGridID": 53,
+            "MarketContract": ""
+        },
+        {
+            "PackerCode": "CFG",
+            "PaymentGridName": "Clemens",
+            "CompanyID": 90401,
+            "PaymentGridID": 53,
+            "MarketContract": ""
+        },
+        {
+            "PackerCode": "CFG",
+            "PaymentGridName": "Clemens",
+            "CompanyID": 109134,
+            "PaymentGridID": 53,
+            "MarketContract": ""
+        },
+        {
+            "PackerCode": "Cargill",
+            "PaymentGridName": "Cargill",
+            "CompanyID": 90965,
+            "PaymentGridID": 2,
+            "MarketContract": "Contract #4"
+        },
+        {
+            "PackerCode": "JBS",
+            "PaymentGridName": "JBS",
+            "CompanyID": 90965,
+            "PaymentGridID": 43,
+            "MarketContract": "Contract #1"
+        },
+        {
+            "PackerCode": "JBS",
+            "PaymentGridName": "JBS",
+            "CompanyID": 90965,
+            "PaymentGridID": 43,
+            "MarketContract": "Contract #3"
+        },
+        {
+            "PackerCode": "JBS",
+            "PaymentGridName": "JBS",
+            "CompanyID": 90965,
+            "PaymentGridID": 43,
+            "MarketContract": "Contract #4"
+        },
+        {
+            "PackerCode": "Tyson",
+            "PaymentGridName": "Tyson",
+            "CompanyID": 162932,
+            "PaymentGridID": 25,
+            "MarketContract": ""
+        },
+        {
+            "PackerCode": "IPC",
+            "PaymentGridName": "IPC - 2015",
+            "CompanyID": 89389,
+            "PaymentGridID": 44,
+            "MarketContract": ""
+        },
+        {
+            "PackerCode": "IPC",
+            "PaymentGridName": "IPC - 2015",
+            "CompanyID": 89389,
+            "PaymentGridID": 44,
+            "MarketContract": "OPEN HOGS"
+        }
+    ]},
+    "UserLocaleType": "en-US",
+    "AccountUnitList": {"FieldUnit": [
+        {
+            "CompanyID": 88720,
+            "UnitName": "lbs",
+            "UnitSymbol": "n/a",
+            "FieldName": "GroupStartWeight"
+        },
+        {
+            "CompanyID": 88720,
+            "UnitName": "USD",
+            "UnitSymbol": "$",
+            "FieldName": "CarcassBasePrice"
+        },
+        {
+            "CompanyID": 88720,
+            "UnitName": "USD",
+            "UnitSymbol": "$",
+            "FieldName": "TotalFeedCost"
+        },
+        {
+            "CompanyID": 92940,
+            "UnitName": "lbs",
+            "UnitSymbol": "n/a",
+            "FieldName": "GroupStartWeight"
+        },
+        {
+            "CompanyID": 92940,
+            "UnitName": "USD",
+            "UnitSymbol": "$",
+            "FieldName": "CarcassBasePrice"
+        },
+        {
+            "CompanyID": 92940,
+            "UnitName": "USD",
+            "UnitSymbol": "$",
+            "FieldName": "TotalFeedCost"
+        }
+    ]},
+    "OMWLiteUserGuideUrl": "UserGuideFile/Profit Optimizer Y User Guide.pdf",
+    "PFCriteria": {"string": [
+        "Producer",
+        "Site",
+        "Pig Flow",
+        "Pod Name",
+        "Business Unit",
+        "Group Name",
+        "Barn Cut",
+        "Production Type"
+    ]},
+    "ContactID": 17144,
+    "PFLiteFeature": {
+        "FeatureID": 700,
+        "AccountIDs": {"int": [
+            97498,
+            96384
+        ]},
+        "AccountList": {"AccountName": [
+            {
+                "DefaultCOAName": "Swine/Global/FVP Lite",
+                "ID": 97498,
+                "Name": "FVP Lite XYZ South Korean Won"
+            },
+            {
+                "DefaultCOAName": "Swine/Global/FVP Lite",
+                "ID": 96384,
+                "Name": "FVP Lite XYZ US Dollar (lbs)"
+            }
+        ]},
+        "IsValid": true
+    },
+    "PFFeature": {
+        "FeatureID": 670,
+        "AccountIDs": {"int": [
+            88720,
+            92940
+        ]},
+        "AccountList": {"AccountName": [
+            {
+                "DefaultCOAName": "Swine/US/Finishing",
+                "ID": 88720,
+                "Name": "AMVC (E1\\AMVC)"
+            },
+            {
+                "DefaultCOAName": "Swine/US/Finishing",
+                "ID": 92940,
+                "Name": "Orange City Veterinary Clinic (E1\\OCV)"
+            }
+        ]},
+        "IsValid": true
+    },
+    "AttritionEntryFeature": {
+        "FeatureID": 729,
+        "AccountIDs": {"int": [
+            97498,
+            96384
+        ]},
+        "AccountList": {"AccountName": [
+            {
+                "DefaultCOAName": "Swine/Global/FVP Lite",
+                "ID": 97498,
+                "Name": "FVP Lite XYZ South Korean Won"
+            },
+            {
+                "DefaultCOAName": "Swine/Global/FVP Lite",
+                "ID": 96384,
+                "Name": "FVP Lite XYZ US Dollar (lbs)"
+            }
+        ]},
+        "IsValid": true
+    },
+    "LastActivitySubject": "Profit Optimizer",
+    "PHEFeature": {
+        "FeatureID": 730,
+        "AccountIDs": {"int": [
+            97498,
+            96384
+        ]},
+        "AccountList": {"AccountName": [
+            {
+                "DefaultCOAName": "Swine/Global/FVP Lite",
+                "ID": 97498,
+                "Name": "FVP Lite XYZ South Korean Won"
+            },
+            {
+                "DefaultCOAName": "Swine/Global/FVP Lite",
+                "ID": 96384,
+                "Name": "FVP Lite XYZ US Dollar (lbs)"
+            }
+        ]},
+        "IsValid": true
+    },
+    "LiteMetadataUnits": {"FVPMetadataUnit": [
+        {
+            "CurrencyUnit": {
+                "FieldUnit": "South Korean Won",
+                "DataObject": "Currency Units",
+                "UnitID": 55,
+                "UnitType": "Currencies",
+                "AliasName": "KRW"
+            },
+            "AccountID": 97498,
+            "WeightUnit": {
+                "FieldUnit": "Kilogram",
+                "DataObject": "Weight Units",
+                "UnitID": 9,
+                "UnitType": "Weight",
+                "AliasName": "KG"
+            }
+        },
+        {
+            "CurrencyUnit": {
+                "FieldUnit": "US Dollar",
+                "DataObject": "Currency Units",
+                "UnitID": 25,
+                "UnitType": "Currencies",
+                "AliasName": "USD"
+            },
+            "AccountID": 96384,
+            "WeightUnit": {
+                "FieldUnit": "Pound",
+                "DataObject": "Weight Units",
+                "UnitID": 12,
+                "UnitType": "Weight",
+                "AliasName": "lbs"
+            }
+        }
+    ]},
+    "OMWCriteria": {"string": [
+        "Producer",
+        "Site",
+        "Pig Flow",
+        "Pod Name",
+        "Business Unit",
+        "Group Name",
+        "Barn Cut"
+    ]},
+    "PerformanceList": {"PerformanceParameter": [
+        {
+            "PerformanceParameterID": 722,
+            "CullPercentofBaseADFI": 0,
+            "IsDefault": false,
+            "AccountID": 97498,
+            "CarcassBasePrice": 0,
+            "DeadLivePrice": 0,
+            "CullPercentofBaseADG": 0.04999999955296518,
+            "NonAmbulatoryLivePrice": 0,
+            "CullsLivePrice": 0,
+            "OverWeekPostWeanADG": 0.68,
+            "MortalityofBaseADG": 0.019,
+            "PeriodMarketing": 0,
+            "PigCost": 0,
+            "MortalityofBaseADFI": 0,
+            "OverWeekPostWeanADFI": 3.402,
+            "PerformanceParameterName": 1
+        },
+        {
+            "PerformanceParameterID": 386,
+            "CullPercentofBaseADFI": 0,
+            "IsDefault": false,
+            "AccountID": 88720,
+            "CarcassBasePrice": 0,
+            "DeadLivePrice": 0,
+            "CullPercentofBaseADG": 0,
+            "NonAmbulatoryLivePrice": 0,
+            "CullsLivePrice": 0,
+            "OverWeekPostWeanADG": 1.5,
+            "MortalityofBaseADG": 0,
+            "PeriodMarketing": 0,
+            "PigCost": 0,
+            "MortalityofBaseADFI": 0,
+            "OverWeekPostWeanADFI": 7.5,
+            "PerformanceParameterName": 123
+        },
+        {
+            "PerformanceParameterID": 1223,
+            "CullPercentofBaseADFI": 0.9,
+            "IsDefault": true,
+            "AccountID": 88720,
+            "CarcassBasePrice": 70,
+            "DeadLivePrice": 0,
+            "CullPercentofBaseADG": 0.9,
+            "NonAmbulatoryLivePrice": 40,
+            "CullsLivePrice": 40,
+            "OverWeekPostWeanADG": 1.5,
+            "MortalityofBaseADG": 0.8,
+            "PeriodMarketing": 20000,
+            "PigCost": 35,
+            "MortalityofBaseADFI": 0.9,
+            "OverWeekPostWeanADFI": 7.5,
+            "PerformanceParameterName": "AMVC_Feb_2019"
+        },
+        {
+            "PerformanceParameterID": 851,
+            "CullPercentofBaseADFI": 0.9,
+            "IsDefault": false,
+            "AccountID": 88720,
+            "CarcassBasePrice": 70,
+            "DeadLivePrice": 0,
+            "CullPercentofBaseADG": 0.9,
+            "NonAmbulatoryLivePrice": 37.5,
+            "CullsLivePrice": 37.5,
+            "OverWeekPostWeanADG": 1.5,
+            "MortalityofBaseADG": 0.8,
+            "PeriodMarketing": 40000,
+            "PigCost": 35,
+            "MortalityofBaseADFI": 0.9,
+            "OverWeekPostWeanADFI": 7.5,
+            "PerformanceParameterName": "AMVC_Sept_2016"
+        },
+        {
+            "PerformanceParameterID": 552,
+            "CullPercentofBaseADFI": 0.9,
+            "IsDefault": false,
+            "AccountID": 88720,
+            "CarcassBasePrice": 0,
+            "DeadLivePrice": 0,
+            "CullPercentofBaseADG": 0.9,
+            "NonAmbulatoryLivePrice": 0,
+            "CullsLivePrice": 0,
+            "OverWeekPostWeanADG": 1.5,
+            "MortalityofBaseADG": 0.8,
+            "PeriodMarketing": 0,
+            "PigCost": 0,
+            "MortalityofBaseADFI": 0.8,
+            "OverWeekPostWeanADFI": 7.5,
+            "PerformanceParameterName": "APPO_3_2015"
+        },
+        {
+            "PerformanceParameterID": 276,
+            "CullPercentofBaseADFI": 0,
+            "IsDefault": false,
+            "AccountID": 96384,
+            "CarcassBasePrice": 0,
+            "DeadLivePrice": 0,
+            "CullPercentofBaseADG": 0,
+            "NonAmbulatoryLivePrice": 0,
+            "CullsLivePrice": 0,
+            "OverWeekPostWeanADG": 1.5,
+            "MortalityofBaseADG": 0,
+            "PeriodMarketing": 0,
+            "PigCost": 0,
+            "MortalityofBaseADFI": 0,
+            "OverWeekPostWeanADFI": 7.5,
+            "PerformanceParameterName": "C1"
+        },
+        {
+            "PerformanceParameterID": 321,
+            "CullPercentofBaseADFI": 0.9,
+            "IsDefault": false,
+            "AccountID": 88720,
+            "CarcassBasePrice": 70,
+            "DeadLivePrice": 0,
+            "CullPercentofBaseADG": 0.9,
+            "NonAmbulatoryLivePrice": 30,
+            "CullsLivePrice": 30,
+            "OverWeekPostWeanADG": 1.5,
+            "MortalityofBaseADG": 0.8,
+            "PeriodMarketing": 100000,
+            "PigCost": 35,
+            "MortalityofBaseADFI": 0.9,
+            "OverWeekPostWeanADFI": 7.5,
+            "PerformanceParameterName": "Custom 10-13"
+        },
+        {
+            "PerformanceParameterID": 1012,
+            "CullPercentofBaseADFI": 0,
+            "IsDefault": false,
+            "AccountID": 97498,
+            "CarcassBasePrice": 0,
+            "DeadLivePrice": 0,
+            "CullPercentofBaseADG": 0,
+            "NonAmbulatoryLivePrice": 0,
+            "CullsLivePrice": 0,
+            "OverWeekPostWeanADG": 0.68,
+            "MortalityofBaseADG": 0,
+            "PeriodMarketing": 1,
+            "PigCost": 0,
+            "MortalityofBaseADFI": 0,
+            "OverWeekPostWeanADFI": 3.402,
+            "PerformanceParameterName": "Doam"
+        },
+        {
+            "PerformanceParameterID": 786,
+            "CullPercentofBaseADFI": 0,
+            "IsDefault": false,
+            "AccountID": 96384,
+            "CarcassBasePrice": 0,
+            "DeadLivePrice": 0,
+            "CullPercentofBaseADG": 0,
+            "NonAmbulatoryLivePrice": 0,
+            "CullsLivePrice": 0,
+            "OverWeekPostWeanADG": 1.5,
+            "MortalityofBaseADG": 0,
+            "PeriodMarketing": 0,
+            "PigCost": 0,
+            "MortalityofBaseADFI": 0,
+            "OverWeekPostWeanADFI": 7.5,
+            "PerformanceParameterName": "Ginger"
+        },
+        {
+            "PerformanceParameterID": 1061,
+            "CullPercentofBaseADFI": 0,
+            "IsDefault": false,
+            "AccountID": 96384,
+            "CarcassBasePrice": 0,
+            "DeadLivePrice": 0,
+            "CullPercentofBaseADG": 0,
+            "NonAmbulatoryLivePrice": 0,
+            "CullsLivePrice": 0,
+            "OverWeekPostWeanADG": 1.5,
+            "MortalityofBaseADG": 0,
+            "PeriodMarketing": 0,
+            "PigCost": 0,
+            "MortalityofBaseADFI": 0,
+            "OverWeekPostWeanADFI": 7.5,
+            "PerformanceParameterName": "Ginger Test"
+        },
+        {
+            "PerformanceParameterID": 166,
+            "CullPercentofBaseADFI": 0,
+            "IsDefault": false,
+            "AccountID": 96384,
+            "CarcassBasePrice": 0,
+            "DeadLivePrice": 0,
+            "CullPercentofBaseADG": 0,
+            "NonAmbulatoryLivePrice": 0,
+            "CullsLivePrice": 0,
+            "OverWeekPostWeanADG": 1.5,
+            "MortalityofBaseADG": 0,
+            "PeriodMarketing": 0,
+            "PigCost": 0,
+            "MortalityofBaseADFI": 0,
+            "OverWeekPostWeanADFI": 7.5,
+            "PerformanceParameterName": "klj;klj"
+        },
+        {
+            "PerformanceParameterID": 157,
+            "CullPercentofBaseADFI": 0,
+            "IsDefault": false,
+            "AccountID": 96384,
+            "CarcassBasePrice": 0,
+            "DeadLivePrice": 0,
+            "CullPercentofBaseADG": 0,
+            "NonAmbulatoryLivePrice": 0,
+            "CullsLivePrice": 0,
+            "OverWeekPostWeanADG": 1.5,
+            "MortalityofBaseADG": 0,
+            "PeriodMarketing": 0,
+            "PigCost": 0,
+            "MortalityofBaseADFI": 0,
+            "OverWeekPostWeanADFI": 7.5,
+            "PerformanceParameterName": "lite test"
+        },
+        {
+            "PerformanceParameterID": 164,
+            "CullPercentofBaseADFI": 0.8000000044703434,
+            "IsDefault": false,
+            "AccountID": 96384,
+            "CarcassBasePrice": 65,
+            "DeadLivePrice": 0,
+            "CullPercentofBaseADG": 0.8000000044703447,
+            "NonAmbulatoryLivePrice": 50,
+            "CullsLivePrice": 40,
+            "OverWeekPostWeanADG": 1.5,
+            "MortalityofBaseADG": 0.9000000022351725,
+            "PeriodMarketing": 1000,
+            "PigCost": 20,
+            "MortalityofBaseADFI": 0.8999999798834506,
+            "OverWeekPostWeanADFI": 7.5,
+            "PerformanceParameterName": "lite test2"
+        },
+        {
+            "PerformanceParameterID": 90,
+            "CullPercentofBaseADFI": 0.9,
+            "IsDefault": true,
+            "AccountID": 92940,
+            "CarcassBasePrice": 60,
+            "DeadLivePrice": 0,
+            "CullPercentofBaseADG": 0.9,
+            "NonAmbulatoryLivePrice": 32,
+            "CullsLivePrice": 20,
+            "OverWeekPostWeanADG": 1.5,
+            "MortalityofBaseADG": 0.8,
+            "PeriodMarketing": 150000,
+            "PigCost": 38,
+            "MortalityofBaseADFI": 0.9,
+            "OverWeekPostWeanADFI": 7.5,
+            "PerformanceParameterName": "OCV"
+        },
+        {
+            "PerformanceParameterID": 72,
+            "CullPercentofBaseADFI": 0.9,
+            "IsDefault": false,
+            "AccountID": 88720,
+            "CarcassBasePrice": 85,
+            "DeadLivePrice": 0,
+            "CullPercentofBaseADG": 0.9,
+            "NonAmbulatoryLivePrice": 45,
+            "CullsLivePrice": 30,
+            "OverWeekPostWeanADG": 1.5,
+            "MortalityofBaseADG": 0.8,
+            "PeriodMarketing": 60000,
+            "PigCost": 38.5,
+            "MortalityofBaseADFI": 0.8,
+            "OverWeekPostWeanADFI": 7.5,
+            "PerformanceParameterName": "PIC Sept2012"
+        },
+        {
+            "PerformanceParameterID": 314,
+            "CullPercentofBaseADFI": 0.9,
+            "IsDefault": false,
+            "AccountID": 88720,
+            "CarcassBasePrice": 93.5,
+            "DeadLivePrice": 0,
+            "CullPercentofBaseADG": 0.9,
+            "NonAmbulatoryLivePrice": 49.4,
+            "CullsLivePrice": 35,
+            "OverWeekPostWeanADG": 1.5,
+            "MortalityofBaseADG": 0.8,
+            "PeriodMarketing": 100000,
+            "PigCost": 35,
+            "MortalityofBaseADFI": 0.8,
+            "OverWeekPostWeanADFI": 7.5,
+            "PerformanceParameterName": "PIC Sept2013"
+        },
+        {
+            "PerformanceParameterID": 1058,
+            "CullPercentofBaseADFI": 0,
+            "IsDefault": false,
+            "AccountID": 96384,
+            "CarcassBasePrice": 0,
+            "DeadLivePrice": 0,
+            "CullPercentofBaseADG": 0,
+            "NonAmbulatoryLivePrice": 0,
+            "CullsLivePrice": 0,
+            "OverWeekPostWeanADG": 1.3,
+            "MortalityofBaseADG": 0,
+            "PeriodMarketing": 0,
+            "PigCost": 0,
+            "MortalityofBaseADFI": 0,
+            "OverWeekPostWeanADFI": 6,
+            "PerformanceParameterName": "psm 2.6"
+        },
+        {
+            "PerformanceParameterID": 269,
+            "CullPercentofBaseADFI": 0.9,
+            "IsDefault": false,
+            "AccountID": 96384,
+            "CarcassBasePrice": 85,
+            "DeadLivePrice": 0,
+            "CullPercentofBaseADG": 0.8,
+            "NonAmbulatoryLivePrice": 0,
+            "CullsLivePrice": 0,
+            "OverWeekPostWeanADG": 1.5,
+            "MortalityofBaseADG": 0.9,
+            "PeriodMarketing": 10000,
+            "PigCost": 0,
+            "MortalityofBaseADFI": 0.9,
+            "OverWeekPostWeanADFI": 7.5,
+            "PerformanceParameterName": "Standard"
+        },
+        {
+            "PerformanceParameterID": 1087,
+            "CullPercentofBaseADFI": 0.6899999845773186,
+            "IsDefault": false,
+            "AccountID": 97498,
+            "CarcassBasePrice": 0,
+            "DeadLivePrice": 0,
+            "CullPercentofBaseADG": 0,
+            "NonAmbulatoryLivePrice": 0,
+            "CullsLivePrice": 0,
+            "OverWeekPostWeanADG": 0.68,
+            "MortalityofBaseADG": 0,
+            "PeriodMarketing": 0,
+            "PigCost": 0,
+            "MortalityofBaseADFI": 0.6899999845773186,
+            "OverWeekPostWeanADFI": 3.402,
+            "PerformanceParameterName": "Standard"
+        },
+        {
+            "PerformanceParameterID": 1329,
+            "CullPercentofBaseADFI": 0,
+            "IsDefault": false,
+            "AccountID": 97498,
+            "CarcassBasePrice": 0,
+            "DeadLivePrice": 0,
+            "CullPercentofBaseADG": 0,
+            "NonAmbulatoryLivePrice": 0,
+            "CullsLivePrice": 0,
+            "OverWeekPostWeanADG": 0.68,
+            "MortalityofBaseADG": 0,
+            "PeriodMarketing": 0,
+            "PigCost": 0,
+            "MortalityofBaseADFI": 0,
+            "OverWeekPostWeanADFI": 3.402,
+            "PerformanceParameterName": "Standard 2"
+        },
+        {
+            "PerformanceParameterID": 893,
+            "CullPercentofBaseADFI": 0,
+            "IsDefault": false,
+            "AccountID": 97498,
+            "CarcassBasePrice": 0,
+            "DeadLivePrice": 0,
+            "CullPercentofBaseADG": 0,
+            "NonAmbulatoryLivePrice": 0,
+            "CullsLivePrice": 0,
+            "OverWeekPostWeanADG": 0.68,
+            "MortalityofBaseADG": 0,
+            "PeriodMarketing": 0,
+            "PigCost": 0,
+            "MortalityofBaseADFI": 0,
+            "OverWeekPostWeanADFI": 3.402,
+            "PerformanceParameterName": "Tae Hoon"
+        },
+        {
+            "PerformanceParameterID": 1327,
+            "CullPercentofBaseADFI": 0,
+            "IsDefault": false,
+            "AccountID": 88720,
+            "CarcassBasePrice": 0,
+            "DeadLivePrice": 0,
+            "CullPercentofBaseADG": 0,
+            "NonAmbulatoryLivePrice": 0,
+            "CullsLivePrice": 0,
+            "OverWeekPostWeanADG": 1.5,
+            "MortalityofBaseADG": 0,
+            "PeriodMarketing": 0,
+            "PigCost": 0,
+            "MortalityofBaseADFI": 0,
+            "OverWeekPostWeanADFI": 7.5,
+            "PerformanceParameterName": "test456"
+        }
+    ]},
+    "AttritionFeature": {
+        "FeatureID": 680,
+        "AccountIDs": {"int": [
+            88720,
+            92940
+        ]},
+        "AccountList": {"AccountName": [
+            {
+                "DefaultCOAName": "Swine/US/Finishing",
+                "ID": 88720,
+                "Name": "AMVC (E1\\AMVC)"
+            },
+            {
+                "DefaultCOAName": "Swine/US/Finishing",
+                "ID": 92940,
+                "Name": "Orange City Veterinary Clinic (E1\\OCV)"
+            }
+        ]},
+        "IsValid": true
+    },
+    "PFLiteUserGuideUrl": "UserGuideFile/Profit Finder Y User Guide.pdf",
+    "AttritionLiteUserGuideUrl": "UserGuideFile/Attrition Y User Guide.pdf",
+    "AttritionLiteFeature": {
+        "FeatureID": 705,
+        "AccountIDs": {"int": [
+            97498,
+            96384
+        ]},
+        "AccountList": {"AccountName": [
+            {
+                "DefaultCOAName": "Swine/Global/FVP Lite",
+                "ID": 97498,
+                "Name": "FVP Lite XYZ South Korean Won"
+            },
+            {
+                "DefaultCOAName": "Swine/Global/FVP Lite",
+                "ID": 96384,
+                "Name": "FVP Lite XYZ US Dollar (lbs)"
+            }
+        ]},
+        "IsValid": true
+    },
+    "OMWFeature": {
+        "FeatureID": 92,
+        "AccountIDs": {"int": [
+            88720,
+            92940
+        ]},
+        "AccountList": {"AccountName": [
+            {
+                "DefaultCOAName": "Swine/US/Finishing",
+                "ID": 88720,
+                "Name": "AMVC (E1\\AMVC)"
+            },
+            {
+                "DefaultCOAName": "Swine/US/Finishing",
+                "ID": 92940,
+                "Name": "Orange City Veterinary Clinic (E1\\OCV)"
+            }
+        ]},
+        "IsValid": true
+    },
+    "OMWLiteFeature": {
+        "FeatureID": 731,
+        "AccountIDs": {"int": [
+            97498,
+            96384
+        ]},
+        "AccountList": {"AccountName": [
+            {
+                "DefaultCOAName": "Swine/Global/FVP Lite",
+                "ID": 97498,
+                "Name": "FVP Lite XYZ South Korean Won"
+            },
+            {
+                "DefaultCOAName": "Swine/Global/FVP Lite",
+                "ID": 96384,
+                "Name": "FVP Lite XYZ US Dollar (lbs)"
+            }
+        ]},
+        "IsValid": true
+    }
+}

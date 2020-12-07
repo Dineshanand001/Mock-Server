@@ -1,0 +1,2492 @@
+{"AttritionLiteBatch": [
+    {
+        "PerformanceParameterID": 157,
+        "CurrencyUnit": 25,
+        "AccountID": 96384,
+        "BatchID": 1,
+        "WeightUnit": 12,
+        "CreateUser": {"xsi:nil": true},
+        "CullData": {"AttritionLiteCulls": [
+            {
+                "CullsID": 1,
+                "MaxWeight": 37.4,
+                "BatchID": 1,
+                "CullsNumber": 5,
+                "MinWeight": 12.5
+            },
+            {
+                "CullsID": 2,
+                "MaxWeight": 62.4,
+                "BatchID": 1,
+                "CullsNumber": 5,
+                "MinWeight": 37.5
+            },
+            {
+                "CullsID": 3,
+                "MaxWeight": 87.4,
+                "BatchID": 1,
+                "CullsNumber": 2,
+                "MinWeight": 62.5
+            },
+            {
+                "CullsID": 4,
+                "MaxWeight": 112.4,
+                "BatchID": 1,
+                "CullsNumber": 0,
+                "MinWeight": 87.5
+            },
+            {
+                "CullsID": 5,
+                "MaxWeight": 137.4,
+                "BatchID": 1,
+                "CullsNumber": 2,
+                "MinWeight": 112.5
+            },
+            {
+                "CullsID": 6,
+                "MaxWeight": 162.4,
+                "BatchID": 1,
+                "CullsNumber": 2,
+                "MinWeight": 137.5
+            },
+            {
+                "CullsID": 7,
+                "MaxWeight": 187.4,
+                "BatchID": 1,
+                "CullsNumber": 0,
+                "MinWeight": 162.5
+            },
+            {
+                "CullsID": 8,
+                "MaxWeight": 212.4,
+                "BatchID": 1,
+                "CullsNumber": 5,
+                "MinWeight": 187.5
+            },
+            {
+                "CullsID": 9,
+                "MaxWeight": 237.4,
+                "BatchID": 1,
+                "CullsNumber": 65,
+                "MinWeight": 212.5
+            },
+            {
+                "CullsID": 10,
+                "MaxWeight": 262.4,
+                "BatchID": 1,
+                "CullsNumber": 3,
+                "MinWeight": 237.5
+            },
+            {
+                "CullsID": 11,
+                "MaxWeight": 287.4,
+                "BatchID": 1,
+                "CullsNumber": 65,
+                "MinWeight": 262.5
+            },
+            {
+                "CullsID": 12,
+                "MaxWeight": 312.4,
+                "BatchID": 1,
+                "CullsNumber": 0,
+                "MinWeight": 287.5
+            },
+            {
+                "CullsID": 13,
+                "MaxWeight": 337.4,
+                "BatchID": 1,
+                "CullsNumber": 5,
+                "MinWeight": 312.5
+            }
+        ]},
+        "BatchDate": "2010-01-01T00:00:00",
+        "CloseOutData": {
+            "PctCulls": {"xsi:nil": true},
+            "CloseOutID": 1,
+            "MortalityLostOpportunity": -4482.198031000002,
+            "BatchID": 1,
+            "WeanerPigPrice": 20,
+            "PctMortality": {"xsi:nil": true},
+            "GroupEndDate": "2010-01-01T00:00:00",
+            "AvgFeedCost": 0.5,
+            "CullsLostOpportunity": -565.8059542783338,
+            "MaxMOFCLivePrice": 50,
+            "CullBasePrice": 30,
+            "StartingLiveWeight": 12000,
+            "PigsPlaced": 1000,
+            "MaxMOFCWeight": 210,
+            "MaxMOFCTotalFeedCost": 226.65,
+            "TotalRevenue": 10500,
+            "FeedCostPerUnitGain": 1.1446969696969698,
+            "MarginOverFeedCost": 10273.35
+        },
+        "MortalityData": {"AttritionLiteMortality": [
+            {
+                "MortalityID": 1,
+                "BatchID": 1,
+                "WeekPostWean": 1,
+                "DeadsNumber": 5
+            },
+            {
+                "MortalityID": 2,
+                "BatchID": 1,
+                "WeekPostWean": 2,
+                "DeadsNumber": 20
+            },
+            {
+                "MortalityID": 3,
+                "BatchID": 1,
+                "WeekPostWean": 3,
+                "DeadsNumber": 5
+            },
+            {
+                "MortalityID": 4,
+                "BatchID": 1,
+                "WeekPostWean": 4,
+                "DeadsNumber": 2
+            },
+            {
+                "MortalityID": 5,
+                "BatchID": 1,
+                "WeekPostWean": 5,
+                "DeadsNumber": 5
+            },
+            {
+                "MortalityID": 6,
+                "BatchID": 1,
+                "WeekPostWean": 6,
+                "DeadsNumber": 50
+            },
+            {
+                "MortalityID": 7,
+                "BatchID": 1,
+                "WeekPostWean": 7,
+                "DeadsNumber": 5
+            },
+            {
+                "MortalityID": 8,
+                "BatchID": 1,
+                "WeekPostWean": 8,
+                "DeadsNumber": 5
+            },
+            {
+                "MortalityID": 9,
+                "BatchID": 1,
+                "WeekPostWean": 9,
+                "DeadsNumber": 5
+            },
+            {
+                "MortalityID": 10,
+                "BatchID": 1,
+                "WeekPostWean": 10,
+                "DeadsNumber": 5
+            },
+            {
+                "MortalityID": 11,
+                "BatchID": 1,
+                "WeekPostWean": 11,
+                "DeadsNumber": 5
+            },
+            {
+                "MortalityID": 12,
+                "BatchID": 1,
+                "WeekPostWean": 12,
+                "DeadsNumber": 5
+            },
+            {
+                "MortalityID": 13,
+                "BatchID": 1,
+                "WeekPostWean": 13,
+                "DeadsNumber": 52
+            },
+            {
+                "MortalityID": 14,
+                "BatchID": 1,
+                "WeekPostWean": 14,
+                "DeadsNumber": 5
+            },
+            {
+                "MortalityID": 15,
+                "BatchID": 1,
+                "WeekPostWean": 15,
+                "DeadsNumber": 0
+            },
+            {
+                "MortalityID": 16,
+                "BatchID": 1,
+                "WeekPostWean": 16,
+                "DeadsNumber": 5
+            },
+            {
+                "MortalityID": 17,
+                "BatchID": 1,
+                "WeekPostWean": 17,
+                "DeadsNumber": 52
+            },
+            {
+                "MortalityID": 18,
+                "BatchID": 1,
+                "WeekPostWean": 18,
+                "DeadsNumber": 52
+            },
+            {
+                "MortalityID": 19,
+                "BatchID": 1,
+                "WeekPostWean": 19,
+                "DeadsNumber": 2
+            },
+            {
+                "MortalityID": 20,
+                "BatchID": 1,
+                "WeekPostWean": 20,
+                "DeadsNumber": 5
+            },
+            {
+                "MortalityID": 21,
+                "BatchID": 1,
+                "WeekPostWean": 21,
+                "DeadsNumber": 52
+            },
+            {
+                "MortalityID": 22,
+                "BatchID": 1,
+                "WeekPostWean": 22,
+                "DeadsNumber": 2
+            },
+            {
+                "MortalityID": 23,
+                "BatchID": 1,
+                "WeekPostWean": 23,
+                "DeadsNumber": 2
+            },
+            {
+                "MortalityID": 24,
+                "BatchID": 1,
+                "WeekPostWean": 24,
+                "DeadsNumber": 52
+            },
+            {
+                "MortalityID": 25,
+                "BatchID": 1,
+                "WeekPostWean": 25,
+                "DeadsNumber": 5
+            },
+            {
+                "MortalityID": 26,
+                "BatchID": 1,
+                "WeekPostWean": 26,
+                "DeadsNumber": 5
+            },
+            {
+                "MortalityID": 27,
+                "BatchID": 1,
+                "WeekPostWean": 27,
+                "DeadsNumber": 5
+            },
+            {
+                "MortalityID": 28,
+                "BatchID": 1,
+                "WeekPostWean": 28,
+                "DeadsNumber": 5
+            },
+            {
+                "MortalityID": 29,
+                "BatchID": 1,
+                "WeekPostWean": 29,
+                "DeadsNumber": 5
+            },
+            {
+                "MortalityID": 30,
+                "BatchID": 1,
+                "WeekPostWean": 30,
+                "DeadsNumber": 5
+            }
+        ]}
+    },
+    {
+        "PerformanceParameterID": 157,
+        "CurrencyUnit": 25,
+        "AccountID": 96384,
+        "BatchID": 2,
+        "WeightUnit": 12,
+        "CreateUser": {"xsi:nil": true},
+        "CullData": {"AttritionLiteCulls": [
+            {
+                "CullsID": 14,
+                "MaxWeight": 37.4,
+                "BatchID": 2,
+                "CullsNumber": 0,
+                "MinWeight": 12.5
+            },
+            {
+                "CullsID": 15,
+                "MaxWeight": 62.4,
+                "BatchID": 2,
+                "CullsNumber": 0,
+                "MinWeight": 37.5
+            },
+            {
+                "CullsID": 16,
+                "MaxWeight": 87.4,
+                "BatchID": 2,
+                "CullsNumber": 0,
+                "MinWeight": 62.5
+            },
+            {
+                "CullsID": 17,
+                "MaxWeight": 112.4,
+                "BatchID": 2,
+                "CullsNumber": 0,
+                "MinWeight": 87.5
+            },
+            {
+                "CullsID": 18,
+                "MaxWeight": 137.4,
+                "BatchID": 2,
+                "CullsNumber": 2,
+                "MinWeight": 112.5
+            },
+            {
+                "CullsID": 19,
+                "MaxWeight": 162.4,
+                "BatchID": 2,
+                "CullsNumber": 4,
+                "MinWeight": 137.5
+            },
+            {
+                "CullsID": 20,
+                "MaxWeight": 187.4,
+                "BatchID": 2,
+                "CullsNumber": 6,
+                "MinWeight": 162.5
+            },
+            {
+                "CullsID": 21,
+                "MaxWeight": 212.4,
+                "BatchID": 2,
+                "CullsNumber": 0,
+                "MinWeight": 187.5
+            },
+            {
+                "CullsID": 22,
+                "MaxWeight": 237.4,
+                "BatchID": 2,
+                "CullsNumber": 0,
+                "MinWeight": 212.5
+            },
+            {
+                "CullsID": 23,
+                "MaxWeight": 262.4,
+                "BatchID": 2,
+                "CullsNumber": 0,
+                "MinWeight": 237.5
+            },
+            {
+                "CullsID": 24,
+                "MaxWeight": 287.4,
+                "BatchID": 2,
+                "CullsNumber": 0,
+                "MinWeight": 262.5
+            },
+            {
+                "CullsID": 25,
+                "MaxWeight": 312.4,
+                "BatchID": 2,
+                "CullsNumber": 0,
+                "MinWeight": 287.5
+            },
+            {
+                "CullsID": 26,
+                "MaxWeight": 337.4,
+                "BatchID": 2,
+                "CullsNumber": 0,
+                "MinWeight": 312.5
+            }
+        ]},
+        "BatchDate": "2012-12-01T00:00:00",
+        "CloseOutData": {
+            "PctCulls": {"xsi:nil": true},
+            "CloseOutID": 2,
+            "MortalityLostOpportunity": -7.460305299999999,
+            "BatchID": 2,
+            "WeanerPigPrice": 40,
+            "PctMortality": {"xsi:nil": true},
+            "GroupEndDate": "2012-12-01T00:00:00",
+            "AvgFeedCost": 0.15,
+            "CullsLostOpportunity": -1.1134195126759272,
+            "MaxMOFCLivePrice": 0.75,
+            "CullBasePrice": 0.4,
+            "StartingLiveWeight": 12000,
+            "PigsPlaced": 1000,
+            "MaxMOFCWeight": 285,
+            "MaxMOFCTotalFeedCost": 101.89,
+            "TotalRevenue": 213.75,
+            "FeedCostPerUnitGain": 0.37322344322344325,
+            "MarginOverFeedCost": 111.86
+        },
+        "MortalityData": {"AttritionLiteMortality": [
+            {
+                "MortalityID": 31,
+                "BatchID": 2,
+                "WeekPostWean": 1,
+                "DeadsNumber": 0
+            },
+            {
+                "MortalityID": 32,
+                "BatchID": 2,
+                "WeekPostWean": 2,
+                "DeadsNumber": 1
+            },
+            {
+                "MortalityID": 33,
+                "BatchID": 2,
+                "WeekPostWean": 3,
+                "DeadsNumber": 3
+            },
+            {
+                "MortalityID": 34,
+                "BatchID": 2,
+                "WeekPostWean": 4,
+                "DeadsNumber": 4
+            },
+            {
+                "MortalityID": 35,
+                "BatchID": 2,
+                "WeekPostWean": 5,
+                "DeadsNumber": 1
+            },
+            {
+                "MortalityID": 36,
+                "BatchID": 2,
+                "WeekPostWean": 6,
+                "DeadsNumber": 3
+            },
+            {
+                "MortalityID": 37,
+                "BatchID": 2,
+                "WeekPostWean": 7,
+                "DeadsNumber": 1
+            },
+            {
+                "MortalityID": 38,
+                "BatchID": 2,
+                "WeekPostWean": 8,
+                "DeadsNumber": 0
+            },
+            {
+                "MortalityID": 39,
+                "BatchID": 2,
+                "WeekPostWean": 9,
+                "DeadsNumber": 0
+            },
+            {
+                "MortalityID": 40,
+                "BatchID": 2,
+                "WeekPostWean": 10,
+                "DeadsNumber": 0
+            },
+            {
+                "MortalityID": 41,
+                "BatchID": 2,
+                "WeekPostWean": 11,
+                "DeadsNumber": 0
+            },
+            {
+                "MortalityID": 42,
+                "BatchID": 2,
+                "WeekPostWean": 12,
+                "DeadsNumber": 0
+            },
+            {
+                "MortalityID": 43,
+                "BatchID": 2,
+                "WeekPostWean": 13,
+                "DeadsNumber": 1
+            },
+            {
+                "MortalityID": 44,
+                "BatchID": 2,
+                "WeekPostWean": 14,
+                "DeadsNumber": 2
+            },
+            {
+                "MortalityID": 45,
+                "BatchID": 2,
+                "WeekPostWean": 15,
+                "DeadsNumber": 34
+            },
+            {
+                "MortalityID": 46,
+                "BatchID": 2,
+                "WeekPostWean": 16,
+                "DeadsNumber": 0
+            },
+            {
+                "MortalityID": 47,
+                "BatchID": 2,
+                "WeekPostWean": 17,
+                "DeadsNumber": 0
+            },
+            {
+                "MortalityID": 48,
+                "BatchID": 2,
+                "WeekPostWean": 18,
+                "DeadsNumber": 0
+            },
+            {
+                "MortalityID": 49,
+                "BatchID": 2,
+                "WeekPostWean": 19,
+                "DeadsNumber": 0
+            },
+            {
+                "MortalityID": 50,
+                "BatchID": 2,
+                "WeekPostWean": 20,
+                "DeadsNumber": 0
+            },
+            {
+                "MortalityID": 51,
+                "BatchID": 2,
+                "WeekPostWean": 21,
+                "DeadsNumber": 0
+            },
+            {
+                "MortalityID": 52,
+                "BatchID": 2,
+                "WeekPostWean": 22,
+                "DeadsNumber": 0
+            },
+            {
+                "MortalityID": 53,
+                "BatchID": 2,
+                "WeekPostWean": 23,
+                "DeadsNumber": 0
+            },
+            {
+                "MortalityID": 54,
+                "BatchID": 2,
+                "WeekPostWean": 24,
+                "DeadsNumber": 0
+            },
+            {
+                "MortalityID": 55,
+                "BatchID": 2,
+                "WeekPostWean": 25,
+                "DeadsNumber": 0
+            },
+            {
+                "MortalityID": 56,
+                "BatchID": 2,
+                "WeekPostWean": 26,
+                "DeadsNumber": 0
+            },
+            {
+                "MortalityID": 57,
+                "BatchID": 2,
+                "WeekPostWean": 27,
+                "DeadsNumber": 0
+            },
+            {
+                "MortalityID": 58,
+                "BatchID": 2,
+                "WeekPostWean": 28,
+                "DeadsNumber": 0
+            },
+            {
+                "MortalityID": 59,
+                "BatchID": 2,
+                "WeekPostWean": 29,
+                "DeadsNumber": 0
+            },
+            {
+                "MortalityID": 60,
+                "BatchID": 2,
+                "WeekPostWean": 30,
+                "DeadsNumber": 0
+            }
+        ]}
+    },
+    {
+        "PerformanceParameterID": 164,
+        "CurrencyUnit": 25,
+        "AccountID": 96384,
+        "BatchID": 5,
+        "WeightUnit": 12,
+        "CreateUser": {"xsi:nil": true},
+        "CullData": "",
+        "BatchDate": "2012-10-01T00:00:00",
+        "CloseOutData": {
+            "PctCulls": {"xsi:nil": true},
+            "CloseOutID": 5,
+            "MortalityLostOpportunity": 767.2984213662799,
+            "BatchID": 5,
+            "WeanerPigPrice": 12,
+            "PctMortality": {"xsi:nil": true},
+            "GroupEndDate": "2012-10-01T00:00:00",
+            "AvgFeedCost": 5,
+            "CullsLostOpportunity": 0,
+            "MaxMOFCLivePrice": 0.75,
+            "CullBasePrice": 0,
+            "StartingLiveWeight": 2500,
+            "PigsPlaced": 100,
+            "MaxMOFCWeight": 275,
+            "MaxMOFCTotalFeedCost": 3164.91,
+            "TotalRevenue": 206.25,
+            "FeedCostPerUnitGain": 12.65964,
+            "MarginOverFeedCost": -2958.66
+        },
+        "MortalityData": {"AttritionLiteMortality": [
+            {
+                "MortalityID": 121,
+                "BatchID": 5,
+                "WeekPostWean": 1,
+                "DeadsNumber": 0
+            },
+            {
+                "MortalityID": 122,
+                "BatchID": 5,
+                "WeekPostWean": 2,
+                "DeadsNumber": 5
+            },
+            {
+                "MortalityID": 123,
+                "BatchID": 5,
+                "WeekPostWean": 3,
+                "DeadsNumber": 6
+            },
+            {
+                "MortalityID": 124,
+                "BatchID": 5,
+                "WeekPostWean": 4,
+                "DeadsNumber": 0
+            },
+            {
+                "MortalityID": 125,
+                "BatchID": 5,
+                "WeekPostWean": 5,
+                "DeadsNumber": 5
+            },
+            {
+                "MortalityID": 126,
+                "BatchID": 5,
+                "WeekPostWean": 6,
+                "DeadsNumber": 4
+            },
+            {
+                "MortalityID": 127,
+                "BatchID": 5,
+                "WeekPostWean": 7,
+                "DeadsNumber": 3
+            },
+            {
+                "MortalityID": 128,
+                "BatchID": 5,
+                "WeekPostWean": 8,
+                "DeadsNumber": 4
+            },
+            {
+                "MortalityID": 129,
+                "BatchID": 5,
+                "WeekPostWean": 9,
+                "DeadsNumber": 1
+            },
+            {
+                "MortalityID": 130,
+                "BatchID": 5,
+                "WeekPostWean": 10,
+                "DeadsNumber": 0
+            },
+            {
+                "MortalityID": 131,
+                "BatchID": 5,
+                "WeekPostWean": 11,
+                "DeadsNumber": 0
+            },
+            {
+                "MortalityID": 132,
+                "BatchID": 5,
+                "WeekPostWean": 12,
+                "DeadsNumber": 0
+            },
+            {
+                "MortalityID": 133,
+                "BatchID": 5,
+                "WeekPostWean": 13,
+                "DeadsNumber": 0
+            },
+            {
+                "MortalityID": 134,
+                "BatchID": 5,
+                "WeekPostWean": 14,
+                "DeadsNumber": 0
+            },
+            {
+                "MortalityID": 135,
+                "BatchID": 5,
+                "WeekPostWean": 15,
+                "DeadsNumber": 0
+            },
+            {
+                "MortalityID": 136,
+                "BatchID": 5,
+                "WeekPostWean": 16,
+                "DeadsNumber": 0
+            },
+            {
+                "MortalityID": 137,
+                "BatchID": 5,
+                "WeekPostWean": 17,
+                "DeadsNumber": 0
+            },
+            {
+                "MortalityID": 138,
+                "BatchID": 5,
+                "WeekPostWean": 18,
+                "DeadsNumber": 0
+            },
+            {
+                "MortalityID": 139,
+                "BatchID": 5,
+                "WeekPostWean": 19,
+                "DeadsNumber": 0
+            },
+            {
+                "MortalityID": 140,
+                "BatchID": 5,
+                "WeekPostWean": 20,
+                "DeadsNumber": 0
+            },
+            {
+                "MortalityID": 141,
+                "BatchID": 5,
+                "WeekPostWean": 21,
+                "DeadsNumber": 0
+            },
+            {
+                "MortalityID": 142,
+                "BatchID": 5,
+                "WeekPostWean": 22,
+                "DeadsNumber": 0
+            },
+            {
+                "MortalityID": 143,
+                "BatchID": 5,
+                "WeekPostWean": 23,
+                "DeadsNumber": 0
+            },
+            {
+                "MortalityID": 144,
+                "BatchID": 5,
+                "WeekPostWean": 24,
+                "DeadsNumber": 0
+            },
+            {
+                "MortalityID": 145,
+                "BatchID": 5,
+                "WeekPostWean": 25,
+                "DeadsNumber": 0
+            },
+            {
+                "MortalityID": 146,
+                "BatchID": 5,
+                "WeekPostWean": 26,
+                "DeadsNumber": 0
+            },
+            {
+                "MortalityID": 147,
+                "BatchID": 5,
+                "WeekPostWean": 27,
+                "DeadsNumber": 0
+            },
+            {
+                "MortalityID": 148,
+                "BatchID": 5,
+                "WeekPostWean": 28,
+                "DeadsNumber": 0
+            },
+            {
+                "MortalityID": 149,
+                "BatchID": 5,
+                "WeekPostWean": 29,
+                "DeadsNumber": 0
+            },
+            {
+                "MortalityID": 150,
+                "BatchID": 5,
+                "WeekPostWean": 30,
+                "DeadsNumber": 0
+            }
+        ]}
+    },
+    {
+        "PerformanceParameterID": 157,
+        "CurrencyUnit": 25,
+        "AccountID": 96384,
+        "BatchID": 7,
+        "WeightUnit": 12,
+        "CreateUser": {"xsi:nil": true},
+        "CullData": {"AttritionLiteCulls": [
+            {
+                "CullsID": 57,
+                "MaxWeight": 37.4,
+                "BatchID": 7,
+                "CullsNumber": 0,
+                "MinWeight": 12.5
+            },
+            {
+                "CullsID": 58,
+                "MaxWeight": 62.4,
+                "BatchID": 7,
+                "CullsNumber": 0,
+                "MinWeight": 37.5
+            },
+            {
+                "CullsID": 59,
+                "MaxWeight": 87.4,
+                "BatchID": 7,
+                "CullsNumber": 0,
+                "MinWeight": 62.5
+            },
+            {
+                "CullsID": 60,
+                "MaxWeight": 112.4,
+                "BatchID": 7,
+                "CullsNumber": 0,
+                "MinWeight": 87.5
+            },
+            {
+                "CullsID": 61,
+                "MaxWeight": 137.4,
+                "BatchID": 7,
+                "CullsNumber": 0,
+                "MinWeight": 112.5
+            },
+            {
+                "CullsID": 62,
+                "MaxWeight": 162.4,
+                "BatchID": 7,
+                "CullsNumber": 0,
+                "MinWeight": 137.5
+            },
+            {
+                "CullsID": 63,
+                "MaxWeight": 187.4,
+                "BatchID": 7,
+                "CullsNumber": 5,
+                "MinWeight": 162.5
+            },
+            {
+                "CullsID": 64,
+                "MaxWeight": 212.4,
+                "BatchID": 7,
+                "CullsNumber": 0,
+                "MinWeight": 187.5
+            },
+            {
+                "CullsID": 65,
+                "MaxWeight": 237.4,
+                "BatchID": 7,
+                "CullsNumber": 0,
+                "MinWeight": 212.5
+            },
+            {
+                "CullsID": 66,
+                "MaxWeight": 262.4,
+                "BatchID": 7,
+                "CullsNumber": 0,
+                "MinWeight": 237.5
+            },
+            {
+                "CullsID": 67,
+                "MaxWeight": 287.4,
+                "BatchID": 7,
+                "CullsNumber": 0,
+                "MinWeight": 262.5
+            },
+            {
+                "CullsID": 68,
+                "MaxWeight": 312.4,
+                "BatchID": 7,
+                "CullsNumber": 0,
+                "MinWeight": 287.5
+            },
+            {
+                "CullsID": 69,
+                "MaxWeight": 337.4,
+                "BatchID": 7,
+                "CullsNumber": 0,
+                "MinWeight": 312.5
+            }
+        ]},
+        "BatchDate": "2013-04-01T00:00:00",
+        "CloseOutData": {
+            "PctCulls": {"xsi:nil": true},
+            "CloseOutID": 7,
+            "MortalityLostOpportunity": -26.903474199999994,
+            "BatchID": 7,
+            "WeanerPigPrice": 20,
+            "PctMortality": {"xsi:nil": true},
+            "GroupEndDate": "2013-04-01T00:00:00",
+            "AvgFeedCost": 0.13,
+            "CullsLostOpportunity": -6.7650913643018225,
+            "MaxMOFCLivePrice": 0.85,
+            "CullBasePrice": 0.4,
+            "StartingLiveWeight": 1000,
+            "PigsPlaced": 100,
+            "MaxMOFCWeight": 300,
+            "MaxMOFCTotalFeedCost": 94.37,
+            "TotalRevenue": 255,
+            "FeedCostPerUnitGain": 0.3254137931034483,
+            "MarginOverFeedCost": 160.63
+        },
+        "MortalityData": {"AttritionLiteMortality": [
+            {
+                "MortalityID": 181,
+                "BatchID": 7,
+                "WeekPostWean": 1,
+                "DeadsNumber": 0
+            },
+            {
+                "MortalityID": 182,
+                "BatchID": 7,
+                "WeekPostWean": 2,
+                "DeadsNumber": 1
+            },
+            {
+                "MortalityID": 183,
+                "BatchID": 7,
+                "WeekPostWean": 3,
+                "DeadsNumber": 2
+            },
+            {
+                "MortalityID": 184,
+                "BatchID": 7,
+                "WeekPostWean": 4,
+                "DeadsNumber": 1
+            },
+            {
+                "MortalityID": 185,
+                "BatchID": 7,
+                "WeekPostWean": 5,
+                "DeadsNumber": 5
+            },
+            {
+                "MortalityID": 186,
+                "BatchID": 7,
+                "WeekPostWean": 6,
+                "DeadsNumber": 1
+            },
+            {
+                "MortalityID": 187,
+                "BatchID": 7,
+                "WeekPostWean": 7,
+                "DeadsNumber": 3
+            },
+            {
+                "MortalityID": 188,
+                "BatchID": 7,
+                "WeekPostWean": 8,
+                "DeadsNumber": 1
+            },
+            {
+                "MortalityID": 189,
+                "BatchID": 7,
+                "WeekPostWean": 9,
+                "DeadsNumber": 2
+            },
+            {
+                "MortalityID": 190,
+                "BatchID": 7,
+                "WeekPostWean": 10,
+                "DeadsNumber": 0
+            },
+            {
+                "MortalityID": 191,
+                "BatchID": 7,
+                "WeekPostWean": 11,
+                "DeadsNumber": 0
+            },
+            {
+                "MortalityID": 192,
+                "BatchID": 7,
+                "WeekPostWean": 12,
+                "DeadsNumber": 0
+            },
+            {
+                "MortalityID": 193,
+                "BatchID": 7,
+                "WeekPostWean": 13,
+                "DeadsNumber": 0
+            },
+            {
+                "MortalityID": 194,
+                "BatchID": 7,
+                "WeekPostWean": 14,
+                "DeadsNumber": 0
+            },
+            {
+                "MortalityID": 195,
+                "BatchID": 7,
+                "WeekPostWean": 15,
+                "DeadsNumber": 0
+            },
+            {
+                "MortalityID": 196,
+                "BatchID": 7,
+                "WeekPostWean": 16,
+                "DeadsNumber": 0
+            },
+            {
+                "MortalityID": 197,
+                "BatchID": 7,
+                "WeekPostWean": 17,
+                "DeadsNumber": 0
+            },
+            {
+                "MortalityID": 198,
+                "BatchID": 7,
+                "WeekPostWean": 18,
+                "DeadsNumber": 0
+            },
+            {
+                "MortalityID": 199,
+                "BatchID": 7,
+                "WeekPostWean": 19,
+                "DeadsNumber": 0
+            },
+            {
+                "MortalityID": 200,
+                "BatchID": 7,
+                "WeekPostWean": 20,
+                "DeadsNumber": 0
+            },
+            {
+                "MortalityID": 201,
+                "BatchID": 7,
+                "WeekPostWean": 21,
+                "DeadsNumber": 0
+            },
+            {
+                "MortalityID": 202,
+                "BatchID": 7,
+                "WeekPostWean": 22,
+                "DeadsNumber": 0
+            },
+            {
+                "MortalityID": 203,
+                "BatchID": 7,
+                "WeekPostWean": 23,
+                "DeadsNumber": 0
+            },
+            {
+                "MortalityID": 204,
+                "BatchID": 7,
+                "WeekPostWean": 24,
+                "DeadsNumber": 0
+            },
+            {
+                "MortalityID": 205,
+                "BatchID": 7,
+                "WeekPostWean": 25,
+                "DeadsNumber": 0
+            },
+            {
+                "MortalityID": 206,
+                "BatchID": 7,
+                "WeekPostWean": 26,
+                "DeadsNumber": 0
+            },
+            {
+                "MortalityID": 207,
+                "BatchID": 7,
+                "WeekPostWean": 27,
+                "DeadsNumber": 0
+            },
+            {
+                "MortalityID": 208,
+                "BatchID": 7,
+                "WeekPostWean": 28,
+                "DeadsNumber": 0
+            },
+            {
+                "MortalityID": 209,
+                "BatchID": 7,
+                "WeekPostWean": 29,
+                "DeadsNumber": 0
+            },
+            {
+                "MortalityID": 210,
+                "BatchID": 7,
+                "WeekPostWean": 30,
+                "DeadsNumber": 0
+            }
+        ]}
+    },
+    {
+        "PerformanceParameterID": 269,
+        "CurrencyUnit": 25,
+        "AccountID": 96384,
+        "BatchID": 22,
+        "WeightUnit": 12,
+        "CreateUser": {"xsi:nil": true},
+        "CullData": {"AttritionLiteCulls": [
+            {
+                "CullsID": 214,
+                "MaxWeight": 37.4,
+                "BatchID": 22,
+                "CullsNumber": 0,
+                "MinWeight": 12.5
+            },
+            {
+                "CullsID": 215,
+                "MaxWeight": 62.4,
+                "BatchID": 22,
+                "CullsNumber": 0,
+                "MinWeight": 37.5
+            },
+            {
+                "CullsID": 216,
+                "MaxWeight": 87.4,
+                "BatchID": 22,
+                "CullsNumber": 0,
+                "MinWeight": 62.5
+            },
+            {
+                "CullsID": 217,
+                "MaxWeight": 112.4,
+                "BatchID": 22,
+                "CullsNumber": 0,
+                "MinWeight": 87.5
+            },
+            {
+                "CullsID": 218,
+                "MaxWeight": 137.4,
+                "BatchID": 22,
+                "CullsNumber": 0,
+                "MinWeight": 112.5
+            },
+            {
+                "CullsID": 219,
+                "MaxWeight": 162.4,
+                "BatchID": 22,
+                "CullsNumber": 0,
+                "MinWeight": 137.5
+            },
+            {
+                "CullsID": 220,
+                "MaxWeight": 187.4,
+                "BatchID": 22,
+                "CullsNumber": 5,
+                "MinWeight": 162.5
+            },
+            {
+                "CullsID": 221,
+                "MaxWeight": 212.4,
+                "BatchID": 22,
+                "CullsNumber": 0,
+                "MinWeight": 187.5
+            },
+            {
+                "CullsID": 222,
+                "MaxWeight": 237.4,
+                "BatchID": 22,
+                "CullsNumber": 0,
+                "MinWeight": 212.5
+            },
+            {
+                "CullsID": 223,
+                "MaxWeight": 262.4,
+                "BatchID": 22,
+                "CullsNumber": 0,
+                "MinWeight": 237.5
+            },
+            {
+                "CullsID": 224,
+                "MaxWeight": 287.4,
+                "BatchID": 22,
+                "CullsNumber": 15,
+                "MinWeight": 262.5
+            },
+            {
+                "CullsID": 225,
+                "MaxWeight": 312.4,
+                "BatchID": 22,
+                "CullsNumber": 0,
+                "MinWeight": 287.5
+            },
+            {
+                "CullsID": 226,
+                "MaxWeight": 337.4,
+                "BatchID": 22,
+                "CullsNumber": 0,
+                "MinWeight": 312.5
+            }
+        ]},
+        "BatchDate": "2013-07-01T00:00:00",
+        "CloseOutData": {
+            "PctCulls": {"xsi:nil": true},
+            "CloseOutID": 22,
+            "MortalityLostOpportunity": -1386.3378272000002,
+            "BatchID": 22,
+            "WeanerPigPrice": 45,
+            "PctMortality": {"xsi:nil": true},
+            "GroupEndDate": "2013-07-01T00:00:00",
+            "AvgFeedCost": 0.3,
+            "CullsLostOpportunity": -333.2649475307373,
+            "MaxMOFCLivePrice": 60,
+            "CullBasePrice": 0.4,
+            "StartingLiveWeight": 12000,
+            "PigsPlaced": 1000,
+            "MaxMOFCWeight": 280,
+            "MaxMOFCTotalFeedCost": 203.78,
+            "TotalRevenue": 16800,
+            "FeedCostPerUnitGain": 0.7603731343283582,
+            "MarginOverFeedCost": 16596.22
+        },
+        "MortalityData": {"AttritionLiteMortality": [
+            {
+                "MortalityID": 631,
+                "BatchID": 22,
+                "WeekPostWean": 1,
+                "DeadsNumber": 1
+            },
+            {
+                "MortalityID": 632,
+                "BatchID": 22,
+                "WeekPostWean": 2,
+                "DeadsNumber": 0
+            },
+            {
+                "MortalityID": 633,
+                "BatchID": 22,
+                "WeekPostWean": 3,
+                "DeadsNumber": 0
+            },
+            {
+                "MortalityID": 634,
+                "BatchID": 22,
+                "WeekPostWean": 4,
+                "DeadsNumber": 10
+            },
+            {
+                "MortalityID": 635,
+                "BatchID": 22,
+                "WeekPostWean": 5,
+                "DeadsNumber": 5
+            },
+            {
+                "MortalityID": 636,
+                "BatchID": 22,
+                "WeekPostWean": 6,
+                "DeadsNumber": 0
+            },
+            {
+                "MortalityID": 637,
+                "BatchID": 22,
+                "WeekPostWean": 7,
+                "DeadsNumber": 8
+            },
+            {
+                "MortalityID": 638,
+                "BatchID": 22,
+                "WeekPostWean": 8,
+                "DeadsNumber": 1
+            },
+            {
+                "MortalityID": 639,
+                "BatchID": 22,
+                "WeekPostWean": 9,
+                "DeadsNumber": 2
+            },
+            {
+                "MortalityID": 640,
+                "BatchID": 22,
+                "WeekPostWean": 10,
+                "DeadsNumber": 3
+            },
+            {
+                "MortalityID": 641,
+                "BatchID": 22,
+                "WeekPostWean": 11,
+                "DeadsNumber": 4
+            },
+            {
+                "MortalityID": 642,
+                "BatchID": 22,
+                "WeekPostWean": 12,
+                "DeadsNumber": 18
+            },
+            {
+                "MortalityID": 643,
+                "BatchID": 22,
+                "WeekPostWean": 13,
+                "DeadsNumber": 0
+            },
+            {
+                "MortalityID": 644,
+                "BatchID": 22,
+                "WeekPostWean": 14,
+                "DeadsNumber": 0
+            },
+            {
+                "MortalityID": 645,
+                "BatchID": 22,
+                "WeekPostWean": 15,
+                "DeadsNumber": 0
+            },
+            {
+                "MortalityID": 646,
+                "BatchID": 22,
+                "WeekPostWean": 16,
+                "DeadsNumber": 6
+            },
+            {
+                "MortalityID": 647,
+                "BatchID": 22,
+                "WeekPostWean": 17,
+                "DeadsNumber": 0
+            },
+            {
+                "MortalityID": 648,
+                "BatchID": 22,
+                "WeekPostWean": 18,
+                "DeadsNumber": 3
+            },
+            {
+                "MortalityID": 649,
+                "BatchID": 22,
+                "WeekPostWean": 19,
+                "DeadsNumber": 0
+            },
+            {
+                "MortalityID": 650,
+                "BatchID": 22,
+                "WeekPostWean": 20,
+                "DeadsNumber": 2
+            },
+            {
+                "MortalityID": 651,
+                "BatchID": 22,
+                "WeekPostWean": 21,
+                "DeadsNumber": 1
+            },
+            {
+                "MortalityID": 652,
+                "BatchID": 22,
+                "WeekPostWean": 22,
+                "DeadsNumber": 0
+            },
+            {
+                "MortalityID": 653,
+                "BatchID": 22,
+                "WeekPostWean": 23,
+                "DeadsNumber": 1
+            },
+            {
+                "MortalityID": 654,
+                "BatchID": 22,
+                "WeekPostWean": 24,
+                "DeadsNumber": 0
+            },
+            {
+                "MortalityID": 655,
+                "BatchID": 22,
+                "WeekPostWean": 25,
+                "DeadsNumber": 1
+            },
+            {
+                "MortalityID": 656,
+                "BatchID": 22,
+                "WeekPostWean": 26,
+                "DeadsNumber": 1
+            },
+            {
+                "MortalityID": 657,
+                "BatchID": 22,
+                "WeekPostWean": 27,
+                "DeadsNumber": 1
+            },
+            {
+                "MortalityID": 658,
+                "BatchID": 22,
+                "WeekPostWean": 28,
+                "DeadsNumber": 4
+            },
+            {
+                "MortalityID": 659,
+                "BatchID": 22,
+                "WeekPostWean": 29,
+                "DeadsNumber": 5
+            },
+            {
+                "MortalityID": 660,
+                "BatchID": 22,
+                "WeekPostWean": 30,
+                "DeadsNumber": 6
+            }
+        ]}
+    },
+    {
+        "PerformanceParameterID": 269,
+        "CurrencyUnit": 25,
+        "AccountID": 96384,
+        "BatchID": 28,
+        "WeightUnit": 12,
+        "CreateUser": {"xsi:nil": true},
+        "CullData": {"AttritionLiteCulls": [
+            {
+                "CullsID": 302,
+                "MaxWeight": 37.4,
+                "BatchID": 28,
+                "CullsNumber": 0,
+                "MinWeight": 12.5
+            },
+            {
+                "CullsID": 303,
+                "MaxWeight": 62.4,
+                "BatchID": 28,
+                "CullsNumber": 0,
+                "MinWeight": 37.5
+            },
+            {
+                "CullsID": 304,
+                "MaxWeight": 87.4,
+                "BatchID": 28,
+                "CullsNumber": 0,
+                "MinWeight": 62.5
+            },
+            {
+                "CullsID": 305,
+                "MaxWeight": 112.4,
+                "BatchID": 28,
+                "CullsNumber": 0,
+                "MinWeight": 87.5
+            },
+            {
+                "CullsID": 306,
+                "MaxWeight": 137.4,
+                "BatchID": 28,
+                "CullsNumber": 0,
+                "MinWeight": 112.5
+            },
+            {
+                "CullsID": 307,
+                "MaxWeight": 162.4,
+                "BatchID": 28,
+                "CullsNumber": 0,
+                "MinWeight": 137.5
+            },
+            {
+                "CullsID": 308,
+                "MaxWeight": 187.4,
+                "BatchID": 28,
+                "CullsNumber": 25,
+                "MinWeight": 162.5
+            },
+            {
+                "CullsID": 309,
+                "MaxWeight": 212.4,
+                "BatchID": 28,
+                "CullsNumber": 0,
+                "MinWeight": 187.5
+            },
+            {
+                "CullsID": 310,
+                "MaxWeight": 237.4,
+                "BatchID": 28,
+                "CullsNumber": 0,
+                "MinWeight": 212.5
+            },
+            {
+                "CullsID": 311,
+                "MaxWeight": 262.4,
+                "BatchID": 28,
+                "CullsNumber": 0,
+                "MinWeight": 237.5
+            },
+            {
+                "CullsID": 312,
+                "MaxWeight": 287.4,
+                "BatchID": 28,
+                "CullsNumber": 0,
+                "MinWeight": 262.5
+            },
+            {
+                "CullsID": 313,
+                "MaxWeight": 312.4,
+                "BatchID": 28,
+                "CullsNumber": 0,
+                "MinWeight": 287.5
+            },
+            {
+                "CullsID": 314,
+                "MaxWeight": 337.4,
+                "BatchID": 28,
+                "CullsNumber": 0,
+                "MinWeight": 312.5
+            }
+        ]},
+        "BatchDate": "2013-08-01T00:00:00",
+        "CloseOutData": {
+            "PctCulls": {"xsi:nil": true},
+            "CloseOutID": 28,
+            "MortalityLostOpportunity": -5.755200000000003,
+            "BatchID": 28,
+            "WeanerPigPrice": 25,
+            "PctMortality": {"xsi:nil": true},
+            "GroupEndDate": "2013-08-01T00:00:00",
+            "AvgFeedCost": 0.4,
+            "CullsLostOpportunity": -14.453184450797293,
+            "MaxMOFCLivePrice": 0.9,
+            "CullBasePrice": 0.45,
+            "StartingLiveWeight": 1000,
+            "PigsPlaced": 100,
+            "MaxMOFCWeight": 260,
+            "MaxMOFCTotalFeedCost": 234.85,
+            "TotalRevenue": 234,
+            "FeedCostPerUnitGain": 0.9394,
+            "MarginOverFeedCost": -0.8499999999999943
+        },
+        "MortalityData": {"AttritionLiteMortality": [
+            {
+                "MortalityID": 811,
+                "BatchID": 28,
+                "WeekPostWean": 1,
+                "DeadsNumber": 0
+            },
+            {
+                "MortalityID": 812,
+                "BatchID": 28,
+                "WeekPostWean": 2,
+                "DeadsNumber": 15
+            },
+            {
+                "MortalityID": 813,
+                "BatchID": 28,
+                "WeekPostWean": 3,
+                "DeadsNumber": 5
+            },
+            {
+                "MortalityID": 814,
+                "BatchID": 28,
+                "WeekPostWean": 4,
+                "DeadsNumber": 10
+            },
+            {
+                "MortalityID": 815,
+                "BatchID": 28,
+                "WeekPostWean": 5,
+                "DeadsNumber": 4
+            },
+            {
+                "MortalityID": 816,
+                "BatchID": 28,
+                "WeekPostWean": 6,
+                "DeadsNumber": 3
+            },
+            {
+                "MortalityID": 817,
+                "BatchID": 28,
+                "WeekPostWean": 7,
+                "DeadsNumber": 2
+            },
+            {
+                "MortalityID": 818,
+                "BatchID": 28,
+                "WeekPostWean": 8,
+                "DeadsNumber": 5
+            },
+            {
+                "MortalityID": 819,
+                "BatchID": 28,
+                "WeekPostWean": 9,
+                "DeadsNumber": 0
+            },
+            {
+                "MortalityID": 820,
+                "BatchID": 28,
+                "WeekPostWean": 10,
+                "DeadsNumber": 0
+            },
+            {
+                "MortalityID": 821,
+                "BatchID": 28,
+                "WeekPostWean": 11,
+                "DeadsNumber": 0
+            },
+            {
+                "MortalityID": 822,
+                "BatchID": 28,
+                "WeekPostWean": 12,
+                "DeadsNumber": 0
+            },
+            {
+                "MortalityID": 823,
+                "BatchID": 28,
+                "WeekPostWean": 13,
+                "DeadsNumber": 0
+            },
+            {
+                "MortalityID": 824,
+                "BatchID": 28,
+                "WeekPostWean": 14,
+                "DeadsNumber": 0
+            },
+            {
+                "MortalityID": 825,
+                "BatchID": 28,
+                "WeekPostWean": 15,
+                "DeadsNumber": 0
+            },
+            {
+                "MortalityID": 826,
+                "BatchID": 28,
+                "WeekPostWean": 16,
+                "DeadsNumber": 0
+            },
+            {
+                "MortalityID": 827,
+                "BatchID": 28,
+                "WeekPostWean": 17,
+                "DeadsNumber": 0
+            },
+            {
+                "MortalityID": 828,
+                "BatchID": 28,
+                "WeekPostWean": 18,
+                "DeadsNumber": 0
+            },
+            {
+                "MortalityID": 829,
+                "BatchID": 28,
+                "WeekPostWean": 19,
+                "DeadsNumber": 0
+            },
+            {
+                "MortalityID": 830,
+                "BatchID": 28,
+                "WeekPostWean": 20,
+                "DeadsNumber": 0
+            },
+            {
+                "MortalityID": 831,
+                "BatchID": 28,
+                "WeekPostWean": 21,
+                "DeadsNumber": 0
+            },
+            {
+                "MortalityID": 832,
+                "BatchID": 28,
+                "WeekPostWean": 22,
+                "DeadsNumber": 0
+            },
+            {
+                "MortalityID": 833,
+                "BatchID": 28,
+                "WeekPostWean": 23,
+                "DeadsNumber": 0
+            },
+            {
+                "MortalityID": 834,
+                "BatchID": 28,
+                "WeekPostWean": 24,
+                "DeadsNumber": 0
+            },
+            {
+                "MortalityID": 835,
+                "BatchID": 28,
+                "WeekPostWean": 25,
+                "DeadsNumber": 0
+            },
+            {
+                "MortalityID": 836,
+                "BatchID": 28,
+                "WeekPostWean": 26,
+                "DeadsNumber": 0
+            },
+            {
+                "MortalityID": 837,
+                "BatchID": 28,
+                "WeekPostWean": 27,
+                "DeadsNumber": 0
+            },
+            {
+                "MortalityID": 838,
+                "BatchID": 28,
+                "WeekPostWean": 28,
+                "DeadsNumber": 0
+            },
+            {
+                "MortalityID": 839,
+                "BatchID": 28,
+                "WeekPostWean": 29,
+                "DeadsNumber": 0
+            },
+            {
+                "MortalityID": 840,
+                "BatchID": 28,
+                "WeekPostWean": 30,
+                "DeadsNumber": 0
+            }
+        ]}
+    },
+    {
+        "PerformanceParameterID": 157,
+        "CurrencyUnit": 25,
+        "AccountID": 96384,
+        "BatchID": 44,
+        "WeightUnit": 12,
+        "CreateUser": {"xsi:nil": true},
+        "CullData": "",
+        "BatchDate": "2013-11-01T00:00:00",
+        "CloseOutData": {
+            "PctCulls": {"xsi:nil": true},
+            "CloseOutID": 44,
+            "MortalityLostOpportunity": -2041.5526104,
+            "BatchID": 44,
+            "WeanerPigPrice": 50,
+            "PctMortality": {"xsi:nil": true},
+            "GroupEndDate": "2013-11-01T00:00:00",
+            "AvgFeedCost": 0.08,
+            "CullsLostOpportunity": 0,
+            "MaxMOFCLivePrice": 53,
+            "CullBasePrice": 0,
+            "StartingLiveWeight": 50000,
+            "PigsPlaced": 1000,
+            "MaxMOFCWeight": 278,
+            "MaxMOFCTotalFeedCost": 54.34,
+            "TotalRevenue": 14734,
+            "FeedCostPerUnitGain": 0.23833333333333334,
+            "MarginOverFeedCost": 14679.66
+        },
+        "MortalityData": {"AttritionLiteMortality": [
+            {
+                "MortalityID": 1291,
+                "BatchID": 44,
+                "WeekPostWean": 1,
+                "DeadsNumber": 15
+            },
+            {
+                "MortalityID": 1292,
+                "BatchID": 44,
+                "WeekPostWean": 2,
+                "DeadsNumber": 22
+            },
+            {
+                "MortalityID": 1293,
+                "BatchID": 44,
+                "WeekPostWean": 3,
+                "DeadsNumber": 7
+            },
+            {
+                "MortalityID": 1294,
+                "BatchID": 44,
+                "WeekPostWean": 4,
+                "DeadsNumber": 14
+            },
+            {
+                "MortalityID": 1295,
+                "BatchID": 44,
+                "WeekPostWean": 5,
+                "DeadsNumber": 6
+            },
+            {
+                "MortalityID": 1296,
+                "BatchID": 44,
+                "WeekPostWean": 6,
+                "DeadsNumber": 5
+            },
+            {
+                "MortalityID": 1297,
+                "BatchID": 44,
+                "WeekPostWean": 7,
+                "DeadsNumber": 4
+            },
+            {
+                "MortalityID": 1298,
+                "BatchID": 44,
+                "WeekPostWean": 8,
+                "DeadsNumber": 18
+            },
+            {
+                "MortalityID": 1299,
+                "BatchID": 44,
+                "WeekPostWean": 9,
+                "DeadsNumber": 12
+            },
+            {
+                "MortalityID": 1300,
+                "BatchID": 44,
+                "WeekPostWean": 10,
+                "DeadsNumber": 11
+            },
+            {
+                "MortalityID": 1301,
+                "BatchID": 44,
+                "WeekPostWean": 11,
+                "DeadsNumber": 7
+            },
+            {
+                "MortalityID": 1302,
+                "BatchID": 44,
+                "WeekPostWean": 12,
+                "DeadsNumber": 3
+            },
+            {
+                "MortalityID": 1303,
+                "BatchID": 44,
+                "WeekPostWean": 13,
+                "DeadsNumber": 5
+            },
+            {
+                "MortalityID": 1304,
+                "BatchID": 44,
+                "WeekPostWean": 14,
+                "DeadsNumber": 4
+            },
+            {
+                "MortalityID": 1305,
+                "BatchID": 44,
+                "WeekPostWean": 15,
+                "DeadsNumber": 2
+            },
+            {
+                "MortalityID": 1306,
+                "BatchID": 44,
+                "WeekPostWean": 16,
+                "DeadsNumber": 1
+            },
+            {
+                "MortalityID": 1307,
+                "BatchID": 44,
+                "WeekPostWean": 17,
+                "DeadsNumber": 0
+            },
+            {
+                "MortalityID": 1308,
+                "BatchID": 44,
+                "WeekPostWean": 18,
+                "DeadsNumber": 0
+            },
+            {
+                "MortalityID": 1309,
+                "BatchID": 44,
+                "WeekPostWean": 19,
+                "DeadsNumber": 2
+            },
+            {
+                "MortalityID": 1310,
+                "BatchID": 44,
+                "WeekPostWean": 20,
+                "DeadsNumber": 1
+            },
+            {
+                "MortalityID": 1311,
+                "BatchID": 44,
+                "WeekPostWean": 21,
+                "DeadsNumber": 0
+            },
+            {
+                "MortalityID": 1312,
+                "BatchID": 44,
+                "WeekPostWean": 22,
+                "DeadsNumber": 0
+            },
+            {
+                "MortalityID": 1313,
+                "BatchID": 44,
+                "WeekPostWean": 23,
+                "DeadsNumber": 0
+            },
+            {
+                "MortalityID": 1314,
+                "BatchID": 44,
+                "WeekPostWean": 24,
+                "DeadsNumber": 0
+            },
+            {
+                "MortalityID": 1315,
+                "BatchID": 44,
+                "WeekPostWean": 25,
+                "DeadsNumber": 0
+            },
+            {
+                "MortalityID": 1316,
+                "BatchID": 44,
+                "WeekPostWean": 26,
+                "DeadsNumber": 0
+            },
+            {
+                "MortalityID": 1317,
+                "BatchID": 44,
+                "WeekPostWean": 27,
+                "DeadsNumber": 0
+            },
+            {
+                "MortalityID": 1318,
+                "BatchID": 44,
+                "WeekPostWean": 28,
+                "DeadsNumber": 0
+            },
+            {
+                "MortalityID": 1319,
+                "BatchID": 44,
+                "WeekPostWean": 29,
+                "DeadsNumber": 0
+            },
+            {
+                "MortalityID": 1320,
+                "BatchID": 44,
+                "WeekPostWean": 30,
+                "DeadsNumber": 0
+            }
+        ]}
+    },
+    {
+        "PerformanceParameterID": 164,
+        "CurrencyUnit": 25,
+        "AccountID": 96384,
+        "BatchID": 64,
+        "WeightUnit": 12,
+        "CreateUser": {"xsi:nil": true},
+        "CullData": {"AttritionLiteCulls": [
+            {
+                "CullsID": 585,
+                "MaxWeight": 37.4,
+                "BatchID": 64,
+                "CullsNumber": 0,
+                "MinWeight": 12.5
+            },
+            {
+                "CullsID": 586,
+                "MaxWeight": 62.4,
+                "BatchID": 64,
+                "CullsNumber": 0,
+                "MinWeight": 37.5
+            },
+            {
+                "CullsID": 587,
+                "MaxWeight": 87.4,
+                "BatchID": 64,
+                "CullsNumber": 0,
+                "MinWeight": 62.5
+            },
+            {
+                "CullsID": 588,
+                "MaxWeight": 112.4,
+                "BatchID": 64,
+                "CullsNumber": 0,
+                "MinWeight": 87.5
+            },
+            {
+                "CullsID": 589,
+                "MaxWeight": 137.4,
+                "BatchID": 64,
+                "CullsNumber": 2,
+                "MinWeight": 112.5
+            },
+            {
+                "CullsID": 590,
+                "MaxWeight": 162.4,
+                "BatchID": 64,
+                "CullsNumber": 0,
+                "MinWeight": 137.5
+            },
+            {
+                "CullsID": 591,
+                "MaxWeight": 187.4,
+                "BatchID": 64,
+                "CullsNumber": 15,
+                "MinWeight": 162.5
+            },
+            {
+                "CullsID": 592,
+                "MaxWeight": 212.4,
+                "BatchID": 64,
+                "CullsNumber": 0,
+                "MinWeight": 187.5
+            },
+            {
+                "CullsID": 593,
+                "MaxWeight": 237.4,
+                "BatchID": 64,
+                "CullsNumber": 25,
+                "MinWeight": 212.5
+            },
+            {
+                "CullsID": 594,
+                "MaxWeight": 262.4,
+                "BatchID": 64,
+                "CullsNumber": 0,
+                "MinWeight": 237.5
+            },
+            {
+                "CullsID": 595,
+                "MaxWeight": 287.4,
+                "BatchID": 64,
+                "CullsNumber": 0,
+                "MinWeight": 262.5
+            },
+            {
+                "CullsID": 596,
+                "MaxWeight": 312.4,
+                "BatchID": 64,
+                "CullsNumber": 0,
+                "MinWeight": 287.5
+            },
+            {
+                "CullsID": 597,
+                "MaxWeight": 337.4,
+                "BatchID": 64,
+                "CullsNumber": 0,
+                "MinWeight": 312.5
+            }
+        ]},
+        "BatchDate": "2014-03-01T00:00:00",
+        "CloseOutData": {
+            "PctCulls": {"xsi:nil": true},
+            "CloseOutID": 64,
+            "MortalityLostOpportunity": -3.514378642561218,
+            "BatchID": 64,
+            "WeanerPigPrice": 30,
+            "PctMortality": {"xsi:nil": true},
+            "GroupEndDate": "2014-03-01T00:00:00",
+            "AvgFeedCost": 0.09,
+            "CullsLostOpportunity": -7.438593207911141,
+            "MaxMOFCLivePrice": 0.85,
+            "CullBasePrice": 0.2,
+            "StartingLiveWeight": 10000,
+            "PigsPlaced": 1000,
+            "MaxMOFCWeight": 280,
+            "MaxMOFCTotalFeedCost": 61.13,
+            "TotalRevenue": 238,
+            "FeedCostPerUnitGain": 0.22640740740740742,
+            "MarginOverFeedCost": 176.87
+        },
+        "MortalityData": {"AttritionLiteMortality": [
+            {
+                "MortalityID": 1891,
+                "BatchID": 64,
+                "WeekPostWean": 1,
+                "DeadsNumber": 1
+            },
+            {
+                "MortalityID": 1892,
+                "BatchID": 64,
+                "WeekPostWean": 2,
+                "DeadsNumber": 4
+            },
+            {
+                "MortalityID": 1893,
+                "BatchID": 64,
+                "WeekPostWean": 3,
+                "DeadsNumber": 6
+            },
+            {
+                "MortalityID": 1894,
+                "BatchID": 64,
+                "WeekPostWean": 4,
+                "DeadsNumber": 0
+            },
+            {
+                "MortalityID": 1895,
+                "BatchID": 64,
+                "WeekPostWean": 5,
+                "DeadsNumber": 0
+            },
+            {
+                "MortalityID": 1896,
+                "BatchID": 64,
+                "WeekPostWean": 6,
+                "DeadsNumber": 0
+            },
+            {
+                "MortalityID": 1897,
+                "BatchID": 64,
+                "WeekPostWean": 7,
+                "DeadsNumber": 0
+            },
+            {
+                "MortalityID": 1898,
+                "BatchID": 64,
+                "WeekPostWean": 8,
+                "DeadsNumber": 0
+            },
+            {
+                "MortalityID": 1899,
+                "BatchID": 64,
+                "WeekPostWean": 9,
+                "DeadsNumber": 1
+            },
+            {
+                "MortalityID": 1900,
+                "BatchID": 64,
+                "WeekPostWean": 10,
+                "DeadsNumber": 0
+            },
+            {
+                "MortalityID": 1901,
+                "BatchID": 64,
+                "WeekPostWean": 11,
+                "DeadsNumber": 2
+            },
+            {
+                "MortalityID": 1902,
+                "BatchID": 64,
+                "WeekPostWean": 12,
+                "DeadsNumber": 0
+            },
+            {
+                "MortalityID": 1903,
+                "BatchID": 64,
+                "WeekPostWean": 13,
+                "DeadsNumber": 5
+            },
+            {
+                "MortalityID": 1904,
+                "BatchID": 64,
+                "WeekPostWean": 14,
+                "DeadsNumber": 0
+            },
+            {
+                "MortalityID": 1905,
+                "BatchID": 64,
+                "WeekPostWean": 15,
+                "DeadsNumber": 0
+            },
+            {
+                "MortalityID": 1906,
+                "BatchID": 64,
+                "WeekPostWean": 16,
+                "DeadsNumber": 0
+            },
+            {
+                "MortalityID": 1907,
+                "BatchID": 64,
+                "WeekPostWean": 17,
+                "DeadsNumber": 0
+            },
+            {
+                "MortalityID": 1908,
+                "BatchID": 64,
+                "WeekPostWean": 18,
+                "DeadsNumber": 0
+            },
+            {
+                "MortalityID": 1909,
+                "BatchID": 64,
+                "WeekPostWean": 19,
+                "DeadsNumber": 0
+            },
+            {
+                "MortalityID": 1910,
+                "BatchID": 64,
+                "WeekPostWean": 20,
+                "DeadsNumber": 0
+            },
+            {
+                "MortalityID": 1911,
+                "BatchID": 64,
+                "WeekPostWean": 21,
+                "DeadsNumber": 0
+            },
+            {
+                "MortalityID": 1912,
+                "BatchID": 64,
+                "WeekPostWean": 22,
+                "DeadsNumber": 0
+            },
+            {
+                "MortalityID": 1913,
+                "BatchID": 64,
+                "WeekPostWean": 23,
+                "DeadsNumber": 0
+            },
+            {
+                "MortalityID": 1914,
+                "BatchID": 64,
+                "WeekPostWean": 24,
+                "DeadsNumber": 0
+            },
+            {
+                "MortalityID": 1915,
+                "BatchID": 64,
+                "WeekPostWean": 25,
+                "DeadsNumber": 0
+            },
+            {
+                "MortalityID": 1916,
+                "BatchID": 64,
+                "WeekPostWean": 26,
+                "DeadsNumber": 0
+            },
+            {
+                "MortalityID": 1917,
+                "BatchID": 64,
+                "WeekPostWean": 27,
+                "DeadsNumber": 0
+            },
+            {
+                "MortalityID": 1918,
+                "BatchID": 64,
+                "WeekPostWean": 28,
+                "DeadsNumber": 0
+            },
+            {
+                "MortalityID": 1919,
+                "BatchID": 64,
+                "WeekPostWean": 29,
+                "DeadsNumber": 0
+            },
+            {
+                "MortalityID": 1920,
+                "BatchID": 64,
+                "WeekPostWean": 30,
+                "DeadsNumber": 0
+            }
+        ]}
+    },
+    {
+        "PerformanceParameterID": 157,
+        "CurrencyUnit": 25,
+        "AccountID": 96384,
+        "BatchID": 114,
+        "WeightUnit": 12,
+        "CreateUser": {"xsi:nil": true},
+        "CullData": "",
+        "BatchDate": "2017-11-01T00:00:00",
+        "CloseOutData": {
+            "PctCulls": {"xsi:nil": true},
+            "CloseOutID": 114,
+            "MortalityLostOpportunity": -15.584968700000003,
+            "BatchID": 114,
+            "WeanerPigPrice": 38,
+            "PctMortality": {"xsi:nil": true},
+            "GroupEndDate": "2017-11-01T00:00:00",
+            "AvgFeedCost": 0.13,
+            "CullsLostOpportunity": 0,
+            "MaxMOFCLivePrice": 0.54,
+            "CullBasePrice": 0,
+            "StartingLiveWeight": 43000,
+            "PigsPlaced": 1000,
+            "MaxMOFCWeight": 278,
+            "MaxMOFCTotalFeedCost": 88.3,
+            "TotalRevenue": 150.12,
+            "FeedCostPerUnitGain": 0.37574468085106383,
+            "MarginOverFeedCost": 61.82000000000001
+        },
+        "MortalityData": {"AttritionLiteMortality": [
+            {
+                "MortalityID": 3399,
+                "BatchID": 114,
+                "WeekPostWean": 1,
+                "DeadsNumber": 0
+            },
+            {
+                "MortalityID": 3400,
+                "BatchID": 114,
+                "WeekPostWean": 2,
+                "DeadsNumber": 0
+            },
+            {
+                "MortalityID": 3401,
+                "BatchID": 114,
+                "WeekPostWean": 3,
+                "DeadsNumber": 0
+            },
+            {
+                "MortalityID": 3402,
+                "BatchID": 114,
+                "WeekPostWean": 4,
+                "DeadsNumber": 0
+            },
+            {
+                "MortalityID": 3403,
+                "BatchID": 114,
+                "WeekPostWean": 5,
+                "DeadsNumber": 0
+            },
+            {
+                "MortalityID": 3404,
+                "BatchID": 114,
+                "WeekPostWean": 6,
+                "DeadsNumber": 0
+            },
+            {
+                "MortalityID": 3405,
+                "BatchID": 114,
+                "WeekPostWean": 7,
+                "DeadsNumber": 23
+            },
+            {
+                "MortalityID": 3406,
+                "BatchID": 114,
+                "WeekPostWean": 8,
+                "DeadsNumber": 17
+            },
+            {
+                "MortalityID": 3407,
+                "BatchID": 114,
+                "WeekPostWean": 9,
+                "DeadsNumber": 5
+            },
+            {
+                "MortalityID": 3408,
+                "BatchID": 114,
+                "WeekPostWean": 10,
+                "DeadsNumber": 1
+            },
+            {
+                "MortalityID": 3409,
+                "BatchID": 114,
+                "WeekPostWean": 11,
+                "DeadsNumber": 0
+            },
+            {
+                "MortalityID": 3410,
+                "BatchID": 114,
+                "WeekPostWean": 12,
+                "DeadsNumber": 0
+            },
+            {
+                "MortalityID": 3411,
+                "BatchID": 114,
+                "WeekPostWean": 13,
+                "DeadsNumber": 0
+            },
+            {
+                "MortalityID": 3412,
+                "BatchID": 114,
+                "WeekPostWean": 14,
+                "DeadsNumber": 0
+            },
+            {
+                "MortalityID": 3413,
+                "BatchID": 114,
+                "WeekPostWean": 15,
+                "DeadsNumber": 13
+            },
+            {
+                "MortalityID": 3414,
+                "BatchID": 114,
+                "WeekPostWean": 16,
+                "DeadsNumber": 28
+            },
+            {
+                "MortalityID": 3415,
+                "BatchID": 114,
+                "WeekPostWean": 17,
+                "DeadsNumber": 35
+            },
+            {
+                "MortalityID": 3416,
+                "BatchID": 114,
+                "WeekPostWean": 18,
+                "DeadsNumber": 2
+            },
+            {
+                "MortalityID": 3417,
+                "BatchID": 114,
+                "WeekPostWean": 19,
+                "DeadsNumber": 0
+            },
+            {
+                "MortalityID": 3418,
+                "BatchID": 114,
+                "WeekPostWean": 20,
+                "DeadsNumber": 0
+            },
+            {
+                "MortalityID": 3419,
+                "BatchID": 114,
+                "WeekPostWean": 21,
+                "DeadsNumber": 0
+            },
+            {
+                "MortalityID": 3420,
+                "BatchID": 114,
+                "WeekPostWean": 22,
+                "DeadsNumber": 0
+            },
+            {
+                "MortalityID": 3421,
+                "BatchID": 114,
+                "WeekPostWean": 23,
+                "DeadsNumber": 0
+            },
+            {
+                "MortalityID": 3422,
+                "BatchID": 114,
+                "WeekPostWean": 24,
+                "DeadsNumber": 0
+            },
+            {
+                "MortalityID": 3423,
+                "BatchID": 114,
+                "WeekPostWean": 25,
+                "DeadsNumber": 0
+            },
+            {
+                "MortalityID": 3424,
+                "BatchID": 114,
+                "WeekPostWean": 26,
+                "DeadsNumber": 0
+            },
+            {
+                "MortalityID": 3425,
+                "BatchID": 114,
+                "WeekPostWean": 27,
+                "DeadsNumber": 0
+            },
+            {
+                "MortalityID": 3426,
+                "BatchID": 114,
+                "WeekPostWean": 28,
+                "DeadsNumber": 0
+            },
+            {
+                "MortalityID": 3427,
+                "BatchID": 114,
+                "WeekPostWean": 29,
+                "DeadsNumber": 0
+            },
+            {
+                "MortalityID": 3428,
+                "BatchID": 114,
+                "WeekPostWean": 30,
+                "DeadsNumber": 0
+            },
+            {
+                "MortalityID": 3429,
+                "BatchID": 114,
+                "WeekPostWean": 31,
+                "DeadsNumber": 0
+            },
+            {
+                "MortalityID": 3430,
+                "BatchID": 114,
+                "WeekPostWean": 32,
+                "DeadsNumber": 0
+            },
+            {
+                "MortalityID": 3431,
+                "BatchID": 114,
+                "WeekPostWean": 33,
+                "DeadsNumber": 7
+            },
+            {
+                "MortalityID": 3432,
+                "BatchID": 114,
+                "WeekPostWean": 34,
+                "DeadsNumber": 9
+            },
+            {
+                "MortalityID": 3433,
+                "BatchID": 114,
+                "WeekPostWean": 35,
+                "DeadsNumber": 0
+            }
+        ]}
+    }
+]}
