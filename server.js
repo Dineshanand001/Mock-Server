@@ -1,9 +1,11 @@
 const express = require('express')
 const app = express()
+const cors = require('cors')
 const mockRoute = require('./router/mock-routes')
 
 app.use(express.urlencoded({ extended: true}));
 app.use(express.json())
+app.use(cors())
 
 //Use the defined routes
 app.use('/', mockRoute);
