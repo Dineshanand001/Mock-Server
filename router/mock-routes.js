@@ -120,4 +120,8 @@ router.get('/getAllCompany', (req, res) => {
     mockController.getAllCompanyResponse(req,res);
 })
 
+router.get('/login', (req, res) => {
+    mockController.loginResponse(req,res);
+})
+
 module.exports = router;

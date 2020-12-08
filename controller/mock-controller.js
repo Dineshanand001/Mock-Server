@@ -111,3 +111,7 @@ exports.savePerformanceParameterResponse = (req, res) => {
 exports.getAllCompanyResponse = (req, res) => {
     mockService.getAllCompanyResponse(req, res);
 }
+
+exports.loginResponse = (req, res) => {
+    mockService.loginResponse(req, res);
+}

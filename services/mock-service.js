@@ -26,6 +26,7 @@ const saveOMWLiteOptimalCaseResponse = require("./../mockdata/SaveOMWLiteOptimal
 const saveOMWOptimalCaseResponse = require("./../mockdata/SaveOMWOptimalCaseResponse");
 const savePerformanceParameterResponse = require("./../mockdata/SavePerformanceParameterResponse");
 const getAllCompanyResponse = require("./../mockdata/GetAllCompanyResponse.json");
+const loginResponse = require("./../mockdata/LoginResponse.json");
 
 exports.getAdjustmentResponse = (req, res) => {
     res.json(getAdjustmentResponse)
@@ -137,4 +138,8 @@ exports.savePerformanceParameterResponse = (req, res) => {
 
 exports.getAllCompanyResponse = (req, res) => {
     res.json(getAllCompanyResponse)
+}
+
+exports.loginResponse = (req, res) => {
+    res.json(loginResponse)
 }

@@ -1,0 +1,21 @@
+{
+  "LoginUser": "kanagav@virtusa.com",
+  "Flag": 0,
+  "AssignedFeature": false,
+  "AssignedRole": false,
+  "AssignedReport": false,
+  "ContactInfo": {
+    "ContactID": 17106,
+    "FirstName": "Kanaga",
+    "LastName": "Veeramani",
+    "UserName": "kanagav@virtusa.com",
+    "Email": "kanagav@virtusa.com",
+    "Phone": "",
+    "LastLogin": "2020-12-04T02:11:03.53",
+    "CreationDate": "2020-11-22T20:37:46.043",
+    "ContactFlag": 1,
+    "LastUpdatePWDDate": "2020-11-22T20:37:46.043",
+    "IsSuperAdmin": false,
+    "ContactName": "Kanaga Veeramani"
+  }
+}
