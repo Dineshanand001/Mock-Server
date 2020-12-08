@@ -8,115 +8,115 @@ router.use(function timeLog (req, res, next) {
     next();
 })
 
-router.get('/getAdjustment', (req, res) => {
+router.get('/getadjustment', (req, res) => {
     mockController.getAdjustmentResponse(req,res);
 })
 
-router.get('/getAttritionLiteBatch', (req, res) => {
+router.get('/getattritionlitebatch', (req, res) => {
     mockController.getAttritionLiteBatchResponse(req,res);
 })
 
-router.get('/getAttritionLiteData', (req, res) => {
+router.get('/getattritionlitedata', (req, res) => {
     mockController.getAttritionLiteDataResponse(req,res);
 })
 
-router.get('/getCriteriaValueByGroupDate', (req, res) => {
+router.get('/getcriteriavaluebygroupdate', (req, res) => {
     mockController.getCriteriaValueByGroupDateResponse(req,res);
 })
 
-router.get('/getCriteriaValue', (req, res) => {
+router.get('/getcriteriavalue', (req, res) => {
     mockController.getCriteriaValueResponse(req,res);
 })
 
-router.get('/getFeedProgram', (req, res) => {
+router.get('/getfeedprogram', (req, res) => {
     mockController.getFeedProgramResponse(req,res);
 })
 
-router.get('/getGrowthADFI', (req, res) => {
+router.get('/getgrowthadfi', (req, res) => {
     mockController.getGrowthADFIResponse(req,res);
 })
 
-router.get('/getMasterMetadataUnitByAccount', (req, res) => {
+router.get('/getmastermetadataunitbyaccount', (req, res) => {
     mockController.getMasterMetadataUnitByAccountResponse(req,res);
 })
 
-router.get('/getMorePaymentGrid', (req, res) => {
+router.get('/getmorepaymentgrid', (req, res) => {
     mockController.getMorePaymentGridResponse(req,res);
 })
 
-router.get('/getOMWData', (req, res) => {
+router.get('/getomwdata', (req, res) => {
     mockController.getOMWDataResponse(req,res);
 })
 
-router.get('/getOMWLiteData', (req, res) => {
+router.get('/getomwlitedata', (req, res) => {
     mockController.getOMWLiteDataResponse(req,res);
 })
 
-router.get('/getOMWLitePaymentGridDetail', (req, res) => {
+router.get('/getomwlitepaymentgriddetail', (req, res) => {
     mockController.getOMWLitePaymentGridDetailResponse(req,res);
 })
 
-router.get('/getOMWPacker', (req, res) => {
+router.get('/getomwpacker', (req, res) => {
     mockController.getOMWPackerResponse(req,res);
 })
 
-router.get('/getPaymentGrid', (req, res) => {
+router.get('/getpaymentgrid', (req, res) => {
     mockController.getPaymentGridResponse(req,res);
 })
 
-router.get('/getPerformanceParameter', (req, res) => {
+router.get('/getperformanceparameter', (req, res) => {
     mockController.getPerformanceParameterResponse(req,res);
 })
 
-router.get('/getPerformance', (req, res) => {
+router.get('/getperformance', (req, res) => {
     mockController.getPerformanceResponse(req,res);
 })
 
-router.get('/getPFData', (req, res) => {
+router.get('/getpfdata', (req, res) => {
     mockController.getPFDataResponse(req,res);
 })
 
-router.get('/getPFLiteBatch', (req, res) => {
+router.get('/getpflitebatch', (req, res) => {
     mockController.getPFLiteBatchResponse(req,res);
 })
 
-router.get('/getPFLiteData', (req, res) => {
+router.get('/getpflitedata', (req, res) => {
     mockController.getPFLiteDataResponse(req,res);
 })
 
-router.get('/getPFLiteEntryBatch', (req, res) => {
+router.get('/getpfliteentrybatch', (req, res) => {
     mockController.getPFLiteEntryBatchResponse(req,res);
 })
 
-router.get('/getPFLitePaymentGridDetail', (req, res) => {
+router.get('/getpflitepaymentgriddetail', (req, res) => {
     mockController.getPFLitePaymentGridDetailResponse(req,res);
 })
 
-router.get('/getPFLitePaymentGrid', (req, res) => {
+router.get('/getpflitepaymentgrid', (req, res) => {
     mockController.getPFLitePaymentGridResponse(req,res);
 })
 
-router.get('/getPFPacker', (req, res) => {
+router.get('/getpfpacker', (req, res) => {
     mockController.getPFPackerResponse(req,res);
 })
 
-router.get('/loadClientToken', (req, res) => {
+router.get('/loadclienttoken', (req, res) => {
     mockController.loadClientTokenResponse(req,res);
 })
 
-router.get('/saveOMWLiteOptimalCase', (req, res) => {
+router.get('/saveomwliteoptimalcase', (req, res) => {
     mockController.saveOMWLiteOptimalCaseResponse(req,res);
 })
 
-router.get('/saveOMWOptimalCase', (req, res) => {
+router.get('/saveomwoptimalcase', (req, res) => {
     mockController.saveOMWOptimalCaseResponse(req,res);
 })
 
-router.get('/savePerformanceParameter', (req, res) => {
+router.get('/saveperformanceparameter', (req, res) => {
     mockController.savePerformanceParameterResponse(req,res);
 })
 
-router.get('/getAllCompany', (req, res) => {
+router.get('/getallcompany', (req, res) => {
     mockController.getAllCompanyResponse(req,res);
 })
 
