@@ -1,0 +1,24 @@
+[
+	{
+		"__type": "EKSS.MarketingModel.Entity.AccountName",
+		"AccountID": 88720,
+		"Name": "AMVC",
+		"DefaultCOAName": "Swine/US/Finishing",
+		"WeightUnitID": 12,
+		"WeightUnitName": "lbs",
+		"CurrencyUnitID": 25,
+		"CurrencyUnitName": "USD",
+		"Symbol": "$"
+	},
+	{
+		"__type": "EKSS.MarketingModel.Entity.AccountName",
+		"AccountID": 92940,
+		"Name": "Orange City Veterinary Clinic",
+		"DefaultCOAName": "Swine/US/Finishing",
+		"WeightUnitID": 12,
+		"WeightUnitName": "lbs",
+		"CurrencyUnitID": 25,
+		"CurrencyUnitName": "USD",
+		"Symbol": "$"
+	}
+]

@@ -116,4 +116,8 @@ router.get('/savePerformanceParameter', (req, res) => {
     mockController.savePerformanceParameterResponse(req,res);
 })
 
+router.get('/getAllCompany', (req, res) => {
+    mockController.getAllCompanyResponse(req,res);
+})
+
 module.exports = router;
