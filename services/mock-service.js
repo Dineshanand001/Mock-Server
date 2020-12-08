@@ -141,5 +141,7 @@ exports.getAllCompanyResponse = (req, res) => {
 }
 
 exports.loginResponse = (req, res) => {
-    res.json(loginResponse)
+    if(req.body.username && req.body.password) {
+        res.json(loginResponse)
+    }
 }

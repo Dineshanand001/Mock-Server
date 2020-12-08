@@ -120,7 +120,7 @@ router.get('/getAllCompany', (req, res) => {
     mockController.getAllCompanyResponse(req,res);
 })
 
-router.get('/login', (req, res) => {
+router.post('/login', (req, res) => {
     mockController.loginResponse(req,res);
 })
 
