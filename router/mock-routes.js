@@ -40,7 +40,7 @@ router.get('/getmastermetadataunitbyaccount', (req, res) => {
     mockController.getMasterMetadataUnitByAccountResponse(req,res);
 })
 
-router.get('/getmorepaymentgrid', (req, res) => {
+router.get('/getmorepaymentgriditem', (req, res) => {
     mockController.getMorePaymentGridResponse(req,res);
 })
 
@@ -60,7 +60,7 @@ router.get('/getomwpacker', (req, res) => {
     mockController.getOMWPackerResponse(req,res);
 })
 
-router.get('/getpaymentgrid', (req, res) => {
+router.get('/getpaymentgriditem', (req, res) => {
     mockController.getPaymentGridResponse(req,res);
 })
 
