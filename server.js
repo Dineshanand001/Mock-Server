@@ -13,6 +13,10 @@ app.use(bodyParser.urlencoded({ extended: false }));
 
 //Use the defined routes
 app.use('/', mockRoute);
+//Use PDF files
+app.use('/profitoptimizerypdf', express.static(__dirname + '/pdf/Profit-Optimizer-Y-User-Guide.pdf'));
+app.use('/profitfinderypdf', express.static(__dirname + '/pdf/Profit-Finder-Y-User-Guide.pdf'));
+app.use('/attritionypdf', express.static(__dirname + '/pdf/Attrition-Y-User-Guide.pdf'));
 //app.use(express.static('mockdata'))
 
 app.get('/', (req, res) => {

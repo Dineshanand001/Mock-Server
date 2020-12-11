@@ -124,4 +124,8 @@ router.post('/login', (req, res) => {
     mockController.loginResponse(req,res);
 })
 
+// router.get('/getprofitoptimizerypdf', (req, res) => {
+//     mockController.profitOptimizerYPDF(req,res);
+// })
+
 module.exports = router;
