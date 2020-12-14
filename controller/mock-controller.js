@@ -116,6 +116,6 @@ exports.loginResponse = (req, res) => {
     mockService.loginResponse(req, res);
 }
 
-// exports.profitOptimizerYPDF = (req, res) => {
-//     mockService.profitOptimizerYPDF(req, res);
-// }
+exports.getOMWPaymentGridResponse = (req, res) => {
+    mockService.getOMWPaymentGridResponse(req, res);
+}

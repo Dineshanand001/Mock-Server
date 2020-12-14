@@ -27,7 +27,7 @@ const saveOMWOptimalCaseResponse = require("./../mockdata/SaveOMWOptimalCaseResp
 const savePerformanceParameterResponse = require("./../mockdata/SavePerformanceParameterResponse");
 const getAllCompanyResponse = require("./../mockdata/GetAllCompanyResponse.json");
 const loginResponse = require("./../mockdata/LoginResponse.json");
-//const profitOptimizerYPDF = require("./../mockdata/PDF/Profit-Optimizer-Y-User-Guide.pdf");
+const getOMWPaymentGridResponse = require("./../mockdata/GetOMWPaymentGridResposne.json");
 
 exports.getAdjustmentResponse = (req, res) => {
     res.json(getAdjustmentResponse)
@@ -147,6 +147,6 @@ exports.loginResponse = (req, res) => {
     }
 }
 
-// exports.profitOptimizerYPDF = (req, res) => {
-//     res.send(profitOptimizerYPDF)
-// } 
+exports.getOMWPaymentGridResponse = (req, res) => {
+    res.json(getOMWPaymentGridResponse)
+} 
