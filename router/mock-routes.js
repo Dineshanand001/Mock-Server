@@ -128,4 +128,8 @@ router.get('/getomwpaymentgridresponse', (req, res) => {
     mockController.getOMWPaymentGridResponse(req,res);
 })
 
+router.get('/getomwperformanceresponse', (req, res) => {
+    mockController.getOMWPerformanceResponse(req,res);
+})
+
 module.exports = router;

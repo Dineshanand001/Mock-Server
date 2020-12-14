@@ -119,3 +119,8 @@ exports.loginResponse = (req, res) => {
 exports.getOMWPaymentGridResponse = (req, res) => {
     mockService.getOMWPaymentGridResponse(req, res);
 }
+
+
+exports.getOMWPerformanceResponse = (req, res) => {
+    mockService.getOMWPerformanceResponse(req, res);
+}

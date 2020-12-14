@@ -28,6 +28,7 @@ const savePerformanceParameterResponse = require("./../mockdata/SavePerformanceP
 const getAllCompanyResponse = require("./../mockdata/GetAllCompanyResponse.json");
 const loginResponse = require("./../mockdata/LoginResponse.json");
 const getOMWPaymentGridResponse = require("./../mockdata/GetOMWPaymentGridResposne.json");
+const getOMWPerformanceResponse = require("./../mockdata/GetOMWPerformanceResponse.json")
 
 exports.getAdjustmentResponse = (req, res) => {
     res.json(getAdjustmentResponse)
@@ -150,3 +151,7 @@ exports.loginResponse = (req, res) => {
 exports.getOMWPaymentGridResponse = (req, res) => {
     res.json(getOMWPaymentGridResponse)
 } 
+
+exports.getOMWPerformanceResponse = (req, res) => {
+    res.json(getOMWPerformanceResponse);
+}
