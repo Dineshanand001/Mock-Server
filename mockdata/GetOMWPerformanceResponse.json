@@ -1,253 +1,249 @@
 {
-    "GetPerformanceResponse": {
-       "GetPerformanceResult": {
-          "Parameter": {
-             "PerformanceParameterID": "1223",
-             "PerformanceParameterName": "AMVC_Feb_2019",
-             "AccountID": "88720",
-             "PeriodMarketing": "20000",
-             "CarcassBasePrice": "70",
-             "CullPercentofBaseADG": "0.9",
-             "MortalityofBaseADG": "0.8",
-             "CullPercentofBaseADFI": "0.9",
-             "MortalityofBaseADFI": "0.9",
-             "PigCost": "35",
-             "DeadLivePrice": "0",
-             "NonAmbulatoryLivePrice": "40",
-             "CullsLivePrice": "40",
-             "OverWeekPostWeanADG": "1.5",
-             "OverWeekPostWeanADFI": "7.5",
-             "IsDefault": "false"
-          },
-          "FeedProgramList": {
-             "PerformanceFeedProgram": [
-                {
-                   "FeedProgramID": "8430",
-                   "PostWeaningFeedDiet": "Nursery 1",
-                   "CostTon": "1060",
-                   "FeedBudget": "1.5"
-                },
-                {
-                   "FeedProgramID": "8431",
-                   "PostWeaningFeedDiet": "Nursery 2",
-                   "CostTon": "474",
-                   "FeedBudget": "14.4"
-                },
-                {
-                   "FeedProgramID": "8432",
-                   "PostWeaningFeedDiet": "Nursery 3",
-                   "CostTon": "233",
-                   "FeedBudget": "38"
-                },
-                {
-                   "FeedProgramID": "8433",
-                   "PostWeaningFeedDiet": "Finisher 1",
-                   "CostTon": "192",
-                   "FeedBudget": "36"
-                },
-                {
-                   "FeedProgramID": "8434",
-                   "PostWeaningFeedDiet": "Finisher 2",
-                   "CostTon": "178",
-                   "FeedBudget": "64"
-                },
-                {
-                   "FeedProgramID": "8435",
-                   "PostWeaningFeedDiet": "Finisher 3",
-                   "CostTon": "182",
-                   "FeedBudget": "81"
-                },
-                {
-                   "FeedProgramID": "8436",
-                   "PostWeaningFeedDiet": "Finisher 4",
-                   "CostTon": "174",
-                   "FeedBudget": "115"
-                },
-                {
-                   "FeedProgramID": "8437",
-                   "PostWeaningFeedDiet": "Finisher 5",
-                   "CostTon": "167",
-                   "FeedBudget": "99"
-                },
-                {
-                   "FeedProgramID": "8438",
-                   "PostWeaningFeedDiet": "Finisher 6",
-                   "CostTon": "163",
-                   "FeedBudget": "121"
-                },
-                {
-                   "FeedProgramID": "8439",
-                   "PostWeaningFeedDiet": "Paylean",
-                   "CostTon": "220",
-                   "FeedBudget": "100"
-                }
-             ]
-          },
-          "GrowthADFIList": {
-             "PerformanceGrowthADFI": [
-                {
-                   "WeekPostWeaning": "1",
-                   "CustomizedADG": "0.454",
-                   "CustomizedADFI": "0.509"
-                },
-                {
-                   "WeekPostWeaning": "2",
-                   "CustomizedADG": "0.589",
-                   "CustomizedADFI": "0.834"
-                },
-                {
-                   "WeekPostWeaning": "3",
-                   "CustomizedADG": "0.772",
-                   "CustomizedADFI": "1.111"
-                },
-                {
-                   "WeekPostWeaning": "4",
-                   "CustomizedADG": "0.902",
-                   "CustomizedADFI": "1.436"
-                },
-                {
-                   "WeekPostWeaning": "5",
-                   "CustomizedADG": "1.09",
-                   "CustomizedADFI": "1.759"
-                },
-                {
-                   "WeekPostWeaning": "6",
-                   "CustomizedADG": "1.225",
-                   "CustomizedADFI": "2.09"
-                },
-                {
-                   "WeekPostWeaning": "7",
-                   "CustomizedADG": "1.407",
-                   "CustomizedADFI": "2.426"
-                },
-                {
-                   "WeekPostWeaning": "8",
-                   "CustomizedADG": "1.57",
-                   "CustomizedADFI": "2.89"
-                },
-                {
-                   "WeekPostWeaning": "9",
-                   "CustomizedADG": "1.661",
-                   "CustomizedADFI": "3.306"
-                },
-                {
-                   "WeekPostWeaning": "10",
-                   "CustomizedADG": "1.761",
-                   "CustomizedADFI": "3.695"
-                },
-                {
-                   "WeekPostWeaning": "11",
-                   "CustomizedADG": "1.826",
-                   "CustomizedADFI": "4.066"
-                },
-                {
-                   "WeekPostWeaning": "12",
-                   "CustomizedADG": "1.878",
-                   "CustomizedADFI": "4.398"
-                },
-                {
-                   "WeekPostWeaning": "13",
-                   "CustomizedADG": "1.924",
-                   "CustomizedADFI": "4.695"
-                },
-                {
-                   "WeekPostWeaning": "14",
-                   "CustomizedADG": "1.952",
-                   "CustomizedADFI": "4.954"
-                },
-                {
-                   "WeekPostWeaning": "15",
-                   "CustomizedADG": "1.959",
-                   "CustomizedADFI": "5.184"
-                },
-                {
-                   "WeekPostWeaning": "16",
-                   "CustomizedADG": "1.97",
-                   "CustomizedADFI": "5.379"
-                },
-                {
-                   "WeekPostWeaning": "17",
-                   "CustomizedADG": "1.952",
-                   "CustomizedADFI": "5.545"
-                },
-                {
-                   "WeekPostWeaning": "18",
-                   "CustomizedADG": "1.941",
-                   "CustomizedADFI": "5.685"
-                },
-                {
-                   "WeekPostWeaning": "19",
-                   "CustomizedADG": "1.915",
-                   "CustomizedADFI": "5.805"
-                },
-                {
-                   "WeekPostWeaning": "20",
-                   "CustomizedADG": "1.897",
-                   "CustomizedADFI": "5.907"
-                },
-                {
-                   "WeekPostWeaning": "21",
-                   "CustomizedADG": "1.851",
-                   "CustomizedADFI": "5.991"
-                },
-                {
-                   "WeekPostWeaning": "22",
-                   "CustomizedADG": "1.808",
-                   "CustomizedADFI": "6.063"
-                },
-                {
-                   "WeekPostWeaning": "23",
-                   "CustomizedADG": "1.761",
-                   "CustomizedADFI": "6.122"
-                },
-                {
-                   "WeekPostWeaning": "24",
-                   "CustomizedADG": "1.714",
-                   "CustomizedADFI": "6.176"
-                },
-                {
-                   "WeekPostWeaning": "25",
-                   "CustomizedADG": "1.671",
-                   "CustomizedADFI": "6.222"
-                },
-                {
-                   "WeekPostWeaning": "26",
-                   "CustomizedADG": "1.625",
-                   "CustomizedADFI": "6.287"
-                },
-                {
-                   "WeekPostWeaning": "27",
-                   "CustomizedADG": "1.58",
-                   "CustomizedADFI": "6.343"
-                },
-                {
-                   "WeekPostWeaning": "28",
-                   "CustomizedADG": "1.533",
-                   "CustomizedADFI": "6.407"
-                },
-                {
-                   "WeekPostWeaning": "29",
-                   "CustomizedADG": "1.488",
-                   "CustomizedADFI": "6.463"
-                },
-                {
-                   "WeekPostWeaning": "30",
-                   "CustomizedADG": "1.444",
-                   "CustomizedADFI": "6.52"
-                }
-             ]
-          },
-          "AdjustList": {
-             "PerformanceAdjustment": {
-                "AdjustmentID": "267",
-                "AdjustmentName": "Paylean",
-                "WeekStart": "22",
-                "WeekEnd": "30",
-                "AdgAdjustment": "0.13999999687075759",
-                "AdfiAdjustment": "-0.00999999977648258",
-                "IsDisable": "false"
-             }
-          }
-       }
-    }
- }
+   "Parameter": {
+      "PerformanceParameterID": "1223",
+      "PerformanceParameterName": "AMVC_Feb_2019",
+      "AccountID": "88720",
+      "PeriodMarketing": "20000",
+      "CarcassBasePrice": "70",
+      "CullPercentofBaseADG": "0.9",
+      "MortalityofBaseADG": "0.8",
+      "CullPercentofBaseADFI": "0.9",
+      "MortalityofBaseADFI": "0.9",
+      "PigCost": "35",
+      "DeadLivePrice": "0",
+      "NonAmbulatoryLivePrice": "40",
+      "CullsLivePrice": "40",
+      "OverWeekPostWeanADG": "1.5",
+      "OverWeekPostWeanADFI": "7.5",
+      "IsDefault": "false"
+   },
+   "FeedProgramList": {
+      "PerformanceFeedProgram": [
+         {
+            "FeedProgramID": "8430",
+            "PostWeaningFeedDiet": "Nursery 1",
+            "CostTon": "1060",
+            "FeedBudget": "1.5"
+         },
+         {
+            "FeedProgramID": "8431",
+            "PostWeaningFeedDiet": "Nursery 2",
+            "CostTon": "474",
+            "FeedBudget": "14.4"
+         },
+         {
+            "FeedProgramID": "8432",
+            "PostWeaningFeedDiet": "Nursery 3",
+            "CostTon": "233",
+            "FeedBudget": "38"
+         },
+         {
+            "FeedProgramID": "8433",
+            "PostWeaningFeedDiet": "Finisher 1",
+            "CostTon": "192",
+            "FeedBudget": "36"
+         },
+         {
+            "FeedProgramID": "8434",
+            "PostWeaningFeedDiet": "Finisher 2",
+            "CostTon": "178",
+            "FeedBudget": "64"
+         },
+         {
+            "FeedProgramID": "8435",
+            "PostWeaningFeedDiet": "Finisher 3",
+            "CostTon": "182",
+            "FeedBudget": "81"
+         },
+         {
+            "FeedProgramID": "8436",
+            "PostWeaningFeedDiet": "Finisher 4",
+            "CostTon": "174",
+            "FeedBudget": "115"
+         },
+         {
+            "FeedProgramID": "8437",
+            "PostWeaningFeedDiet": "Finisher 5",
+            "CostTon": "167",
+            "FeedBudget": "99"
+         },
+         {
+            "FeedProgramID": "8438",
+            "PostWeaningFeedDiet": "Finisher 6",
+            "CostTon": "163",
+            "FeedBudget": "121"
+         },
+         {
+            "FeedProgramID": "8439",
+            "PostWeaningFeedDiet": "Paylean",
+            "CostTon": "220",
+            "FeedBudget": "100"
+         }
+      ]
+   },
+   "GrowthADFIList": {
+      "PerformanceGrowthADFI": [
+         {
+            "WeekPostWeaning": "1",
+            "CustomizedADG": "0.454",
+            "CustomizedADFI": "0.509"
+         },
+         {
+            "WeekPostWeaning": "2",
+            "CustomizedADG": "0.589",
+            "CustomizedADFI": "0.834"
+         },
+         {
+            "WeekPostWeaning": "3",
+            "CustomizedADG": "0.772",
+            "CustomizedADFI": "1.111"
+         },
+         {
+            "WeekPostWeaning": "4",
+            "CustomizedADG": "0.902",
+            "CustomizedADFI": "1.436"
+         },
+         {
+            "WeekPostWeaning": "5",
+            "CustomizedADG": "1.09",
+            "CustomizedADFI": "1.759"
+         },
+         {
+            "WeekPostWeaning": "6",
+            "CustomizedADG": "1.225",
+            "CustomizedADFI": "2.09"
+         },
+         {
+            "WeekPostWeaning": "7",
+            "CustomizedADG": "1.407",
+            "CustomizedADFI": "2.426"
+         },
+         {
+            "WeekPostWeaning": "8",
+            "CustomizedADG": "1.57",
+            "CustomizedADFI": "2.89"
+         },
+         {
+            "WeekPostWeaning": "9",
+            "CustomizedADG": "1.661",
+            "CustomizedADFI": "3.306"
+         },
+         {
+            "WeekPostWeaning": "10",
+            "CustomizedADG": "1.761",
+            "CustomizedADFI": "3.695"
+         },
+         {
+            "WeekPostWeaning": "11",
+            "CustomizedADG": "1.826",
+            "CustomizedADFI": "4.066"
+         },
+         {
+            "WeekPostWeaning": "12",
+            "CustomizedADG": "1.878",
+            "CustomizedADFI": "4.398"
+         },
+         {
+            "WeekPostWeaning": "13",
+            "CustomizedADG": "1.924",
+            "CustomizedADFI": "4.695"
+         },
+         {
+            "WeekPostWeaning": "14",
+            "CustomizedADG": "1.952",
+            "CustomizedADFI": "4.954"
+         },
+         {
+            "WeekPostWeaning": "15",
+            "CustomizedADG": "1.959",
+            "CustomizedADFI": "5.184"
+         },
+         {
+            "WeekPostWeaning": "16",
+            "CustomizedADG": "1.97",
+            "CustomizedADFI": "5.379"
+         },
+         {
+            "WeekPostWeaning": "17",
+            "CustomizedADG": "1.952",
+            "CustomizedADFI": "5.545"
+         },
+         {
+            "WeekPostWeaning": "18",
+            "CustomizedADG": "1.941",
+            "CustomizedADFI": "5.685"
+         },
+         {
+            "WeekPostWeaning": "19",
+            "CustomizedADG": "1.915",
+            "CustomizedADFI": "5.805"
+         },
+         {
+            "WeekPostWeaning": "20",
+            "CustomizedADG": "1.897",
+            "CustomizedADFI": "5.907"
+         },
+         {
+            "WeekPostWeaning": "21",
+            "CustomizedADG": "1.851",
+            "CustomizedADFI": "5.991"
+         },
+         {
+            "WeekPostWeaning": "22",
+            "CustomizedADG": "1.808",
+            "CustomizedADFI": "6.063"
+         },
+         {
+            "WeekPostWeaning": "23",
+            "CustomizedADG": "1.761",
+            "CustomizedADFI": "6.122"
+         },
+         {
+            "WeekPostWeaning": "24",
+            "CustomizedADG": "1.714",
+            "CustomizedADFI": "6.176"
+         },
+         {
+            "WeekPostWeaning": "25",
+            "CustomizedADG": "1.671",
+            "CustomizedADFI": "6.222"
+         },
+         {
+            "WeekPostWeaning": "26",
+            "CustomizedADG": "1.625",
+            "CustomizedADFI": "6.287"
+         },
+         {
+            "WeekPostWeaning": "27",
+            "CustomizedADG": "1.58",
+            "CustomizedADFI": "6.343"
+         },
+         {
+            "WeekPostWeaning": "28",
+            "CustomizedADG": "1.533",
+            "CustomizedADFI": "6.407"
+         },
+         {
+            "WeekPostWeaning": "29",
+            "CustomizedADG": "1.488",
+            "CustomizedADFI": "6.463"
+         },
+         {
+            "WeekPostWeaning": "30",
+            "CustomizedADG": "1.444",
+            "CustomizedADFI": "6.52"
+         }
+      ]
+   },
+   "AdjustList": {
+      "PerformanceAdjustment": {
+         "AdjustmentID": "267",
+         "AdjustmentName": "Paylean",
+         "WeekStart": "22",
+         "WeekEnd": "30",
+         "AdgAdjustment": "0.13999999687075759",
+         "AdfiAdjustment": "-0.00999999977648258",
+         "IsDisable": "false"
+      }
+   }
+}

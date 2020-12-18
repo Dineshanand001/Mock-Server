@@ -124,11 +124,11 @@ router.post('/login', (req, res) => {
     mockController.loginResponse(req,res);
 })
 
-router.get('/getomwpaymentgridresponse', (req, res) => {
+router.get('/getomwpaymentgrid', (req, res) => {
     mockController.getOMWPaymentGridResponse(req,res);
 })
 
-router.get('/getomwperformanceresponse', (req, res) => {
+router.get('/getomwperformance', (req, res) => {
     mockController.getOMWPerformanceResponse(req,res);
 })
 
