@@ -124,3 +124,7 @@ exports.getOMWPaymentGridResponse = (req, res) => {
 exports.getOMWPerformanceResponse = (req, res) => {
     mockService.getOMWPerformanceResponse(req, res);
 }
+
+exports.loadClientTokenResponseUpdated = (req, res) => {
+    mockService.loadClientTokenResponseUpdated(req, res);
+}
