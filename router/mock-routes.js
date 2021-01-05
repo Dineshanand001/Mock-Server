@@ -136,4 +136,8 @@ router.get('/loadclienttokenupdated', (req, res) => {
     mockController.loadClientTokenResponseUpdated(req,res);
 })
 
+router.get('/getBlockedData', (req, res) => {
+    mockController.getBlockedDataResponse(req,res);
+})
+
 module.exports = router;

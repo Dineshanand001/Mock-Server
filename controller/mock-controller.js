@@ -128,3 +128,7 @@ exports.getOMWPerformanceResponse = (req, res) => {
 exports.loadClientTokenResponseUpdated = (req, res) => {
     mockService.loadClientTokenResponseUpdated(req, res);
 }
+
+exports.getBlockedDataResponse = (req, res) => {
+    mockService.getBlockedDataResponse(req, res);
+}
