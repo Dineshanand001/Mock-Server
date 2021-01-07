@@ -140,4 +140,8 @@ router.get('/getBlockedData', (req, res) => {
     mockController.getBlockedDataResponse(req,res);
 })
 
+router.get('/getTysonPaymentGrid', (req, res) => {
+    mockController.getTysonPaymentGridResponse(req,res);
+})
+
 module.exports = router;
