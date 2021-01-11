@@ -132,10 +132,6 @@ router.get('/getomwperformance', (req, res) => {
     mockController.getOMWPerformanceResponse(req,res);
 })
 
-router.get('/loadclienttokenupdated', (req, res) => {
-    mockController.loadClientTokenResponseUpdated(req,res);
-})
-
 router.get('/getBlockedData', (req, res) => {
     mockController.getBlockedDataResponse(req,res);
 })

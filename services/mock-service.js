@@ -29,7 +29,6 @@ const getAllCompanyResponse = require("./../mockdata/GetAllCompanyResponse.json"
 const loginResponse = require("./../mockdata/LoginResponse.json");
 const getOMWPaymentGridResponse = require("./../mockdata/GetOMWPaymentGridResposne.json");
 const getOMWPerformanceResponse = require("./../mockdata/GetOMWPerformanceResponse.json");
-const loadClientTokenResponseUpdated = require("./../mockdata/LoadClientTokenResponseUpdated.json");
 const getBlockedDataResponse = require("./../mockdata/GetBlockedDataResponse.json");
 
 exports.getAdjustmentResponse = (req, res) => {
@@ -156,10 +155,6 @@ exports.getOMWPaymentGridResponse = (req, res) => {
 
 exports.getOMWPerformanceResponse = (req, res) => {
     res.json(getOMWPerformanceResponse);
-}
-
-exports.loadClientTokenResponseUpdated = (req, res) => {
-    res.json(loadClientTokenResponseUpdated)
 }
 
 exports.getBlockedDataResponse = (req, res) => {

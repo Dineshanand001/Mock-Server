@@ -1,152 +1,152 @@
-{"PerformanceGrowthADFI": [
+[
     {
-        "CustomizedADFI": 0.209,
-        "CustomizedADG": 0.205,
-        "WeekPostWeaning": 1
+        "weekPostWeaning": 1,
+        "customizedADG": 0.5,
+        "customizedADFI": 0.55
     },
     {
-        "CustomizedADFI": 0.341,
-        "CustomizedADG": 0.266,
-        "WeekPostWeaning": 2
+        "weekPostWeaning": 2,
+        "customizedADG": 0.65,
+        "customizedADFI": 0.9
     },
     {
-        "CustomizedADFI": 0.456,
-        "CustomizedADG": 0.348,
-        "WeekPostWeaning": 3
+        "weekPostWeaning": 3,
+        "customizedADG": 0.85,
+        "customizedADFI": 1.2
     },
     {
-        "CustomizedADFI": 0.589,
-        "CustomizedADG": 0.406,
-        "WeekPostWeaning": 4
+        "weekPostWeaning": 4,
+        "customizedADG": 0.993,
+        "customizedADFI": 1.55
     },
     {
-        "CustomizedADFI": 0.722,
-        "CustomizedADG": 0.491,
-        "WeekPostWeaning": 5
+        "weekPostWeaning": 5,
+        "customizedADG": 1.2,
+        "customizedADFI": 1.9
     },
     {
-        "CustomizedADFI": 0.857,
-        "CustomizedADG": 0.552,
-        "WeekPostWeaning": 6
+        "weekPostWeaning": 6,
+        "customizedADG": 1.35,
+        "customizedADFI": 2.256
     },
     {
-        "CustomizedADFI": 0.995,
-        "CustomizedADG": 0.634,
-        "WeekPostWeaning": 7
+        "weekPostWeaning": 7,
+        "customizedADG": 1.55,
+        "customizedADFI": 2.62
     },
     {
-        "CustomizedADFI": 1.185,
-        "CustomizedADG": 0.708,
-        "WeekPostWeaning": 8
+        "weekPostWeaning": 8,
+        "customizedADG": 1.73,
+        "customizedADFI": 3.12
     },
     {
-        "CustomizedADFI": 1.356,
-        "CustomizedADG": 0.749,
-        "WeekPostWeaning": 9
+        "weekPostWeaning": 9,
+        "customizedADG": 1.83,
+        "customizedADFI": 3.57
     },
     {
-        "CustomizedADFI": 1.516,
-        "CustomizedADG": 0.794,
-        "WeekPostWeaning": 10
+        "weekPostWeaning": 10,
+        "customizedADG": 1.94,
+        "customizedADFI": 3.99
     },
     {
-        "CustomizedADFI": 1.667,
-        "CustomizedADG": 0.822,
-        "WeekPostWeaning": 11
+        "weekPostWeaning": 11,
+        "customizedADG": 2.01,
+        "customizedADFI": 4.39
     },
     {
-        "CustomizedADFI": 1.806,
-        "CustomizedADG": 0.847,
-        "WeekPostWeaning": 12
+        "weekPostWeaning": 12,
+        "customizedADG": 2.07,
+        "customizedADFI": 4.75
     },
     {
-        "CustomizedADFI": 1.927,
-        "CustomizedADG": 0.868,
-        "WeekPostWeaning": 13
+        "weekPostWeaning": 13,
+        "customizedADG": 2.12,
+        "customizedADFI": 5.07
     },
     {
-        "CustomizedADFI": 2.033,
-        "CustomizedADG": 0.88,
-        "WeekPostWeaning": 14
+        "weekPostWeaning": 14,
+        "customizedADG": 2.15,
+        "customizedADFI": 5.35
     },
     {
-        "CustomizedADFI": 2.128,
-        "CustomizedADG": 0.884,
-        "WeekPostWeaning": 15
+        "weekPostWeaning": 15,
+        "customizedADG": 2.16,
+        "customizedADFI": 5.6
     },
     {
-        "CustomizedADFI": 2.207,
-        "CustomizedADG": 0.887,
-        "WeekPostWeaning": 16
+        "weekPostWeaning": 16,
+        "customizedADG": 2.17,
+        "customizedADFI": 5.81
     },
     {
-        "CustomizedADFI": 2.276,
-        "CustomizedADG": 0.88,
-        "WeekPostWeaning": 17
+        "weekPostWeaning": 17,
+        "customizedADG": 2.15,
+        "customizedADFI": 5.99
     },
     {
-        "CustomizedADFI": 2.333,
-        "CustomizedADG": 0.876,
-        "WeekPostWeaning": 18
+        "weekPostWeaning": 18,
+        "customizedADG": 2.14,
+        "customizedADFI": 6.14
     },
     {
-        "CustomizedADFI": 2.382,
-        "CustomizedADG": 0.863,
-        "WeekPostWeaning": 19
+        "weekPostWeaning": 19,
+        "customizedADG": 2.11,
+        "customizedADFI": 6.27
     },
     {
-        "CustomizedADFI": 2.424,
-        "CustomizedADG": 0.855,
-        "WeekPostWeaning": 20
+        "weekPostWeaning": 20,
+        "customizedADG": 2.09,
+        "customizedADFI": 6.38
     },
     {
-        "CustomizedADFI": 2.458,
-        "CustomizedADG": 0.834,
-        "WeekPostWeaning": 21
+        "weekPostWeaning": 21,
+        "customizedADG": 2.04,
+        "customizedADFI": 6.47
     },
     {
-        "CustomizedADFI": 2.488,
-        "CustomizedADG": 0.814,
-        "WeekPostWeaning": 22
+        "weekPostWeaning": 22,
+        "customizedADG": 1.99,
+        "customizedADFI": 6.55
     },
     {
-        "CustomizedADFI": 2.511,
-        "CustomizedADG": 0.794,
-        "WeekPostWeaning": 23
+        "weekPostWeaning": 23,
+        "customizedADG": 1.94,
+        "customizedADFI": 6.61
     },
     {
-        "CustomizedADFI": 2.535,
-        "CustomizedADG": 0.773,
-        "WeekPostWeaning": 24
+        "weekPostWeaning": 24,
+        "customizedADG": 1.89,
+        "customizedADFI": 6.67
     },
     {
-        "CustomizedADFI": 2.553,
-        "CustomizedADG": 0.753,
-        "WeekPostWeaning": 25
+        "weekPostWeaning": 25,
+        "customizedADG": 1.84,
+        "customizedADFI": 6.72
     },
     {
-        "CustomizedADFI": 2.581,
-        "CustomizedADG": 0.732,
-        "WeekPostWeaning": 26
+        "weekPostWeaning": 26,
+        "customizedADG": 1.79,
+        "customizedADFI": 6.79
     },
     {
-        "CustomizedADFI": 2.603,
-        "CustomizedADG": 0.711,
-        "WeekPostWeaning": 27
+        "weekPostWeaning": 27,
+        "customizedADG": 1.74,
+        "customizedADFI": 6.85
     },
     {
-        "CustomizedADFI": 2.629,
-        "CustomizedADG": 0.692,
-        "WeekPostWeaning": 28
+        "weekPostWeaning": 28,
+        "customizedADG": 1.69,
+        "customizedADFI": 6.92
     },
     {
-        "CustomizedADFI": 2.652,
-        "CustomizedADG": 0.671,
-        "WeekPostWeaning": 29
+        "weekPostWeaning": 29,
+        "customizedADG": 1.64,
+        "customizedADFI": 6.98
     },
     {
-        "CustomizedADFI": 2.675,
-        "CustomizedADG": 0.65,
-        "WeekPostWeaning": 30
+        "weekPostWeaning": 30,
+        "customizedADG": 1.59,
+        "customizedADFI": 7.04
     }
-]}
+]

@@ -1,16 +1,16 @@
-{"AccountMetadataUnit": [
+[
     {
-        "FieldUnit": "Kilogram",
+        "UnitID": 12,
         "DataObject": "Weight Units",
-        "UnitID": 9,
-        "UnitType": "Weight",
-        "AliasName": "KG"
+        "UnitType": 2,
+        "AliasName": "lbs",
+        "FieldUnit": "Pound"
     },
     {
-        "FieldUnit": "South Korean Won",
+        "UnitID": 25,
         "DataObject": "Currency Units",
-        "UnitID": 55,
-        "UnitType": "Currencies",
-        "AliasName": "KRW"
+        "UnitType": 4,
+        "AliasName": "USD",
+        "FieldUnit": "US Dollar"
     }
-]}
+]

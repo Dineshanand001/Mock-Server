@@ -1,83 +1,122 @@
-{"AttritionLiteBatch": [
+[
     {
-        "PerformanceParameterID": 157,
-        "CurrencyUnit": 25,
-        "AccountID": 96384,
         "BatchID": 1,
+        "AccountID": 96384,
+        "BatchDate": "2010-01-01T00:00:00",
+        "PerformanceParameterID": 157,
         "WeightUnit": 12,
-        "CreateUser": {"xsi:nil": true},
-        "BatchDate": "2010-01-01T00:00:00"
+        "CurrencyUnit": 25,
+        "CreateUser": null,
+        "CloseOutData": null,
+        "MortalityData": null,
+        "CullData": null
     },
     {
-        "PerformanceParameterID": 157,
-        "CurrencyUnit": 25,
-        "AccountID": 96384,
         "BatchID": 2,
+        "AccountID": 96384,
+        "BatchDate": "2012-12-01T00:00:00",
+        "PerformanceParameterID": 157,
         "WeightUnit": 12,
-        "CreateUser": {"xsi:nil": true},
-        "BatchDate": "2012-12-01T00:00:00"
+        "CurrencyUnit": 25,
+        "CreateUser": null,
+        "CloseOutData": null,
+        "MortalityData": null,
+        "CullData": null
     },
     {
-        "PerformanceParameterID": 164,
-        "CurrencyUnit": 25,
-        "AccountID": 96384,
         "BatchID": 5,
-        "WeightUnit": 12,
-        "CreateUser": {"xsi:nil": true},
-        "BatchDate": "2012-10-01T00:00:00"
-    },
-    {
-        "PerformanceParameterID": 157,
-        "CurrencyUnit": 25,
         "AccountID": 96384,
-        "BatchID": 7,
-        "WeightUnit": 12,
-        "CreateUser": {"xsi:nil": true},
-        "BatchDate": "2013-04-01T00:00:00"
-    },
-    {
-        "PerformanceParameterID": 269,
-        "CurrencyUnit": 25,
-        "AccountID": 96384,
-        "BatchID": 22,
-        "WeightUnit": 12,
-        "CreateUser": {"xsi:nil": true},
-        "BatchDate": "2013-07-01T00:00:00"
-    },
-    {
-        "PerformanceParameterID": 269,
-        "CurrencyUnit": 25,
-        "AccountID": 96384,
-        "BatchID": 28,
-        "WeightUnit": 12,
-        "CreateUser": {"xsi:nil": true},
-        "BatchDate": "2013-08-01T00:00:00"
-    },
-    {
-        "PerformanceParameterID": 157,
-        "CurrencyUnit": 25,
-        "AccountID": 96384,
-        "BatchID": 44,
-        "WeightUnit": 12,
-        "CreateUser": {"xsi:nil": true},
-        "BatchDate": "2013-11-01T00:00:00"
-    },
-    {
+        "BatchDate": "2012-10-01T00:00:00",
         "PerformanceParameterID": 164,
-        "CurrencyUnit": 25,
-        "AccountID": 96384,
-        "BatchID": 64,
         "WeightUnit": 12,
-        "CreateUser": {"xsi:nil": true},
-        "BatchDate": "2014-03-01T00:00:00"
+        "CurrencyUnit": 25,
+        "CreateUser": null,
+        "CloseOutData": null,
+        "MortalityData": null,
+        "CullData": null
     },
     {
-        "PerformanceParameterID": 157,
-        "CurrencyUnit": 25,
+        "BatchID": 7,
         "AccountID": 96384,
-        "BatchID": 114,
+        "BatchDate": "2013-04-01T00:00:00",
+        "PerformanceParameterID": 157,
         "WeightUnit": 12,
-        "CreateUser": {"xsi:nil": true},
-        "BatchDate": "2017-11-01T00:00:00"
+        "CurrencyUnit": 25,
+        "CreateUser": null,
+        "CloseOutData": null,
+        "MortalityData": null,
+        "CullData": null
+    },
+    {
+        "BatchID": 22,
+        "AccountID": 96384,
+        "BatchDate": "2013-07-01T00:00:00",
+        "PerformanceParameterID": 269,
+        "WeightUnit": 12,
+        "CurrencyUnit": 25,
+        "CreateUser": null,
+        "CloseOutData": null,
+        "MortalityData": null,
+        "CullData": null
+    },
+    {
+        "BatchID": 28,
+        "AccountID": 96384,
+        "BatchDate": "2013-08-01T00:00:00",
+        "PerformanceParameterID": 269,
+        "WeightUnit": 12,
+        "CurrencyUnit": 25,
+        "CreateUser": null,
+        "CloseOutData": null,
+        "MortalityData": null,
+        "CullData": null
+    },
+    {
+        "BatchID": 44,
+        "AccountID": 96384,
+        "BatchDate": "2013-11-01T00:00:00",
+        "PerformanceParameterID": 157,
+        "WeightUnit": 12,
+        "CurrencyUnit": 25,
+        "CreateUser": null,
+        "CloseOutData": null,
+        "MortalityData": null,
+        "CullData": null
+    },
+    {
+        "BatchID": 64,
+        "AccountID": 96384,
+        "BatchDate": "2014-03-01T00:00:00",
+        "PerformanceParameterID": 164,
+        "WeightUnit": 12,
+        "CurrencyUnit": 25,
+        "CreateUser": null,
+        "CloseOutData": null,
+        "MortalityData": null,
+        "CullData": null
+    },
+    {
+        "BatchID": 114,
+        "AccountID": 96384,
+        "BatchDate": "2017-11-01T00:00:00",
+        "PerformanceParameterID": 157,
+        "WeightUnit": 12,
+        "CurrencyUnit": 25,
+        "CreateUser": null,
+        "CloseOutData": null,
+        "MortalityData": null,
+        "CullData": null
+    },
+    {
+        "BatchID": 124,
+        "AccountID": 96384,
+        "BatchDate": "2020-12-01T00:00:00",
+        "PerformanceParameterID": 276,
+        "WeightUnit": 12,
+        "CurrencyUnit": 25,
+        "CreateUser": null,
+        "CloseOutData": null,
+        "MortalityData": null,
+        "CullData": null
     }
-]}
+]
