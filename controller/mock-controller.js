@@ -128,3 +128,7 @@ exports.getOMWPerformanceResponse = (req, res) => {
 exports.getBlockedDataResponse = (req, res) => {
     mockService.getBlockedDataResponse(req, res);
 }
+
+exports.getTysonPaymentGridResponse = (req, res) => {
+    mockService.getTysonPaymentGridResponse(req, res);
+}

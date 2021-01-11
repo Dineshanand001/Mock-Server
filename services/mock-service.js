@@ -30,6 +30,7 @@ const loginResponse = require("./../mockdata/LoginResponse.json");
 const getOMWPaymentGridResponse = require("./../mockdata/GetOMWPaymentGridResposne.json");
 const getOMWPerformanceResponse = require("./../mockdata/GetOMWPerformanceResponse.json");
 const getBlockedDataResponse = require("./../mockdata/GetBlockedDataResponse.json");
+const getTysonPaymentGridResponse = require("./../mockdata/GetTysonPaymentGridResponse.json")
 
 exports.getAdjustmentResponse = (req, res) => {
     res.json(getAdjustmentResponse)
@@ -159,4 +160,8 @@ exports.getOMWPerformanceResponse = (req, res) => {
 
 exports.getBlockedDataResponse = (req, res) => {
     res.json(getBlockedDataResponse)
+}
+
+exports.getTysonPaymentGridResponse = (req, res) => {
+    res.json(getTysonPaymentGridResponse)
 }
