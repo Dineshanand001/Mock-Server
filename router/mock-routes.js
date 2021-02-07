@@ -12,11 +12,11 @@ router.get('/getadjustment', (req, res) => {
     mockController.getAdjustmentResponse(req,res);
 })
 
-router.get('/getattritionlitebatch', (req, res) => {
+router.post('/getattritionlitebatch', (req, res) => {
     mockController.getAttritionLiteBatchResponse(req,res);
 })
 
-router.get('/getattritionlitedata', (req, res) => {
+router.post('/getattritionlitedata', (req, res) => {
     mockController.getAttritionLiteDataResponse(req,res);
 })
 
