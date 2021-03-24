@@ -140,4 +140,8 @@ router.get('/getTysonPaymentGrid', (req, res) => {
     mockController.getTysonPaymentGridResponse(req,res);
 })
 
+router.get('/api/generatePowerpointAsByte', (req, res) => {
+    mockController.generatePowerpointAsByteResponse(req, res);
+})
+
 module.exports = router;

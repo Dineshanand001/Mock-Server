@@ -132,3 +132,7 @@ exports.getBlockedDataResponse = (req, res) => {
 exports.getTysonPaymentGridResponse = (req, res) => {
     mockService.getTysonPaymentGridResponse(req, res);
 }
+
+exports.generatePowerpointAsByteResponse = (req, res) => {
+    mockService.generatePowerpointAsByteResponse(req, res);
+}
